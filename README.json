@@ -14,7 +14,7 @@
             "last_commit": "2026-06-07T17:08:15Z",
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1619
+            "stars": 1622
           }
         },
         {
@@ -2148,7 +2148,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-07-02T11:28:00Z",
+                "last_commit": "2026-08-13T09:55:49Z",
                 "owner": "rime",
                 "repo": "rime-cantonese",
                 "stars": 669
@@ -3332,7 +3332,7 @@
             "last_commit": "2026-08-02T15:27:27Z",
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 18804
+            "stars": 18812
           }
         },
         {
@@ -3346,7 +3346,7 @@
             "last_commit": "2026-08-03T08:39:19Z",
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3545
+            "stars": 3546
           }
         },
         {
@@ -3598,7 +3598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:22:26.495Z",
+    "last_updated": "2026-08-13T10:17:25.515Z",
     "original_repository": "ayaka14732/awesome-rime",
     "original_repository_sha": "3d8361253e239075e430d9e64baa020ad3c1a186",
     "enhanced_repository": "enhansome/enhansome-rime",
