@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-12T20:33:59Z",
+            "last_commit": "2026-08-14T20:21:56Z",
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
             "stars": 40
@@ -2480,7 +2480,7 @@
             "last_commit": "2026-06-22T13:52:22Z",
             "owner": "tumuyan",
             "repo": "rime-pinyin-jap",
-            "stars": 206
+            "stars": 207
           }
         },
         {
@@ -3332,7 +3332,7 @@
             "last_commit": "2026-08-13T16:10:07Z",
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 18826
+            "stars": 18841
           }
         },
         {
@@ -3346,7 +3346,7 @@
             "last_commit": "2026-08-03T08:39:19Z",
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3549
+            "stars": 3550
           }
         },
         {
@@ -3374,7 +3374,7 @@
             "last_commit": "2026-07-09T12:34:50Z",
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1030
+            "stars": 1029
           }
         },
         {
@@ -3385,10 +3385,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-12T15:36:21Z",
+            "last_commit": "2026-08-14T17:03:17Z",
             "owner": "rimeinn",
             "repo": "rime-moran",
-            "stars": 327
+            "stars": 326
           }
         }
       ],
@@ -3422,7 +3422,7 @@
             "last_commit": "2026-05-21T07:54:39Z",
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 262
+            "stars": 263
           }
         },
         {
@@ -3598,7 +3598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:12:52.679Z",
+    "last_updated": "2026-08-15T09:33:32.151Z",
     "original_repository": "ayaka14732/awesome-rime",
     "original_repository_sha": "3d8361253e239075e430d9e64baa020ad3c1a186",
     "enhanced_repository": "enhansome/enhansome-rime",
