@@ -14,7 +14,7 @@
             "last_commit": "2026-06-07T17:08:15Z",
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1624
+            "stars": 1625
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2018-04-07T02:12:32Z",
             "owner": "lotem",
             "repo": "rime-wubi98",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -852,7 +852,7 @@
             "last_commit": "2026-08-15T21:15:24Z",
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
-            "stars": 321
+            "stars": 322
           }
         },
         {
@@ -1003,10 +1003,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-10T15:36:42Z",
+            "last_commit": "2026-08-16T15:44:31Z",
             "owner": "arsenali",
             "repo": "rime-triple-pinyin-lssp",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -1123,20 +1123,6 @@
         },
         {
           "node_type": "item",
-          "title": "5 baopaau/rime-pinyin-translating",
-          "description": "Rime 輸入方案；從漢語拼音即時轉寫其他注音文字（包括注音符號、國語羅馬字，基於地球拼音碼表）",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-12-09T09:05:23Z",
-            "owner": "baopaau",
-            "repo": "rime-pinyin-translating",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
           "title": "5 qpng/tyungrua",
           "description": "中華拼音輸入方案",
           "children": [],
@@ -1146,6 +1132,20 @@
             "last_commit": "2021-01-30T17:58:10Z",
             "owner": "qpng",
             "repo": "tyungrua",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5 baopaau/rime-pinyin-translating",
+          "description": "Rime 輸入方案；從漢語拼音即時轉寫其他注音文字（包括注音符號、國語羅馬字，基於地球拼音碼表）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-09T09:05:23Z",
+            "owner": "baopaau",
+            "repo": "rime-pinyin-translating",
             "stars": 5
           }
         },
@@ -2494,7 +2494,7 @@
             "last_commit": "2021-01-28T09:05:30Z",
             "owner": "rime",
             "repo": "rime-ipa",
-            "stars": 74
+            "stars": 75
           }
         },
         {
@@ -3332,7 +3332,7 @@
             "last_commit": "2026-08-13T16:10:07Z",
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 18854
+            "stars": 18870
           }
         },
         {
@@ -3346,7 +3346,7 @@
             "last_commit": "2026-08-16T08:39:46Z",
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3551
+            "stars": 3556
           }
         },
         {
@@ -3371,10 +3371,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-07-09T12:34:50Z",
+            "last_commit": "2026-08-16T11:44:33Z",
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1027
+            "stars": 1028
           }
         },
         {
@@ -3419,10 +3419,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-21T07:54:39Z",
+            "last_commit": "2026-08-16T11:56:26Z",
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 263
+            "stars": 265
           }
         },
         {
@@ -3598,7 +3598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:34:51.756Z",
+    "last_updated": "2026-08-17T09:52:04.414Z",
     "original_repository": "ayaka14732/awesome-rime",
     "original_repository_sha": "3d8361253e239075e430d9e64baa020ad3c1a186",
     "enhanced_repository": "enhansome/enhansome-rime",
