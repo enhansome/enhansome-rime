@@ -14,7 +14,7 @@
             "last_commit": "2026-06-07T17:08:15Z",
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1625
+            "stars": 1624
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-30T09:54:32Z",
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1107
+            "stars": 1108
           }
         },
         {
@@ -838,7 +838,7 @@
             "last_commit": "2025-09-23T17:09:01Z",
             "owner": "rime",
             "repo": "rime-double-pinyin",
-            "stars": 467
+            "stars": 468
           }
         },
         {
@@ -849,7 +849,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-15T21:15:24Z",
+            "last_commit": "2026-08-17T18:29:25Z",
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
             "stars": 322
@@ -2151,7 +2151,7 @@
                 "last_commit": "2026-08-13T09:55:49Z",
                 "owner": "rime",
                 "repo": "rime-cantonese",
-                "stars": 669
+                "stars": 670
               }
             },
             {
@@ -2452,7 +2452,7 @@
             "last_commit": "2024-07-12T09:01:34Z",
             "owner": "gkovacs",
             "repo": "rime-japanese",
-            "stars": 399
+            "stars": 400
           }
         },
         {
@@ -3332,7 +3332,7 @@
             "last_commit": "2026-08-13T16:10:07Z",
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 18870
+            "stars": 18884
           }
         },
         {
@@ -3343,10 +3343,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-16T08:39:46Z",
+            "last_commit": "2026-08-18T05:27:50Z",
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3556
+            "stars": 3558
           }
         },
         {
@@ -3374,7 +3374,7 @@
             "last_commit": "2026-08-16T11:44:33Z",
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1028
+            "stars": 1030
           }
         },
         {
@@ -3385,7 +3385,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-14T17:03:17Z",
+            "last_commit": "2026-08-17T18:19:00Z",
             "owner": "rimeinn",
             "repo": "rime-moran",
             "stars": 326
@@ -3419,7 +3419,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T11:56:26Z",
+            "last_commit": "2026-08-18T01:38:31Z",
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
             "stars": 265
@@ -3436,7 +3436,7 @@
             "last_commit": "2025-04-03T22:17:35Z",
             "owner": "shenlebantongying",
             "repo": "rime_latex",
-            "stars": 97
+            "stars": 98
           }
         },
         {
@@ -3598,7 +3598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:52:04.414Z",
+    "last_updated": "2026-08-18T09:41:27.713Z",
     "original_repository": "ayaka14732/awesome-rime",
     "original_repository_sha": "3d8361253e239075e430d9e64baa020ad3c1a186",
     "enhanced_repository": "enhansome/enhansome-rime",
