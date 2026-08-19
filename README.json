@@ -3496,7 +3496,7 @@
             "last_commit": "2026-08-13T16:10:07Z",
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 18897
+            "stars": 18903
           }
         },
         {
@@ -3780,8 +3780,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:41:58.041Z",
+    "last_updated": "2026-08-19T12:50:01.884Z",
     "original_repository": "ayaka14732/awesome-rime",
+    "original_repository_id": 214790541,
     "original_repository_sha": "c059fadf2565901794f6e9a80971270c1de21daa",
     "enhanced_repository": "enhansome/enhansome-rime",
     "enhanced_repository_description": null,
