@@ -1,43 +1,46 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "1618 KyleBing/rime-wubi86-jidian",
+          "title": "1626 KyleBing/rime-wubi86-jidian",
           "description": "86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173078784,
             "language": "Lua",
             "last_commit": "2026-06-07T17:08:15Z",
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1624
+            "stars": 1626
           }
         },
         {
           "node_type": "item",
-          "title": "1107 SivanLaai/rime_pure: rime配置",
+          "title": "1110 SivanLaai/rime_pure: rime配置",
           "description": "【rime小狼毫\\trime同文：手机/PC一站式配置】九宫格双拼、四叶草九宫格拼音、四叶草拼音、小鹤双拼、极品五笔、QQ五笔、徐码、郑码",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300808002,
             "language": "C++",
             "last_commit": "2026-07-30T09:54:32Z",
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1108
+            "stars": 1110
           }
         },
         {
           "node_type": "item",
-          "title": "336 rime/rime-wubi",
+          "title": "337 rime/rime-wubi",
           "description": "【五筆字型】輸入方案",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74138939,
             "language": null,
             "last_commit": "2024-01-05T04:04:04Z",
             "owner": "rime",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67684421,
             "language": null,
             "last_commit": "2019-06-13T09:40:41Z",
             "owner": "brglng",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18350054,
             "language": null,
             "last_commit": "2014-07-21T03:41:09Z",
             "owner": "nlimpid",
@@ -75,13 +80,14 @@
         },
         {
           "node_type": "item",
-          "title": "130 xkinput/Rime_JD",
+          "title": "132 xkinput/Rime_JD",
           "description": "星空键道6｜详尽操作指南：https://pingshunhuangalex.gitbook.io/rime-xkjd",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247484607,
             "language": "Lua",
-            "last_commit": "2026-08-12T02:00:15Z",
+            "last_commit": "2026-08-19T02:00:17Z",
             "owner": "xkinput",
             "repo": "KeyTao",
             "stars": 132
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203486305,
             "language": "Lua",
             "last_commit": "2022-02-17T00:58:43Z",
             "owner": "Ace-Who",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163810403,
             "language": "Lua",
             "last_commit": "2025-07-10T15:28:49Z",
             "owner": "yanhuacuo",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167938169,
             "language": "Lua",
             "last_commit": "2025-11-05T16:12:09Z",
             "owner": "bigshans",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74138622,
             "language": "Python",
             "last_commit": "2026-06-01T12:41:51Z",
             "owner": "rime",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 443519110,
             "language": "Lua",
             "last_commit": "2026-05-21T01:47:13Z",
             "owner": "ywxt",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237572871,
             "language": "HTML",
             "last_commit": "2025-11-27T05:38:53Z",
             "owner": "YQ-YSY",
@@ -178,8 +190,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342135737,
             "language": "Lua",
-            "last_commit": "2026-08-15T20:11:43Z",
+            "last_commit": "2026-08-18T20:12:41Z",
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
             "stars": 40
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 673396094,
             "language": "Python",
             "last_commit": "2023-08-13T09:18:02Z",
             "owner": "JeffChien",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37473011,
             "language": null,
             "last_commit": "2017-12-28T01:28:34Z",
             "owner": "acevery",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78027083,
             "language": "VimL",
             "last_commit": "2019-01-09T12:56:32Z",
             "owner": "GongMu",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192234118,
             "language": null,
             "last_commit": "2022-10-31T03:53:11Z",
             "owner": "Openvingen",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125035603,
             "language": null,
             "last_commit": "2025-09-05T04:07:25Z",
             "owner": "momijineko",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74138982,
             "language": null,
             "last_commit": "2024-08-11T10:01:14Z",
             "owner": "rime",
@@ -271,11 +290,12 @@
         },
         {
           "node_type": "item",
-          "title": "20 lotem/rime-wubi98",
+          "title": "21 lotem/rime-wubi98",
           "description": "五筆98版 Rime 輸入方案",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77331991,
             "language": null,
             "last_commit": "2018-04-07T02:12:32Z",
             "owner": "lotem",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34233407,
             "language": "Python",
             "last_commit": "2025-10-05T15:41:08Z",
             "owner": "allencch",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302596377,
             "language": null,
             "last_commit": "2020-12-15T18:06:35Z",
             "owner": "raines1220",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141218995,
             "language": null,
             "last_commit": "2026-04-22T09:54:32Z",
             "owner": "philipposkhos",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 285144470,
             "language": "Python",
             "last_commit": "2022-03-03T14:26:02Z",
             "owner": "CanCLID",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267928776,
             "language": "Lua",
             "last_commit": "2025-04-06T04:20:40Z",
             "owner": "IT1187541749",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61268347,
             "language": "Python",
             "last_commit": "2026-07-08T06:56:05Z",
             "owner": "zongxinbo",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74138685,
             "language": null,
             "last_commit": "2026-07-17T03:53:23Z",
             "owner": "rime",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224592482,
             "language": null,
             "last_commit": "2020-03-27T09:14:50Z",
             "owner": "zhmars",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203092188,
             "language": null,
             "last_commit": "2023-03-06T13:20:58Z",
             "owner": "X1aomu",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230098484,
             "language": null,
             "last_commit": "2024-09-23T04:26:52Z",
             "owner": "arzyu",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 394711823,
             "language": "Lua",
             "last_commit": "2021-10-07T06:55:24Z",
             "owner": "ywxt",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157548086,
             "language": null,
             "last_commit": "2019-09-12T03:12:11Z",
             "owner": "Joey-Li",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43426156,
             "language": null,
             "last_commit": "2015-09-30T10:12:28Z",
             "owner": "chiahsien",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74007095,
             "language": null,
             "last_commit": "2016-12-02T11:19:16Z",
             "owner": "liming2013",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74139051,
             "language": null,
             "last_commit": "2019-01-20T14:33:18Z",
             "owner": "rime",
@@ -500,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157696264,
             "language": "Python",
             "last_commit": "2020-12-13T01:28:06Z",
             "owner": "byujiang",
@@ -514,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33028263,
             "language": null,
             "last_commit": "2015-07-22T10:15:20Z",
             "owner": "daya-prac",
@@ -528,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151431168,
             "language": "Lua",
             "last_commit": "2025-07-01T20:27:34Z",
             "owner": "arpcn",
@@ -542,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171821868,
             "language": null,
             "last_commit": "2019-08-24T09:26:30Z",
             "owner": "Drgiceake",
@@ -556,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45160678,
             "language": null,
             "last_commit": "2020-03-31T00:07:39Z",
             "owner": "vfreex",
@@ -570,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 309935229,
             "language": null,
             "last_commit": "2020-11-04T09:36:20Z",
             "owner": "sypxf",
@@ -579,11 +620,12 @@
         },
         {
           "node_type": "item",
-          "title": "4 yangzhaoyunfei/rime-xfsm",
+          "title": "5 yangzhaoyunfei/rime-xfsm",
           "description": "【西风瘦码】 Rime輸入方案",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220994680,
             "language": "Lua",
             "last_commit": "2020-03-09T05:29:50Z",
             "owner": "ethantang1024",
@@ -598,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96665462,
             "language": null,
             "last_commit": "2017-07-14T12:36:21Z",
             "owner": "hchunhui",
@@ -612,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195370760,
             "language": "Python",
             "last_commit": "2024-03-13T12:13:52Z",
             "owner": "zekexiao",
@@ -626,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136854491,
             "language": "Python",
             "last_commit": "2026-01-24T13:50:31Z",
             "owner": "ionkaon",
@@ -640,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256408681,
             "language": null,
             "last_commit": "2026-08-02T09:51:28Z",
             "owner": "szc126",
@@ -654,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170518338,
             "language": null,
             "last_commit": "2019-02-16T14:04:52Z",
             "owner": "whjiang",
@@ -668,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294303769,
             "language": null,
             "last_commit": "2022-02-01T00:05:45Z",
             "owner": "Schummacher",
@@ -682,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128300066,
             "language": null,
             "last_commit": "2018-04-30T15:43:39Z",
             "owner": "dzyht",
@@ -696,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70691683,
             "language": null,
             "last_commit": "2016-10-12T11:12:49Z",
             "owner": "runapp",
@@ -710,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208627478,
             "language": null,
             "last_commit": "2021-02-03T02:13:09Z",
             "owner": "Reniastyc",
@@ -724,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127936358,
             "language": null,
             "last_commit": "2018-07-22T06:32:43Z",
             "owner": "dzyht",
@@ -738,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55890062,
             "language": null,
             "last_commit": "2018-04-07T01:56:54Z",
             "owner": "lotem",
@@ -752,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279806923,
             "language": null,
             "last_commit": "2020-07-15T08:19:36Z",
             "owner": "PokeGuys",
@@ -766,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82684579,
             "language": null,
             "last_commit": "2017-06-06T08:21:29Z",
             "owner": "chengen12",
@@ -780,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94227314,
             "language": null,
             "last_commit": "2017-06-20T01:39:52Z",
             "owner": "cmal",
@@ -794,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77332058,
             "language": null,
             "last_commit": "2016-12-25T17:19:53Z",
             "owner": "lotem",
@@ -808,32 +865,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 760906281,
             "language": null,
             "last_commit": "2024-02-24T19:15:03Z",
             "owner": "saeziae",
             "repo": "rime-double-pinyin",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "0 lanluoxiao/c42",
-          "description": "形音四二顶输入方案",
-          "children": []
         }
       ],
       "title": "形碼・音形"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "467 rime/rime-double-pinyin",
+          "title": "468 rime/rime-double-pinyin",
           "description": "雙拼輸入方案",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74137551,
             "language": null,
             "last_commit": "2025-09-23T17:09:01Z",
             "owner": "rime",
@@ -843,13 +896,14 @@
         },
         {
           "node_type": "item",
-          "title": "320 oniondelta/Onion_Rime_Files",
+          "title": "322 oniondelta/Onion_Rime_Files",
           "description": "Rime 注音&拼音 \"洋蔥\" 方案（四個注音、一個拼音、兩個形碼）",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292112591,
             "language": "Lua",
-            "last_commit": "2026-08-17T18:29:25Z",
+            "last_commit": "2026-08-18T13:56:45Z",
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
             "stars": 322
@@ -862,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74136678,
             "language": null,
             "last_commit": "2026-07-12T05:01:55Z",
             "owner": "rime",
@@ -876,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122933473,
             "language": null,
             "last_commit": "2020-04-30T13:50:32Z",
             "owner": "zhangheng18",
@@ -890,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74137485,
             "language": null,
             "last_commit": "2024-12-29T09:47:36Z",
             "owner": "rime",
@@ -904,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74137037,
             "language": null,
             "last_commit": "2026-07-17T03:31:44Z",
             "owner": "rime",
@@ -918,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218997231,
             "language": null,
             "last_commit": "2025-07-11T16:55:12Z",
             "owner": "imper0502",
@@ -932,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248426967,
             "language": null,
             "last_commit": "2022-08-27T16:54:08Z",
             "owner": "hosxy",
@@ -946,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131767773,
             "language": null,
             "last_commit": "2025-07-20T09:10:56Z",
             "owner": "andy0130tw",
@@ -955,11 +1016,12 @@
         },
         {
           "node_type": "item",
-          "title": "57 rime/rime-combo-pinyin",
+          "title": "58 rime/rime-combo-pinyin",
           "description": "【宮保拼音】輸入方案",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74137651,
             "language": null,
             "last_commit": "2026-06-01T12:43:55Z",
             "owner": "rime",
@@ -974,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74137188,
             "language": null,
             "last_commit": "2026-05-09T10:33:20Z",
             "owner": "rime",
@@ -988,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35462967,
             "language": null,
             "last_commit": "2021-04-02T14:38:42Z",
             "owner": "zaqzrh",
@@ -997,13 +1061,14 @@
         },
         {
           "node_type": "item",
-          "title": "12 arsenali/rime-triple-pinyin-lssp",
+          "title": "13 arsenali/rime-triple-pinyin-lssp",
           "description": "李氏三拼方案，按“声、韵、调”三码输入一个带调音节，15键内无重音",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469109402,
             "language": "Lua",
-            "last_commit": "2026-08-16T15:44:31Z",
+            "last_commit": "2026-08-18T17:45:56Z",
             "owner": "arsenali",
             "repo": "rime-triple-pinyin-lssp",
             "stars": 13
@@ -1016,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62962990,
             "language": null,
             "last_commit": "2016-07-23T11:13:55Z",
             "owner": "jacob-us",
@@ -1030,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287308539,
             "language": "C++",
             "last_commit": "2020-09-16T12:12:18Z",
             "owner": "ayaka14732",
@@ -1044,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289415647,
             "language": "Lua",
             "last_commit": "2024-11-05T11:59:00Z",
             "owner": "baopaau",
@@ -1058,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189781543,
             "language": null,
             "last_commit": "2022-08-18T15:30:46Z",
             "owner": "waveform",
@@ -1072,6 +1141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66533977,
             "language": null,
             "last_commit": "2025-06-07T13:26:33Z",
             "owner": "fuzy112",
@@ -1086,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74137777,
             "language": null,
             "last_commit": "2025-10-09T04:21:34Z",
             "owner": "rime",
@@ -1100,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316709103,
             "language": null,
             "last_commit": "2024-10-14T17:52:34Z",
             "owner": "baopaau",
@@ -1114,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242673953,
             "language": "Python",
             "last_commit": "2023-05-03T06:51:06Z",
             "owner": "gkovacs",
@@ -1123,11 +1196,12 @@
         },
         {
           "node_type": "item",
-          "title": "5 qpng/tyungrua",
+          "title": "6 qpng/tyungrua",
           "description": "中華拼音輸入方案",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264771014,
             "language": null,
             "last_commit": "2021-01-30T17:58:10Z",
             "owner": "qpng",
@@ -1142,6 +1216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288444112,
             "language": null,
             "last_commit": "2020-12-09T09:05:23Z",
             "owner": "baopaau",
@@ -1156,6 +1231,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74422168,
             "language": null,
             "last_commit": "2016-11-22T01:35:47Z",
             "owner": "tsauibusato",
@@ -1170,6 +1246,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316567480,
             "language": null,
             "last_commit": "2021-03-11T05:27:49Z",
             "owner": "baopaau",
@@ -1184,6 +1261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301550307,
             "language": null,
             "last_commit": "2021-11-24T04:30:35Z",
             "owner": "zhanghaozhecn",
@@ -1198,6 +1276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289941963,
             "language": null,
             "last_commit": "2020-11-27T20:44:01Z",
             "owner": "baopaau",
@@ -1212,48 +1291,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316566939,
             "language": null,
             "last_commit": "2020-12-08T21:23:39Z",
             "owner": "baopaau",
             "repo": "rime-mps2",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "0 baopaau/rime-iac-mps",
-          "description": "iac新國音",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "0 baopaau/rime-luormaazih",
-          "description": "Rime 輸入方案 類國語羅馬字簡版（聲調異拼表示／基於地球拼音碼表／非標準方案）",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "0 baopaau/rime-rola-pinyin",
-          "description": "Rime 輸入方案 不用數字或符號表示聲調，類似國語羅馬字",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "0 elxy/meow_mspy",
-          "description": "Rime 猫颜双拼输入方案，结合了微软双拼与猫老师 @_ym 的猫颜文字词库的输入方案，同时支持英文输入与笔划反查。",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "0 jakwings/rime-xyz",
-          "description": "J.W的個人rime方案集，包括泥巴拼音（muddy-pinyin）、扩展拼音（pinyin-ext）、特殊字符（symbols）、化学离子式输入、平假名（hiragana）片假名（katakana）",
-          "children": []
         }
       ],
       "title": "音碼"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -1267,6 +1317,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 585748497,
                 "language": null,
                 "last_commit": "2026-06-24T16:47:47Z",
                 "owner": "Hulenkius",
@@ -1288,6 +1339,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 470453345,
                 "language": null,
                 "last_commit": "2026-02-12T15:35:44Z",
                 "owner": "nk2028",
@@ -1302,6 +1354,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 74897304,
                 "language": null,
                 "last_commit": "2021-03-26T07:14:30Z",
                 "owner": "biopolyhedron",
@@ -1316,6 +1369,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 351649388,
                 "language": "Python",
                 "last_commit": "2022-04-15T07:06:26Z",
                 "owner": "nk2028",
@@ -1330,6 +1384,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 82054111,
                 "language": null,
                 "last_commit": "2019-06-24T14:33:15Z",
                 "owner": "rime-aca",
@@ -1344,6 +1399,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 333795947,
                 "language": null,
                 "last_commit": "2021-01-28T15:14:49Z",
                 "owner": "shinzoqchiuq",
@@ -1358,6 +1414,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 82054527,
                 "language": null,
                 "last_commit": "2017-02-15T11:49:40Z",
                 "owner": "rime-aca",
@@ -1372,6 +1429,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 82054080,
                 "language": null,
                 "last_commit": "2017-02-15T11:50:12Z",
                 "owner": "rime-aca",
@@ -1386,6 +1444,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 447585781,
                 "language": null,
                 "last_commit": "2026-07-27T00:11:50Z",
                 "owner": "uliloewi",
@@ -1400,6 +1459,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 77287728,
                 "language": "HTML",
                 "last_commit": "2026-06-23T09:16:33Z",
                 "owner": "inzoi",
@@ -1426,6 +1486,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 3649363,
                     "language": null,
                     "last_commit": "2026-07-02T15:30:37Z",
                     "owner": "lotem",
@@ -1440,6 +1501,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 14066841,
                     "language": null,
                     "last_commit": "2016-04-03T17:29:22Z",
                     "owner": "Patricivs",
@@ -1454,6 +1516,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 66741570,
                     "language": null,
                     "last_commit": "2016-10-02T12:30:54Z",
                     "owner": "tsauibusato",
@@ -1470,11 +1533,12 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "8 uliloewi/lang2jin1",
+                  "title": "9 uliloewi/lang2jin1",
                   "description": "南京話拼音输入法",
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 169585833,
                     "language": null,
                     "last_commit": "2026-07-13T15:02:08Z",
                     "owner": "uliloewi",
@@ -1489,6 +1553,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 192996735,
                     "language": null,
                     "last_commit": "2020-02-13T13:43:51Z",
                     "owner": "gaozhiyan",
@@ -1503,6 +1568,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 272956731,
                     "language": null,
                     "last_commit": "2020-06-17T11:36:01Z",
                     "owner": "osfans",
@@ -1517,6 +1583,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 669343389,
                     "language": null,
                     "last_commit": "2023-07-24T03:25:00Z",
                     "owner": "Sonner114514",
@@ -1538,6 +1605,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 146390286,
                     "language": null,
                     "last_commit": "2022-04-21T08:02:29Z",
                     "owner": "Papnas",
@@ -1552,6 +1620,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 176270177,
                     "language": null,
                     "last_commit": "2021-02-15T04:49:08Z",
                     "owner": "yuxifongfei",
@@ -1566,6 +1635,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 369035689,
                     "language": null,
                     "last_commit": "2023-01-21T07:12:47Z",
                     "owner": "shinzoqchiuq",
@@ -1587,6 +1657,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 839768544,
                     "language": null,
                     "last_commit": "2024-10-20T08:06:36Z",
                     "owner": "baopaau",
@@ -1610,6 +1681,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 434903832,
                 "language": null,
                 "last_commit": "2023-10-09T13:48:46Z",
                 "owner": "Hynuza",
@@ -1624,6 +1696,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 108528386,
                 "language": null,
                 "last_commit": "2022-05-09T02:33:27Z",
                 "owner": "iaoiezaon",
@@ -1645,6 +1718,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 161583425,
                 "language": null,
                 "last_commit": "2026-07-24T01:58:15Z",
                 "owner": "NGLI",
@@ -1659,6 +1733,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 174667687,
                 "language": null,
                 "last_commit": "2026-06-05T07:23:53Z",
                 "owner": "NGLI",
@@ -1668,11 +1743,12 @@
             },
             {
               "node_type": "item",
-              "title": "36 edward-martyr/rime-yahwe_zaonhe",
+              "title": "37 edward-martyr/rime-yahwe_zaonhe",
               "description": "吳語協會式上海話輸入法",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 180562627,
                 "language": null,
                 "last_commit": "2023-06-03T18:36:58Z",
                 "owner": "yuanhao-chen-nyoeghau",
@@ -1687,6 +1763,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 661475441,
                 "language": "SCSS",
                 "last_commit": "2023-08-30T03:57:15Z",
                 "owner": "ZWolken",
@@ -1701,6 +1778,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 74138034,
                 "language": null,
                 "last_commit": "2026-06-18T03:47:00Z",
                 "owner": "rime",
@@ -1715,6 +1793,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 259520230,
                 "language": "Python",
                 "last_commit": "2026-01-24T13:31:57Z",
                 "owner": "saeziae",
@@ -1729,6 +1808,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 174655650,
                 "language": null,
                 "last_commit": "2026-05-25T03:21:48Z",
                 "owner": "NGLI",
@@ -1743,6 +1823,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 243258990,
                 "language": null,
                 "last_commit": "2025-09-05T08:34:00Z",
                 "owner": "shinzoqchiuq",
@@ -1757,6 +1838,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 74138100,
                 "language": null,
                 "last_commit": "2019-01-20T14:33:44Z",
                 "owner": "rime",
@@ -1771,6 +1853,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 441619256,
                 "language": null,
                 "last_commit": "2026-01-18T13:53:54Z",
                 "owner": "ionkaon",
@@ -1785,6 +1868,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1136207959,
                 "language": null,
                 "last_commit": "2026-01-18T13:54:04Z",
                 "owner": "ionkaon",
@@ -1799,6 +1883,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 445821097,
                 "language": null,
                 "last_commit": "2026-03-22T15:27:52Z",
                 "owner": "ionkaon",
@@ -1813,6 +1898,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 129612468,
                 "language": null,
                 "last_commit": "2018-04-15T13:34:35Z",
                 "owner": "lotem",
@@ -1827,6 +1913,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 338553111,
                 "language": null,
                 "last_commit": "2021-05-08T09:52:56Z",
                 "owner": "pearapple123",
@@ -1841,6 +1928,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 174638845,
                 "language": null,
                 "last_commit": "2026-05-25T03:21:46Z",
                 "owner": "NGLI",
@@ -1862,6 +1950,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 516391076,
                 "language": null,
                 "last_commit": "2026-06-15T09:15:40Z",
                 "owner": "AlfredLouis00",
@@ -1883,6 +1972,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 47263861,
                 "language": null,
                 "last_commit": "2019-02-18T12:21:29Z",
                 "owner": "kahaani",
@@ -1897,6 +1987,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 60600200,
                 "language": null,
                 "last_commit": "2020-07-09T18:00:21Z",
                 "owner": "a-thok",
@@ -1911,6 +2002,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 381368295,
                 "language": "Python",
                 "last_commit": "2022-07-15T06:37:22Z",
                 "owner": "whyjz",
@@ -1925,6 +2017,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 324831395,
                 "language": null,
                 "last_commit": "2021-05-17T00:05:39Z",
                 "owner": "YuRen-tw",
@@ -1939,6 +2032,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 461372701,
                 "language": "Lua",
                 "last_commit": "2026-07-05T16:00:26Z",
                 "owner": "OpenTeochew",
@@ -1953,6 +2047,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 372075021,
                 "language": "Python",
                 "last_commit": "2025-09-13T18:12:15Z",
                 "owner": "Language-Preservation-Community",
@@ -1967,6 +2062,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 45334494,
                 "language": null,
                 "last_commit": "2016-01-10T10:52:31Z",
                 "owner": "femkerr",
@@ -1981,6 +2077,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 244589180,
                 "language": null,
                 "last_commit": "2025-03-15T07:48:29Z",
                 "owner": "unsioer",
@@ -1995,6 +2092,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 366680302,
                 "language": null,
                 "last_commit": "2021-05-12T10:40:24Z",
                 "owner": "yangwenbo99",
@@ -2009,6 +2107,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 129757414,
                 "language": null,
                 "last_commit": "2018-06-30T08:55:02Z",
                 "owner": "LimTo",
@@ -2023,18 +2122,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1221613700,
                 "language": "Lua",
                 "last_commit": "2026-05-04T11:26:57Z",
                 "owner": "hokkien-writing",
                 "repo": "rime-hokkien",
                 "stars": 2
               }
-            },
-            {
-              "node_type": "item",
-              "title": "0 i3thuan5/rime-taigi",
-              "description": "Rime台語輸入法詞表 (Taiwanese Input Schema for Rime)",
-              "children": []
             }
           ]
         },
@@ -2050,6 +2144,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 62117514,
                 "language": "Python",
                 "last_commit": "2025-03-29T12:32:09Z",
                 "owner": "only3km",
@@ -2064,6 +2159,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 222109504,
                 "language": null,
                 "last_commit": "2025-02-22T15:38:19Z",
                 "owner": "ZySieng",
@@ -2085,6 +2181,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 172439745,
                 "language": null,
                 "last_commit": "2019-11-22T02:43:52Z",
                 "owner": "Yaryou",
@@ -2106,6 +2203,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 166357324,
                 "language": null,
                 "last_commit": "2019-04-19T01:35:23Z",
                 "owner": "syndict",
@@ -2120,18 +2218,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 279075418,
                 "language": null,
                 "last_commit": "2020-07-13T19:48:17Z",
                 "owner": "huangjunxin",
                 "repo": "Rime-Hakka-TaibuShang",
                 "stars": 2
               }
-            },
-            {
-              "node_type": "item",
-              "title": "0 i3thuan5/rime-hakka",
-              "description": "客家輸入法詞表",
-              "children": []
             }
           ]
         },
@@ -2142,11 +2235,12 @@
           "children": [
             {
               "node_type": "item",
-              "title": "669 rime/rime-cantonese",
+              "title": "670 rime/rime-cantonese",
               "description": "Rime Cantonese input schema | 粵語拼音輸入方案",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 206629805,
                 "language": "Python",
                 "last_commit": "2026-08-13T09:55:49Z",
                 "owner": "rime",
@@ -2161,6 +2255,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 261695306,
                 "language": null,
                 "last_commit": "2025-09-29T02:21:02Z",
                 "owner": "CanCLID",
@@ -2175,6 +2270,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 245169544,
                 "language": null,
                 "last_commit": "2021-05-05T08:09:08Z",
                 "owner": "MrCorn0-0",
@@ -2189,6 +2285,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 244290671,
                 "language": null,
                 "last_commit": "2021-07-25T23:53:02Z",
                 "owner": "gkovacs",
@@ -2203,6 +2300,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 341857466,
                 "language": null,
                 "last_commit": "2023-08-03T07:45:31Z",
                 "owner": "pearapple123",
@@ -2217,6 +2315,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 84784602,
                 "language": null,
                 "last_commit": "2019-09-01T13:00:09Z",
                 "owner": "CanCLID",
@@ -2231,6 +2330,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 267219810,
                 "language": null,
                 "last_commit": "2022-11-06T16:49:28Z",
                 "owner": "CanCLID",
@@ -2245,6 +2345,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 357285651,
                 "language": null,
                 "last_commit": "2021-06-23T08:26:42Z",
                 "owner": "jyutcitzi",
@@ -2259,6 +2360,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 163563072,
                 "language": null,
                 "last_commit": "2026-06-24T16:13:47Z",
                 "owner": "leimaau",
@@ -2273,6 +2375,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 216824401,
                 "language": null,
                 "last_commit": "2026-07-01T19:34:16Z",
                 "owner": "leimaau",
@@ -2287,6 +2390,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 257648939,
                 "language": null,
                 "last_commit": "2024-03-28T22:49:46Z",
                 "owner": "tanxpyox",
@@ -2301,6 +2405,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 35531712,
                 "language": null,
                 "last_commit": "2019-04-22T13:35:52Z",
                 "owner": "cryptogun",
@@ -2315,6 +2420,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 82054387,
                 "language": null,
                 "last_commit": "2017-02-15T11:49:57Z",
                 "owner": "rime-aca",
@@ -2329,6 +2435,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 280812302,
                 "language": null,
                 "last_commit": "2020-07-20T14:22:58Z",
                 "owner": "fuzy112",
@@ -2343,6 +2450,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 216648973,
                 "language": null,
                 "last_commit": "2023-03-11T12:34:01Z",
                 "owner": "LaiJoengzit",
@@ -2357,6 +2465,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 817702741,
                 "language": "Lua",
                 "last_commit": "2025-02-02T13:55:42Z",
                 "owner": "Lumen01",
@@ -2371,6 +2480,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 267100161,
                 "language": null,
                 "last_commit": "2020-08-16T12:08:12Z",
                 "owner": "CanCLID",
@@ -2385,6 +2495,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 274316961,
                 "language": "Shell",
                 "last_commit": "2020-07-20T16:41:04Z",
                 "owner": "CanCLID",
@@ -2399,18 +2510,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 199400295,
                 "language": null,
                 "last_commit": "2020-08-15T06:08:34Z",
                 "owner": "redchenjs",
                 "repo": "rime-jyutgaan",
                 "stars": 0
               }
-            },
-            {
-              "node_type": "item",
-              "title": "0 baopaau/rime-jyuwtpinq",
-              "description": "Rime 粵語輸入方案 通過韻母變寫表示聲調。基於 rime-cantonese 碼表",
-              "children": []
             }
           ]
         },
@@ -2426,6 +2532,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 163563072,
                 "language": null,
                 "last_commit": "2026-06-24T16:13:47Z",
                 "owner": "leimaau",
@@ -2439,15 +2546,16 @@
       "title": "漢語方言"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "399 gkovacs/rime-japanese",
+          "title": "400 gkovacs/rime-japanese",
           "description": "日语输入法 Input method for typing Japanese with RIME",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244325153,
             "language": null,
             "last_commit": "2024-07-12T09:01:34Z",
             "owner": "gkovacs",
@@ -2457,11 +2565,12 @@
         },
         {
           "node_type": "item",
-          "title": "389 BlindingDark/rime-easy-en",
+          "title": "391 BlindingDark/rime-easy-en",
           "description": "Rime / Easy English 英文输入法",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187191574,
             "language": "Lua",
             "last_commit": "2025-02-28T04:07:46Z",
             "owner": "BlindingDark",
@@ -2471,11 +2580,12 @@
         },
         {
           "node_type": "item",
-          "title": "205 tumuyan/rime-pinyin-jap",
+          "title": "207 tumuyan/rime-pinyin-jap",
           "description": "李さんの日本語入力方法：一個Rime日語方案，完全忽略音読訓読，使用漢語拼音录入日語漢字字形，使用羅馬音録入仮名。",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372003284,
             "language": "Lua",
             "last_commit": "2026-06-22T13:52:22Z",
             "owner": "tumuyan",
@@ -2485,11 +2595,12 @@
         },
         {
           "node_type": "item",
-          "title": "74 rime/rime-ipa",
+          "title": "75 rime/rime-ipa",
           "description": "IPA / 國際音標輸入方案",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74141753,
             "language": null,
             "last_commit": "2021-01-28T09:05:30Z",
             "owner": "rime",
@@ -2504,6 +2615,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162142576,
             "language": null,
             "last_commit": "2020-07-22T03:17:58Z",
             "owner": "nushu-script",
@@ -2518,6 +2630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74902341,
             "language": null,
             "last_commit": "2023-11-21T10:27:24Z",
             "owner": "biopolyhedron",
@@ -2532,6 +2645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152180951,
             "language": null,
             "last_commit": "2020-07-09T02:25:51Z",
             "owner": "sgalal",
@@ -2541,11 +2655,12 @@
         },
         {
           "node_type": "item",
-          "title": "38 shewer/rime-english",
+          "title": "39 shewer/rime-english",
           "description": "Rime English輸入方案 for Weasel",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 303672494,
             "language": "Lua",
             "last_commit": "2021-04-15T17:03:57Z",
             "owner": "shewer",
@@ -2560,6 +2675,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204491957,
             "language": null,
             "last_commit": "2020-02-16T02:57:09Z",
             "owner": "einverne",
@@ -2574,6 +2690,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74902513,
             "language": null,
             "last_commit": "2025-01-16T06:55:50Z",
             "owner": "biopolyhedron",
@@ -2588,6 +2705,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265733633,
             "language": "Python",
             "last_commit": "2026-06-16T07:15:43Z",
             "owner": "JaplinChen",
@@ -2602,6 +2720,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204699627,
             "language": "Lua",
             "last_commit": "2026-06-30T11:14:14Z",
             "owner": "oniondelta",
@@ -2616,6 +2735,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 389298051,
             "language": null,
             "last_commit": "2023-10-23T05:51:08Z",
             "owner": "gkovacs",
@@ -2630,6 +2750,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129612488,
             "language": null,
             "last_commit": "2022-04-12T12:34:15Z",
             "owner": "arsenali",
@@ -2644,6 +2765,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172304640,
             "language": null,
             "last_commit": "2020-05-31T08:47:33Z",
             "owner": "sgalal",
@@ -2658,6 +2780,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275165955,
             "language": null,
             "last_commit": "2020-06-26T14:15:18Z",
             "owner": "LiGhauNgyan",
@@ -2672,6 +2795,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259039921,
             "language": null,
             "last_commit": "2020-05-03T07:09:36Z",
             "owner": "biopolyhedron",
@@ -2686,6 +2810,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244337569,
             "language": null,
             "last_commit": "2020-07-10T23:29:15Z",
             "owner": "gkovacs",
@@ -2700,6 +2825,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245377396,
             "language": "Python",
             "last_commit": "2020-03-07T01:08:13Z",
             "owner": "gkovacs",
@@ -2714,6 +2840,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74773608,
             "language": null,
             "last_commit": "2024-09-21T15:37:09Z",
             "owner": "biopolyhedron",
@@ -2728,6 +2855,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74905168,
             "language": null,
             "last_commit": "2024-04-13T14:31:08Z",
             "owner": "biopolyhedron",
@@ -2742,6 +2870,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 468511813,
             "language": null,
             "last_commit": "2022-03-19T16:38:02Z",
             "owner": "saeziae",
@@ -2756,6 +2885,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200167737,
             "language": null,
             "last_commit": "2020-03-25T01:20:50Z",
             "owner": "yuanhao-chen-nyoeghau",
@@ -2770,6 +2900,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92048287,
             "language": "C++",
             "last_commit": "2024-11-03T09:56:22Z",
             "owner": "sgqy",
@@ -2784,6 +2915,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286969007,
             "language": null,
             "last_commit": "2022-01-16T00:29:07Z",
             "owner": "pearapple123",
@@ -2798,6 +2930,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82054289,
             "language": null,
             "last_commit": "2020-06-01T16:18:27Z",
             "owner": "rime-aca",
@@ -2812,6 +2945,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74901953,
             "language": null,
             "last_commit": "2016-11-27T17:09:23Z",
             "owner": "biopolyhedron",
@@ -2826,6 +2960,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74903344,
             "language": null,
             "last_commit": "2024-03-13T11:57:19Z",
             "owner": "biopolyhedron",
@@ -2840,6 +2975,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74905276,
             "language": null,
             "last_commit": "2016-11-27T18:10:04Z",
             "owner": "biopolyhedron",
@@ -2854,6 +2990,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 355727411,
             "language": "Mathematica",
             "last_commit": "2023-06-09T05:57:57Z",
             "owner": "tyotakuki",
@@ -2868,6 +3005,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144313197,
             "language": null,
             "last_commit": "2018-08-10T17:12:42Z",
             "owner": "biopolyhedron",
@@ -2882,6 +3020,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106908929,
             "language": null,
             "last_commit": "2024-02-25T17:37:50Z",
             "owner": "biopolyhedron",
@@ -2896,6 +3035,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11554328,
             "language": null,
             "last_commit": "2013-12-23T11:45:09Z",
             "owner": "hienning",
@@ -2910,6 +3050,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106852167,
             "language": null,
             "last_commit": "2022-08-27T17:03:35Z",
             "owner": "mkpoli",
@@ -2924,6 +3065,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383675752,
             "language": null,
             "last_commit": "2023-09-25T07:53:31Z",
             "owner": "mkpoli",
@@ -2938,6 +3080,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151416529,
             "language": null,
             "last_commit": "2024-03-06T01:30:33Z",
             "owner": "arpcn",
@@ -2952,6 +3095,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74902440,
             "language": null,
             "last_commit": "2020-05-09T16:30:53Z",
             "owner": "biopolyhedron",
@@ -2966,6 +3110,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74904520,
             "language": null,
             "last_commit": "2024-04-17T12:01:29Z",
             "owner": "biopolyhedron",
@@ -2980,6 +3125,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 380543153,
             "language": null,
             "last_commit": "2021-06-26T16:54:50Z",
             "owner": "lingrottin",
@@ -2994,6 +3140,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193432270,
             "language": null,
             "last_commit": "2024-02-20T21:51:26Z",
             "owner": "saeziae",
@@ -3008,6 +3155,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74901876,
             "language": null,
             "last_commit": "2016-11-27T17:07:28Z",
             "owner": "biopolyhedron",
@@ -3022,6 +3170,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74904726,
             "language": null,
             "last_commit": "2016-11-27T18:05:05Z",
             "owner": "biopolyhedron",
@@ -3036,6 +3185,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 497584283,
             "language": null,
             "last_commit": "2022-06-07T02:47:16Z",
             "owner": "kitty-panics",
@@ -3050,6 +3200,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214981621,
             "language": null,
             "last_commit": "2021-09-19T07:07:05Z",
             "owner": "szc126",
@@ -3064,6 +3215,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23963339,
             "language": null,
             "last_commit": "2019-12-16T12:36:19Z",
             "owner": "wu-shan",
@@ -3078,6 +3230,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40351292,
             "language": "CSS",
             "last_commit": "2016-05-05T05:25:08Z",
             "owner": "AraragiHoozuki",
@@ -3092,6 +3245,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 598021171,
             "language": null,
             "last_commit": "2023-02-06T08:20:56Z",
             "owner": "ayaka14732",
@@ -3106,6 +3260,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74902206,
             "language": null,
             "last_commit": "2016-11-27T17:13:58Z",
             "owner": "biopolyhedron",
@@ -3120,6 +3275,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74903637,
             "language": null,
             "last_commit": "2020-10-09T05:03:32Z",
             "owner": "biopolyhedron",
@@ -3134,6 +3290,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 297871129,
             "language": null,
             "last_commit": "2020-10-04T20:42:42Z",
             "owner": "baopaau",
@@ -3148,6 +3305,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351364040,
             "language": "JavaScript",
             "last_commit": "2021-04-03T02:17:01Z",
             "owner": "baopaau",
@@ -3162,6 +3320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74902612,
             "language": null,
             "last_commit": "2016-11-27T17:22:13Z",
             "owner": "biopolyhedron",
@@ -3176,6 +3335,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302082277,
             "language": null,
             "last_commit": "2020-10-08T04:05:12Z",
             "owner": "yuanhao-chen-nyoeghau",
@@ -3190,6 +3350,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 580361559,
             "language": null,
             "last_commit": "2022-12-20T11:24:00Z",
             "owner": "saeziae",
@@ -3204,6 +3365,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 464175753,
             "language": null,
             "last_commit": "2024-02-20T21:51:48Z",
             "owner": "saeziae",
@@ -3218,6 +3380,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42762810,
             "language": null,
             "last_commit": "2015-09-19T06:46:15Z",
             "owner": "AraragiHoozuki",
@@ -3232,6 +3395,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1123707848,
             "language": null,
             "last_commit": "2025-12-29T10:22:35Z",
             "owner": "IGBY-Klek",
@@ -3246,6 +3410,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 786385678,
             "language": null,
             "last_commit": "2024-04-14T10:55:14Z",
             "owner": "a-pontifex",
@@ -3260,6 +3425,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74901742,
             "language": null,
             "last_commit": "2016-11-27T17:05:19Z",
             "owner": "biopolyhedron",
@@ -3274,6 +3440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176067184,
             "language": null,
             "last_commit": "2019-03-17T07:02:30Z",
             "owner": "biopolyhedron",
@@ -3288,6 +3455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176068356,
             "language": null,
             "last_commit": "2019-03-17T07:14:25Z",
             "owner": "biopolyhedron",
@@ -3302,79 +3470,78 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240457471,
             "language": null,
             "last_commit": "2020-02-22T17:46:38Z",
             "owner": "laubonghaudoi",
             "repo": "rime-ugaritic",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "0 sgqy/rime-russian",
-          "description": "rime schema for romaji-russian conversion",
-          "children": []
         }
       ],
       "title": "非漢語/非漢字"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "18784 iDvel/rime-ice",
+          "title": "18892 iDvel/rime-ice",
           "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334110599,
             "language": "Lua",
             "last_commit": "2026-08-13T16:10:07Z",
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 18884
+            "stars": 18897
           }
         },
         {
           "node_type": "item",
-          "title": "3539 gaboolic/rime-frost",
+          "title": "3561 gaboolic/rime-frost",
           "description": "白霜拼音，使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 811705988,
             "language": "Lua",
             "last_commit": "2026-08-18T05:27:50Z",
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3558
+            "stars": 3563
           }
         },
         {
           "node_type": "item",
-          "title": "3524 maomiui/rime",
+          "title": "3528 maomiui/rime",
           "description": "Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253806056,
             "language": "Lua",
             "last_commit": "2026-03-22T12:25:31Z",
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3527
+            "stars": 3528
           }
         },
         {
           "node_type": "item",
-          "title": "1030 gaboolic/rime-shuangpin-fuzhuma",
+          "title": "1033 gaboolic/rime-shuangpin-fuzhuma",
           "description": "墨奇音形，支持自然码、小鹤、搜狗、微软双拼,是一个基于字形描述信息、递归拆分，最后取首末双形音托的码表开源的方案，墨奇码的拆分码表已开源，目前已经拆分完成全部的通用规范汉字、常用繁体字，总计支持4万字。",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 748148497,
             "language": "Lua",
             "last_commit": "2026-08-16T11:44:33Z",
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1030
+            "stars": 1033
           }
         },
         {
@@ -3384,18 +3551,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 594648540,
             "language": "Lua",
-            "last_commit": "2026-08-17T18:19:00Z",
+            "last_commit": "2026-08-19T08:11:47Z",
             "owner": "rimeinn",
             "repo": "rime-moran",
-            "stars": 326
+            "stars": 327
           }
         }
       ],
       "title": "配置"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3404,6 +3572,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74141371,
             "language": "Python",
             "last_commit": "2026-03-25T00:16:26Z",
             "owner": "rime",
@@ -3413,25 +3582,27 @@
         },
         {
           "node_type": "item",
-          "title": "261 gaboolic/moqi-im-windows",
+          "title": "266 gaboolic/moqi-im-windows",
           "description": "墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1197939186,
             "language": "C++",
             "last_commit": "2026-08-18T01:38:31Z",
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 265
+            "stars": 266
           }
         },
         {
           "node_type": "item",
-          "title": "97 shenlebantongying/rime_latex",
+          "title": "98 shenlebantongying/rime_latex",
           "description": "LaTeX Symbols (Complete) | 所有 LaTeX 符號的輸入方案",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302268654,
             "language": "Python",
             "last_commit": "2025-04-03T22:17:35Z",
             "owner": "shenlebantongying",
@@ -3446,6 +3617,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157181808,
             "language": null,
             "last_commit": "2026-07-17T16:48:07Z",
             "owner": "rtransformation",
@@ -3460,6 +3632,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7363347,
             "language": null,
             "last_commit": "2013-10-20T01:59:52Z",
             "owner": "hitigon",
@@ -3474,6 +3647,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 583525145,
             "language": "Python",
             "last_commit": "2025-07-04T06:42:47Z",
             "owner": "velviagris",
@@ -3488,6 +3662,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 364849483,
             "language": "Go",
             "last_commit": "2023-09-03T08:55:54Z",
             "owner": "puddinging",
@@ -3502,6 +3677,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1194432295,
             "language": "Swift",
             "last_commit": "2026-03-28T15:20:53Z",
             "owner": "CauT",
@@ -3511,16 +3687,17 @@
         },
         {
           "node_type": "item",
-          "title": "6 Godalin/rime-agda-input",
+          "title": "7 Godalin/rime-agda-input",
           "description": "Rime Agda Input | 符號輸入，更短的數學符號方案。提供了與 兼容的配置案例",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 858570842,
             "language": "Emacs Lisp",
             "last_commit": "2025-10-15T14:12:23Z",
             "owner": "Godalin",
             "repo": "rime-agda-input",
-            "stars": 6
+            "stars": 7
           }
         },
         {
@@ -3530,6 +3707,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 324981704,
             "language": null,
             "last_commit": "2021-02-24T03:25:01Z",
             "owner": "amorphobia",
@@ -3544,6 +3722,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259607592,
             "language": null,
             "last_commit": "2020-10-28T09:48:57Z",
             "owner": "sgalal",
@@ -3558,6 +3737,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240000778,
             "language": null,
             "last_commit": "2020-08-13T12:18:07Z",
             "owner": "sgalal",
@@ -3572,6 +3752,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287269557,
             "language": null,
             "last_commit": "2020-08-13T12:23:17Z",
             "owner": "sgalal",
@@ -3586,6 +3767,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260109737,
             "language": null,
             "last_commit": "2020-10-28T09:52:42Z",
             "owner": "sgalal",
@@ -3598,9 +3780,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:41:27.713Z",
+    "last_updated": "2026-08-19T09:41:58.041Z",
     "original_repository": "ayaka14732/awesome-rime",
-    "original_repository_sha": "3d8361253e239075e430d9e64baa020ad3c1a186",
+    "original_repository_sha": "c059fadf2565901794f6e9a80971270c1de21daa",
     "enhanced_repository": "enhansome/enhansome-rime",
     "enhanced_repository_description": null,
     "title": "awesome-rime with stars"
