@@ -921,7 +921,7 @@
             "last_commit": "2026-07-12T05:01:55Z",
             "owner": "rime",
             "repo": "rime-luna-pinyin",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2026-05-09T10:33:20Z",
             "owner": "rime",
             "repo": "rime-bopomofo",
-            "stars": 52
+            "stars": 53
           }
         },
         {
@@ -1068,7 +1068,7 @@
             "archived": false,
             "id": 469109402,
             "language": "Lua",
-            "last_commit": "2026-08-18T17:45:56Z",
+            "last_commit": "2026-08-20T15:50:29Z",
             "owner": "arsenali",
             "repo": "rime-triple-pinyin-lssp",
             "stars": 13
@@ -1813,7 +1813,7 @@
                 "last_commit": "2026-05-25T03:21:48Z",
                 "owner": "NGLI",
                 "repo": "rime-wugniu_soutseu",
-                "stars": 21
+                "stars": 22
               }
             },
             {
@@ -2560,7 +2560,7 @@
             "last_commit": "2024-07-12T09:01:34Z",
             "owner": "gkovacs",
             "repo": "rime-japanese",
-            "stars": 400
+            "stars": 401
           }
         },
         {
@@ -2575,7 +2575,7 @@
             "last_commit": "2025-02-28T04:07:46Z",
             "owner": "BlindingDark",
             "repo": "rime-easy-en",
-            "stars": 392
+            "stars": 393
           }
         },
         {
@@ -3496,7 +3496,7 @@
             "last_commit": "2026-08-13T16:10:07Z",
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 18918
+            "stars": 18934
           }
         },
         {
@@ -3511,7 +3511,7 @@
             "last_commit": "2026-08-18T05:27:50Z",
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3564
+            "stars": 3568
           }
         },
         {
@@ -3526,7 +3526,7 @@
             "last_commit": "2026-03-22T12:25:31Z",
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3528
+            "stars": 3529
           }
         },
         {
@@ -3541,7 +3541,7 @@
             "last_commit": "2026-08-16T11:44:33Z",
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1034
+            "stars": 1036
           }
         },
         {
@@ -3556,7 +3556,7 @@
             "last_commit": "2026-08-19T08:11:47Z",
             "owner": "rimeinn",
             "repo": "rime-moran",
-            "stars": 327
+            "stars": 328
           }
         }
       ],
@@ -3592,7 +3592,7 @@
             "last_commit": "2026-08-18T01:38:31Z",
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 266
+            "stars": 267
           }
         },
         {
@@ -3780,7 +3780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:43:11.487Z",
+    "last_updated": "2026-08-21T09:45:46.693Z",
     "original_repository": "ayaka14732/awesome-rime",
     "original_repository_id": 214790541,
     "original_repository_sha": "c059fadf2565901794f6e9a80971270c1de21daa",
