@@ -15,7 +15,7 @@
             "last_commit": "2026-06-07T17:08:15Z",
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1627
+            "stars": 1629
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-30T09:54:32Z",
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1111
+            "stars": 1112
           }
         },
         {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 342135737,
             "language": "Lua",
-            "last_commit": "2026-08-19T20:18:09Z",
+            "last_commit": "2026-08-21T20:14:52Z",
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
             "stars": 40
@@ -903,7 +903,7 @@
             "archived": false,
             "id": 292112591,
             "language": "Lua",
-            "last_commit": "2026-08-18T13:56:45Z",
+            "last_commit": "2026-08-21T13:29:05Z",
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
             "stars": 323
@@ -1068,7 +1068,7 @@
             "archived": false,
             "id": 469109402,
             "language": "Lua",
-            "last_commit": "2026-08-20T15:50:29Z",
+            "last_commit": "2026-08-22T08:12:11Z",
             "owner": "arsenali",
             "repo": "rime-triple-pinyin-lssp",
             "stars": 13
@@ -2245,7 +2245,7 @@
                 "last_commit": "2026-08-13T09:55:49Z",
                 "owner": "rime",
                 "repo": "rime-cantonese",
-                "stars": 670
+                "stars": 671
               }
             },
             {
@@ -3496,7 +3496,7 @@
             "last_commit": "2026-08-13T16:10:07Z",
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 18934
+            "stars": 18947
           }
         },
         {
@@ -3511,7 +3511,7 @@
             "last_commit": "2026-08-18T05:27:50Z",
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3568
+            "stars": 3569
           }
         },
         {
@@ -3526,7 +3526,7 @@
             "last_commit": "2026-03-22T12:25:31Z",
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3529
+            "stars": 3530
           }
         },
         {
@@ -3780,7 +3780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:45:46.693Z",
+    "last_updated": "2026-08-22T09:35:10.703Z",
     "original_repository": "ayaka14732/awesome-rime",
     "original_repository_id": 214790541,
     "original_repository_sha": "c059fadf2565901794f6e9a80971270c1de21daa",
