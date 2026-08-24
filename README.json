@@ -30,7 +30,7 @@
             "last_commit": "2026-07-30T09:54:32Z",
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1112
+            "stars": 1113
           }
         },
         {
@@ -1319,7 +1319,7 @@
                 "archived": false,
                 "id": 585748497,
                 "language": null,
-                "last_commit": "2026-06-24T16:47:47Z",
+                "last_commit": "2026-08-24T11:49:33Z",
                 "owner": "Hulenkius",
                 "repo": "RIME_OC_collections",
                 "stars": 18
@@ -3496,7 +3496,7 @@
             "last_commit": "2026-08-22T12:30:40Z",
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 18967
+            "stars": 18971
           }
         },
         {
@@ -3511,7 +3511,7 @@
             "last_commit": "2026-08-18T05:27:50Z",
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3574
+            "stars": 3576
           }
         },
         {
@@ -3780,7 +3780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:56:46.453Z",
+    "last_updated": "2026-08-24T14:09:23.273Z",
     "original_repository": "ayaka14732/awesome-rime",
     "original_repository_id": 214790541,
     "original_repository_sha": "c059fadf2565901794f6e9a80971270c1de21daa",
