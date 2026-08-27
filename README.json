@@ -192,7 +192,7 @@
             "archived": false,
             "id": 342135737,
             "language": "Lua",
-            "last_commit": "2026-08-25T20:17:47Z",
+            "last_commit": "2026-08-27T19:00:24Z",
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
             "stars": 40
@@ -3496,7 +3496,7 @@
             "last_commit": "2026-08-22T12:30:40Z",
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19027
+            "stars": 19031
           }
         },
         {
@@ -3508,10 +3508,10 @@
             "archived": false,
             "id": 811705988,
             "language": "Lua",
-            "last_commit": "2026-08-18T05:27:50Z",
+            "last_commit": "2026-08-27T14:20:51Z",
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3579
+            "stars": 3581
           }
         },
         {
@@ -3553,7 +3553,7 @@
             "archived": false,
             "id": 594648540,
             "language": "Lua",
-            "last_commit": "2026-08-26T19:08:54Z",
+            "last_commit": "2026-08-27T13:49:49Z",
             "owner": "rimeinn",
             "repo": "rime-moran",
             "stars": 328
@@ -3780,7 +3780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:05.643Z",
+    "last_updated": "2026-08-27T19:47:45.794Z",
     "original_repository_info": {
       "archived": false,
       "id": 214790541,
