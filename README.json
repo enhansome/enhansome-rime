@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema",
+            "homepage": null,
             "id": 173078784,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-07T17:08:15Z",
+            "open_issues": 46,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1635
+            "stars": 1635,
+            "topics": [
+              "android",
+              "ggtt",
+              "input",
+              "input-method",
+              "ios",
+              "jidian",
+              "macos",
+              "rime",
+              "schema",
+              "wubi"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -26,12 +42,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 Rime（小狼毫 / 同文）的极简、优雅、好用的中英文输入方案整合包。 包含：四叶草九宫格拼音 / 四叶草拼音 / 小鹤双拼 / 极品五笔 / QQ五笔 / 徐码 / 郑码 等主流方案。",
+            "homepage": "http://blog.laais.cn/posts/projects/rime/info/",
             "id": 300808002,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-07-30T09:54:32Z",
+            "open_issues": 4,
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1116
+            "stars": 1116,
+            "topics": [
+              "config",
+              "configs",
+              "configuration",
+              "opencc",
+              "pinyin",
+              "rime",
+              "rime-trime",
+              "setting",
+              "settings",
+              "sougou",
+              "terra",
+              "tongwen",
+              "wubi",
+              "xuma",
+              "zhengma"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -42,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【五筆字型】輸入方案",
+            "homepage": null,
             "id": 74138939,
             "language": null,
+            "license": "LGPL-3.0",
             "last_commit": "2024-01-05T04:04:04Z",
+            "open_issues": 17,
             "owner": "rime",
             "repo": "rime-wubi",
-            "stars": 338
+            "stars": 338,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -58,12 +100,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 小鹤双拼音形输入方案",
+            "homepage": null,
             "id": 67684421,
             "language": null,
+            "license": null,
             "last_commit": "2019-06-13T09:40:41Z",
+            "open_issues": 5,
             "owner": "brglng",
             "repo": "rime-xhup",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "flypy",
+              "rime",
+              "xhup"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -74,12 +125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "自用小鹤双拼rime配置",
+            "homepage": null,
             "id": 18350054,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2014-07-21T03:41:09Z",
+            "open_issues": 2,
             "owner": "nlimpid",
             "repo": "rime-hepy",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -90,12 +146,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "星空键道6是星空系列输入法中的一款双拼音形码顶功中文输入法方案，「Rime键道」是该方案借助RIME开源输入平台的实现。",
+            "homepage": "https://keytao.vercel.app",
             "id": 247484607,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-08-23T02:00:14Z",
+            "open_issues": 2,
             "owner": "xkinput",
             "repo": "KeyTao",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "ime",
+              "keytao",
+              "rime",
+              "rime-ime",
+              "rime-jd"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -106,12 +173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "徐码／爾雅：三重注解、双重反查、屏蔽词组、全码后置、顶功版本……",
+            "homepage": null,
             "id": 203486305,
             "language": "Lua",
+            "license": null,
             "last_commit": "2022-02-17T00:58:43Z",
+            "open_issues": 1,
             "owner": "Ace-Who",
             "repo": "rime-xuma",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -122,12 +194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "具备码元提示功能的98五笔配置文件（for中州韵）",
+            "homepage": null,
             "id": 163810403,
             "language": "Lua",
+            "license": "LGPL-3.0",
             "last_commit": "2025-07-10T15:28:49Z",
+            "open_issues": 0,
             "owner": "yanhuacuo",
             "repo": "98wubi",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -138,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "自然码＋辅码的 rime 配置方案，可以使用 ';' 应用辅码。",
+            "homepage": null,
             "id": 167938169,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-05T16:12:09Z",
+            "open_issues": 0,
             "owner": "bigshans",
             "repo": "rime-zrm",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -154,12 +236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【倉頡】輸入方案",
+            "homepage": null,
             "id": 74138622,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-06-01T12:41:51Z",
+            "open_issues": 7,
             "owner": "rime",
             "repo": "rime-cangjie",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -170,12 +257,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "虎碼輸入方案，三重註解、字集切換、雙重反查、全碼後置……",
+            "homepage": null,
             "id": 443519110,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-21T01:47:13Z",
+            "open_issues": 7,
             "owner": "ywxt",
             "repo": "rime-huma",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "huma",
+              "input-method",
+              "rime",
+              "tiger-code",
+              "wubi"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -186,12 +284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "单手笔顺输入法（Rime版）Chinese stroke sequence (one hand) input method made with Rime",
+            "homepage": null,
             "id": 237572871,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-27T05:38:53Z",
+            "open_issues": 2,
             "owner": "YQ-YSY",
             "repo": "one-hand_Rime",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -202,12 +305,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "键指星海，道化万物。",
+            "homepage": "https://pingshunhuangalex.gitbook.io/rime-xkjd/",
             "id": 342135737,
             "language": "Lua",
-            "last_commit": "2026-08-28T19:00:23Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T02:35:54Z",
+            "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "colemak-dh",
+              "ime",
+              "keydo",
+              "keytao",
+              "rime",
+              "xkjd"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -218,12 +333,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小鶴雙拼的音碼+倉頡第五版速成的形碼的 Rime 繁體中文輸入方案。",
+            "homepage": null,
             "id": 673396094,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-13T09:18:02Z",
+            "open_issues": 1,
             "owner": "JeffChien",
             "repo": "rime-flypyquick5",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "input-method",
+              "rime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -234,12 +358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zhengma for Rime",
+            "homepage": null,
             "id": 37473011,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2017-12-28T01:28:34Z",
+            "open_issues": 0,
             "owner": "acevery",
             "repo": "rime-zhengma",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -250,12 +379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime郑码输入方案",
+            "homepage": null,
             "id": 78027083,
             "language": "VimL",
+            "license": null,
             "last_commit": "2019-01-09T12:56:32Z",
+            "open_issues": 3,
             "owner": "GongMu",
             "repo": "rime-zhengma",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -266,12 +400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "用于Rime（中州韵输入法引擎）平台的郑码输入方案自定义码表.Zhengma for Rime input method。",
+            "homepage": null,
             "id": 192234118,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2022-10-31T03:53:11Z",
+            "open_issues": 0,
             "owner": "Openvingen",
             "repo": "rime-zhengma",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -282,12 +421,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kappa Japanese Wubi Input Scheme for Rime - Rime 河童日本語五筆字型入力方法 | 漢字直接入力",
+            "homepage": null,
             "id": 125035603,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-09-05T04:07:25Z",
+            "open_issues": 3,
             "owner": "momijineko",
             "repo": "Rime-KappaJP",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "ime",
+              "input-method",
+              "japanese",
+              "kanji",
+              "rime",
+              "rime-schema",
+              "wubi86"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -298,12 +450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【行列】輸入方案",
+            "homepage": null,
             "id": 74138982,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2024-08-11T10:01:14Z",
+            "open_issues": 3,
             "owner": "rime",
             "repo": "rime-array",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -314,12 +471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "五筆98版 Rime 輸入方案",
+            "homepage": null,
             "id": 77331991,
             "language": null,
+            "license": null,
             "last_commit": "2018-04-07T02:12:32Z",
+            "open_issues": 0,
             "owner": "lotem",
             "repo": "rime-wubi98",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -330,12 +492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wubiluna is the input method combining Pinyin and Wubi86 using Rime",
+            "homepage": null,
             "id": 34233407,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-05T15:41:08Z",
+            "open_issues": 0,
             "owner": "allencch",
             "repo": "wubiluna",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -346,12 +513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "矧码",
+            "homepage": null,
             "id": 302596377,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2020-12-15T18:06:35Z",
+            "open_issues": 0,
             "owner": "raines1220",
             "repo": "ghcm",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -362,12 +534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "傳統速成 ， rime 輸入法 (https://github.com/rime) 的微軟傳統排位速成方案",
+            "homepage": null,
             "id": 141218995,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-22T09:54:32Z",
+            "open_issues": 2,
             "owner": "philipposkhos",
             "repo": "rime-ms-quick",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -378,12 +555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Loengfan (粵語兩分) is the Cantonese version of the Liang Fen input method",
+            "homepage": null,
             "id": 285144470,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2022-03-03T14:26:02Z",
+            "open_issues": 0,
             "owner": "CanCLID",
             "repo": "rime-loengfan",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -394,12 +576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "个人输入法仓库-备份",
+            "homepage": null,
             "id": 267928776,
             "language": "Lua",
+            "license": null,
             "last_commit": "2025-04-06T04:20:40Z",
+            "open_issues": 0,
             "owner": "IT1187541749",
             "repo": "Rime-data",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -410,12 +597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RIME方案 (拼音、自然码、仓颉、郑码、四角号码和日语)",
+            "homepage": null,
             "id": 61268347,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-08T06:56:05Z",
+            "open_issues": 0,
             "owner": "zongxinbo",
             "repo": "rime-zong",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -426,12 +618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【速成】輸入方案",
+            "homepage": null,
             "id": 74138685,
             "language": null,
+            "license": "LGPL-3.0",
             "last_commit": "2026-07-17T03:53:23Z",
+            "open_issues": 2,
             "owner": "rime",
             "repo": "rime-quick",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -442,12 +639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 五笔简体词库",
+            "homepage": null,
             "id": 224592482,
             "language": null,
+            "license": null,
             "last_commit": "2020-03-27T09:14:50Z",
+            "open_issues": 2,
             "owner": "zhmars",
             "repo": "rime-wubi-simp",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -458,12 +660,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个用于 RIME 的郑码输入方案",
+            "homepage": null,
             "id": 203092188,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-06T13:20:58Z",
+            "open_issues": 1,
             "owner": "X1aomu",
             "repo": "rime-uggx",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "fcitx-rime",
+              "ibus-rime",
+              "librime",
+              "rime",
+              "rime-config",
+              "rime-custom",
+              "rime-schema",
+              "rime-squirrel",
+              "rime-uggx",
+              "rime-weasel",
+              "weasel",
+              "zhengma"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -474,12 +694,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 五笔 98 输入方案，文章：https://arzyu.github.io/blog/posts/2019-12-27-rime-五笔-98-配置指南.html",
+            "homepage": null,
             "id": 230098484,
             "language": null,
+            "license": null,
             "last_commit": "2024-09-23T04:26:52Z",
+            "open_issues": 0,
             "owner": "arzyu",
             "repo": "rime-wubi98",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "rime",
+              "rime-schema",
+              "wubi98"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -490,12 +719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "山人输入方案",
+            "homepage": null,
             "id": 394711823,
             "language": "Lua",
+            "license": null,
             "last_commit": "2021-10-07T06:55:24Z",
+            "open_issues": 0,
             "owner": "ywxt",
             "repo": "rime-sunman",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -506,12 +740,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "大新倉頡-小狼毫版",
+            "homepage": null,
             "id": 157548086,
             "language": null,
+            "license": null,
             "last_commit": "2019-09-12T03:12:11Z",
+            "open_issues": 0,
             "owner": "Joey-Li",
             "repo": "Newcj_rime",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "input-method",
+              "rime-config",
+              "rime-ime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -522,12 +766,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "給中州韻輸入法用的大易字碼表",
+            "homepage": null,
             "id": 43426156,
             "language": null,
+            "license": null,
             "last_commit": "2015-09-30T10:12:28Z",
+            "open_issues": 0,
             "owner": "chiahsien",
             "repo": "RimeDayi",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -538,12 +787,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rime平台下的小鹤双拼（加形）配置方案",
+            "homepage": "https://github.com/liming2013/rime-flypy-xhup",
             "id": 74007095,
             "language": null,
+            "license": null,
             "last_commit": "2016-12-02T11:19:16Z",
+            "open_issues": 2,
             "owner": "liming2013",
             "repo": "rime-flypy-xhup",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -554,12 +808,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【快速倉頡】輸入方案",
+            "homepage": null,
             "id": 74139051,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2019-01-20T14:33:18Z",
+            "open_issues": 1,
             "owner": "rime",
             "repo": "rime-scj",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -570,12 +829,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " 鼠须管 RIME 新世纪五笔 & 新世纪五笔拼音方案 & 简入繁出 方案",
+            "homepage": null,
             "id": 157696264,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-13T01:28:06Z",
+            "open_issues": 0,
             "owner": "byujiang",
             "repo": "wubi06_rime",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -586,12 +850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "添加了鹤形的自然码，外挂于Rime输入法",
+            "homepage": null,
             "id": 33028263,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-22T10:15:20Z",
+            "open_issues": 0,
             "owner": "daya-prac",
             "repo": "ziranma_flyx_for_Rime",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -602,12 +871,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rime-shanren3",
+            "homepage": null,
             "id": 151431168,
             "language": "Lua",
+            "license": null,
             "last_commit": "2025-07-01T20:27:34Z",
+            "open_issues": 0,
             "owner": "arpcn",
             "repo": "rime-shanren3",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -618,12 +892,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于原版星空两笔和星空两笔右耍版制作的星空两笔单字版，使用根据网络聊天制定的字频 ",
+            "homepage": null,
             "id": 171821868,
             "language": null,
+            "license": null,
             "last_commit": "2019-08-24T09:26:30Z",
+            "open_issues": 0,
             "owner": "Drgiceake",
             "repo": "xklbDR",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -634,12 +913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zhengma support for RIME IME",
+            "homepage": null,
             "id": 45160678,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-03-31T00:07:39Z",
+            "open_issues": 0,
             "owner": "vfreex",
             "repo": "rime-zhengma",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -650,12 +934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "09五笔第二代（Rinz自用版）",
+            "homepage": null,
             "id": 309935229,
             "language": null,
+            "license": null,
             "last_commit": "2020-11-04T09:36:20Z",
+            "open_issues": 0,
             "owner": "sypxf",
             "repo": "092r",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -666,12 +955,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rime-西风瘦码输入方案",
+            "homepage": null,
             "id": 220994680,
             "language": "Lua",
+            "license": "LGPL-3.0",
             "last_commit": "2020-03-09T05:29:50Z",
+            "open_issues": 0,
             "owner": "ethantang1024",
             "repo": "rime-xfsm",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -682,12 +976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 96665462,
             "language": null,
+            "license": null,
             "last_commit": "2017-07-14T12:36:21Z",
+            "open_issues": 0,
             "owner": "hchunhui",
             "repo": "rime-wubi86go",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -698,12 +997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小兔两笔 Rime 版本",
+            "homepage": "http://xtlb.ys168.com/",
             "id": 195370760,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-13T12:13:52Z",
+            "open_issues": 2,
             "owner": "zekexiao",
             "repo": "xtlb-rime",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -714,12 +1018,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "寧波話兩分輸入方案 · 宁波话两分输入方案 · Ningbo Dialect Version of Zisea Liang Fen Input Method",
+            "homepage": null,
             "id": 1136854491,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-01-24T13:50:31Z",
+            "open_issues": 0,
             "owner": "ionkaon",
             "repo": "rime-gninpou-lianfen",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "chinese-dialects",
+              "input-method",
+              "ningbo",
+              "ningbo-dialect",
+              "ningponese",
+              "rime",
+              "rime-schema",
+              "wu-chinese"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -730,12 +1048,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 256408681,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-02T09:51:28Z",
+            "open_issues": 9,
             "owner": "szc126",
             "repo": "rime-liangfen",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "rime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -746,12 +1072,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "哲哲豆音形RIME版",
+            "homepage": null,
             "id": 170518338,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2019-02-16T14:04:52Z",
+            "open_issues": 1,
             "owner": "whjiang",
             "repo": "zzdyx_rime",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -762,12 +1093,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 294303769,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2022-02-01T00:05:45Z",
+            "open_issues": 0,
             "owner": "Schummacher",
             "repo": "XHSJ",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -778,12 +1114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "星空一道：星空一笔的音+星空键道的形，名之为星空一道。",
+            "homepage": null,
             "id": 128300066,
             "language": null,
+            "license": null,
             "last_commit": "2018-04-30T15:43:39Z",
+            "open_issues": 1,
             "owner": "dzyht",
             "repo": "rime_xkyd",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -794,12 +1135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小狼毫（rime） 五笔98单字方案 源于海峰五笔码表",
+            "homepage": null,
             "id": 70691683,
             "language": null,
+            "license": null,
             "last_commit": "2016-10-12T11:12:49Z",
+            "open_issues": 0,
             "owner": "runapp",
             "repo": "rime-wubi98char",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -810,12 +1156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "經過鄙人修改的用於RIME的行列30輸入方案",
+            "homepage": null,
             "id": 208627478,
             "language": null,
+            "license": null,
             "last_commit": "2021-02-03T02:13:09Z",
+            "open_issues": 0,
             "owner": "Reniastyc",
             "repo": "RIME_array30_ex",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -826,12 +1177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "星空一笔：吅吅大山的星空一笔输入方案 for RIME",
+            "homepage": null,
             "id": 127936358,
             "language": null,
+            "license": null,
             "last_commit": "2018-07-22T06:32:43Z",
+            "open_issues": 0,
             "owner": "dzyht",
             "repo": "rime_xkyb",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -842,12 +1198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 輸入方案：學界專供大字符集五筆字型輸入法",
+            "homepage": null,
             "id": 55890062,
             "language": null,
+            "license": null,
             "last_commit": "2018-04-07T01:56:54Z",
+            "open_issues": 0,
             "owner": "lotem",
             "repo": "rime-linguistic-wubi",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -858,12 +1219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strictly followed the word ordering of Windows Quick. Dictionary is from Yahoo! KeyKey IME.",
+            "homepage": null,
             "id": 279806923,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2020-07-15T08:19:36Z",
+            "open_issues": 0,
             "owner": "PokeGuys",
             "repo": "rime-simplex",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -874,12 +1240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "冰蟾全息码",
+            "homepage": null,
             "id": 82684579,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2017-06-06T08:21:29Z",
+            "open_issues": 1,
             "owner": "chengen12",
             "repo": "rime-bingchanquanxi",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -890,12 +1261,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "config for Rime input method",
+            "homepage": null,
             "id": 94227314,
             "language": null,
+            "license": null,
             "last_commit": "2017-06-20T01:39:52Z",
+            "open_issues": 0,
             "owner": "cmal",
             "repo": "rime-conf",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -906,12 +1282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "孤狐五筆 Rime 輸入方案",
+            "homepage": null,
             "id": 77332058,
             "language": null,
+            "license": null,
             "last_commit": "2016-12-25T17:19:53Z",
+            "open_issues": 1,
             "owner": "lotem",
             "repo": "rime-guhuwubi",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -922,12 +1303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "自用的 RIME 雙拼輸入法，含雙拼兩分方案，加雙拼兩分反查",
+            "homepage": null,
             "id": 760906281,
             "language": null,
+            "license": null,
             "last_commit": "2024-02-24T19:15:03Z",
+            "open_issues": 1,
             "owner": "saeziae",
             "repo": "rime-double-pinyin",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         }
@@ -944,12 +1330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "雙拼輸入方案",
+            "homepage": null,
             "id": 74137551,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-09-23T17:09:01Z",
+            "open_issues": 9,
             "owner": "rime",
             "repo": "rime-double-pinyin",
-            "stars": 472
+            "stars": 472,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -960,12 +1351,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "電腦 Rime 洋蔥方案（注音、雙拼、拼音）",
+            "homepage": null,
             "id": 292112591,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-08-26T21:16:10Z",
+            "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
-            "stars": 324
+            "stars": 324,
+            "topics": [
+              "bopomofo",
+              "hangeul",
+              "ime",
+              "input-method",
+              "japanese-kana",
+              "japanese-language",
+              "korean-language",
+              "multi-language",
+              "rime",
+              "rime-schema",
+              "rime-squirrel",
+              "rime-weasel"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -976,12 +1385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【朙月拼音】輸入方案",
+            "homepage": null,
             "id": 74136678,
             "language": null,
+            "license": "LGPL-3.0",
             "last_commit": "2026-07-12T05:01:55Z",
+            "open_issues": 19,
             "owner": "rime",
             "repo": "rime-luna-pinyin",
-            "stars": 281
+            "stars": 281,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -992,12 +1406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RIME输入法 增强词库",
+            "homepage": null,
             "id": 122933473,
             "language": null,
+            "license": null,
             "last_commit": "2020-04-30T13:50:32Z",
+            "open_issues": 4,
             "owner": "zhangheng18",
             "repo": "rime-dict",
-            "stars": 233
+            "stars": 233,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1008,12 +1427,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【袖珍簡化字拼音】輸入方案",
+            "homepage": null,
             "id": 74137485,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-12-29T09:47:36Z",
+            "open_issues": 4,
             "owner": "rime",
             "repo": "rime-pinyin-simp",
-            "stars": 181
+            "stars": 181,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1024,12 +1448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【地球拼音】輸入方案",
+            "homepage": null,
             "id": 74137037,
             "language": null,
+            "license": "LGPL-3.0",
             "last_commit": "2026-07-17T03:31:44Z",
+            "open_issues": 20,
             "owner": "rime",
             "repo": "rime-terra-pinyin",
-            "stars": 164
+            "stars": 164,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1040,12 +1469,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Double bopomo(ẑù-yīn), A Chinese Input Method for Taiwanese, ẑù-yīn users.雙碼注音，給注音使用者的雙拼輸入法。不需要額外學習漢語拼音。如果覺得不錯請幫我多多推廣宣傳。（繁體、中文、雙拼、輸入法、臺灣、正體）",
+            "homepage": null,
             "id": 218997231,
             "language": null,
+            "license": "LGPL-3.0",
             "last_commit": "2025-07-11T16:55:12Z",
+            "open_issues": 7,
             "owner": "imper0502",
             "repo": "rime-double-bopomo",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "bopomofo",
+              "cin",
+              "double-pin",
+              "fcitx-rime",
+              "ime",
+              "input-method",
+              "irime",
+              "rime",
+              "rime-ime",
+              "rime-schema",
+              "rime-squirrel",
+              "rime-weasel"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1056,12 +1503,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【极光拼音】输入方案",
+            "homepage": null,
             "id": 248426967,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-08-27T16:54:08Z",
+            "open_issues": 5,
             "owner": "hosxy",
             "repo": "rime-aurora-pinyin",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1072,12 +1524,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "銥 [Ir] 注音 — (又是一個) 基於 RIME、參酌其它注音輸入法習慣、符合臺灣使用習慣為規準的注音輸入方案。",
+            "homepage": null,
             "id": 131767773,
             "language": null,
+            "license": "MPL-2.0",
             "last_commit": "2025-07-20T09:10:56Z",
+            "open_issues": 5,
             "owner": "andy0130tw",
             "repo": "iridium-bpmf",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "bopomofo",
+              "ime",
+              "rime",
+              "zhuyin"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1088,12 +1550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【宮保拼音】輸入方案",
+            "homepage": null,
             "id": 74137651,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-06-01T12:43:55Z",
+            "open_issues": 1,
             "owner": "rime",
             "repo": "rime-combo-pinyin",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1104,12 +1571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "注音輸入方案",
+            "homepage": null,
             "id": 74137188,
             "language": null,
+            "license": "LGPL-3.0",
             "last_commit": "2026-05-09T10:33:20Z",
+            "open_issues": 0,
             "owner": "rime",
             "repo": "rime-bopomofo",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1120,12 +1592,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "帶聲調的雙拼方案",
+            "homepage": null,
             "id": 35462967,
             "language": null,
+            "license": null,
             "last_commit": "2021-04-02T14:38:42Z",
+            "open_issues": 8,
             "owner": "zaqzrh",
             "repo": "Tone-double_pinyin",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1136,12 +1613,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "李氏三拼方案，按“声、韵、调”三码输入一个带调音节，15键内无重音，QQ群：150478288",
+            "homepage": "http://lssp.ysepan.com",
             "id": 469109402,
             "language": "Lua",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-22T08:12:11Z",
+            "open_issues": 0,
             "owner": "arsenali",
             "repo": "rime-triple-pinyin-lssp",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1152,12 +1634,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 62962990,
             "language": null,
+            "license": null,
             "last_commit": "2016-07-23T11:13:55Z",
+            "open_issues": 1,
             "owner": "jacob-us",
             "repo": "lau_guoq_in",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1168,12 +1655,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rime 有声调普通话拼音方案",
+            "homepage": null,
             "id": 287308539,
             "language": "C++",
+            "license": "CC-BY-4.0",
             "last_commit": "2020-09-16T12:12:18Z",
+            "open_issues": 0,
             "owner": "ayaka14732",
             "repo": "rime-putonghua",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "chinese",
+              "rime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1184,12 +1680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime schema: an IM implementation of General Chinese (通字方案, Tung-dzih) by Yuan Ren Chao (趙元任), 1983",
+            "homepage": null,
             "id": 289415647,
             "language": "Lua",
+            "license": null,
             "last_commit": "2024-11-05T11:59:00Z",
+            "open_issues": 1,
             "owner": "baopaau",
             "repo": "rime-tungdzih",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1200,12 +1701,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "紫光双拼方案 rime输入法配置文件",
+            "homepage": null,
             "id": 189781543,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-18T15:30:46Z",
+            "open_issues": 0,
             "owner": "waveform",
             "repo": "ziguang_shuangpin",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "double-pinyin",
+              "rime-schema",
+              "shuangpin",
+              "unispim",
+              "ziguang"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1216,12 +1728,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 66533977,
             "language": null,
+            "license": null,
             "last_commit": "2025-06-07T13:26:33Z",
+            "open_issues": 0,
             "owner": "fuzy112",
             "repo": "rime-romatzyh",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1232,12 +1749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【打字速記法】輸入方案",
+            "homepage": null,
             "id": 74137777,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-10-09T04:21:34Z",
+            "open_issues": 0,
             "owner": "rime",
             "repo": "rime-stenotype",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1248,12 +1770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RIME输入方案：中国国家标准 双拼/三拼 (GB/T 34947-2017，通称国标双拼／国标三拼)",
+            "homepage": null,
             "id": 316709103,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-14T17:52:34Z",
+            "open_issues": 2,
             "owner": "baopaau",
             "repo": "rime-guobiao-quick",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1264,12 +1791,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小鹤双拼输入法（带声调） Input method for typing Chinese using Flypy Double Pinyin (Xiaohe Shuangpin) with Tones, for RIME",
+            "homepage": null,
             "id": 242673953,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-03T06:51:06Z",
+            "open_issues": 0,
             "owner": "gkovacs",
             "repo": "rime-td-pinyin-flypy",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "chinese",
+              "double-pinyin",
+              "flypy",
+              "input-method",
+              "rime",
+              "rime-schema",
+              "shuangpin",
+              "xiaohe"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1280,12 +1821,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "中華拼音輸入方案",
+            "homepage": null,
             "id": 264771014,
             "language": null,
+            "license": null,
             "last_commit": "2021-01-30T17:58:10Z",
+            "open_issues": 0,
             "owner": "qpng",
             "repo": "tyungrua",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1296,12 +1842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基於 Rime 拼寫運算的拼音互譯輸入方案，可以將漢語拼音轉譯爲注音符號等其他形式。",
+            "homepage": null,
             "id": 288444112,
             "language": null,
+            "license": null,
             "last_commit": "2020-12-09T09:05:23Z",
+            "open_issues": 0,
             "owner": "baopaau",
             "repo": "rime-pinyin-translating",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1312,12 +1863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "這是關於漢語拼音和國語羅馬字結合體的一種RIME方案，整理自1985年《新唐》雜誌，需配合terra_pinyin.dict使用",
+            "homepage": null,
             "id": 74422168,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2016-11-22T01:35:47Z",
+            "open_issues": 0,
             "owner": "tsauibusato",
             "repo": "xintalng_pinyin",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1328,12 +1884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 輸入方案：國語耶魯拼音 (Yale romanization of Mandarin)",
+            "homepage": null,
             "id": 316567480,
             "language": null,
+            "license": null,
             "last_commit": "2021-03-11T05:27:49Z",
+            "open_issues": 0,
             "owner": "baopaau",
             "repo": "rime-yale-mandarin",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1344,12 +1905,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "宫保拼音输入方案的修改",
+            "homepage": null,
             "id": 301550307,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2021-11-24T04:30:35Z",
+            "open_issues": 0,
             "owner": "zhanghaozhecn",
             "repo": "rime-combo-pinyin-mod",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "chinese",
+              "chinese-input-method"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1360,12 +1929,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 輸入方案：三拼國羅／Xanpin Gorlor（設計者：黃挺 @inzoi）",
+            "homepage": null,
             "id": 289941963,
             "language": null,
+            "license": null,
             "last_commit": "2020-11-27T20:44:01Z",
+            "open_issues": 0,
             "owner": "baopaau",
             "repo": "rime-gorlor",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -1376,12 +1950,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 輸入方案：國語注音符號第二式（注音二式／國音二式）MPS II",
+            "homepage": null,
             "id": 316566939,
             "language": null,
+            "license": null,
             "last_commit": "2020-12-08T21:23:39Z",
+            "open_issues": 0,
             "owner": "baopaau",
             "repo": "rime-mps2",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         }
@@ -1403,12 +1982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RIME 上古漢語輸入方案集",
+                "homepage": null,
                 "id": 585748497,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-24T11:49:33Z",
+                "open_issues": 0,
                 "owner": "Hulenkius",
                 "repo": "RIME_OC_collections",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             }
@@ -1426,12 +2010,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rime TUPA input schema | rime 切韻拼音輸入方案",
+                "homepage": null,
                 "id": 470453345,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-02-12T15:35:44Z",
+                "open_issues": 1,
                 "owner": "nk2028",
                 "repo": "rime-tupa",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "historical-linguistics",
+                  "input-method",
+                  "middle-chinese",
+                  "rime",
+                  "rime-schema"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1442,12 +2037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "中古漢語（切韻音系）全拼及三拼",
+                "homepage": null,
                 "id": 74897304,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-03-26T07:14:30Z",
+                "open_issues": 2,
                 "owner": "biopolyhedron",
                 "repo": "rime-middle-chinese",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1458,12 +2058,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rime 中古漢語拼音（古韻羅馬字版）方案",
+                "homepage": null,
                 "id": 351649388,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2022-04-15T07:06:26Z",
+                "open_issues": 1,
                 "owner": "nk2028",
                 "repo": "rime-kyonh",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "historical-linguistics",
+                  "middle-chinese",
+                  "qieyun",
+                  "rime",
+                  "rime-schema"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1474,12 +2085,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "爾切羅馬字",
+                "homepage": null,
                 "id": 82054111,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-06-24T14:33:15Z",
+                "open_issues": 0,
                 "owner": "rime-aca",
                 "repo": "rime-nieh-ched",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1490,12 +2106,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "中古漢語輸入方案（白一平轉寫）",
+                "homepage": null,
                 "id": 333795947,
                 "language": null,
+                "license": "LGPL-3.0",
                 "last_commit": "2021-01-28T15:14:49Z",
+                "open_issues": 0,
                 "owner": "shinzoqchiuq",
                 "repo": "rime-trjuwngkux",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "input-method",
+                  "middle-chinese",
+                  "rime",
+                  "rime-schema"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1506,12 +2132,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "唐韻（中古漢語）拼音方案",
+                "homepage": null,
                 "id": 82054527,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-02-15T11:49:40Z",
+                "open_issues": 0,
                 "owner": "rime-aca",
                 "repo": "rime-dangrvond",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1522,12 +2153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "廣韻段毄攴字灋",
+                "homepage": null,
                 "id": 82054080,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-02-15T11:50:12Z",
+                "open_issues": 0,
                 "owner": "rime-aca",
                 "repo": "rime-kmg",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1538,12 +2174,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 447585781,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-27T00:11:50Z",
+                "open_issues": 0,
                 "owner": "uliloewi",
                 "repo": "guang2tong1zhong1gu3",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1554,12 +2195,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 77287728,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-06-23T09:16:33Z",
+                "open_issues": 1,
                 "owner": "inzoi",
                 "repo": "inzoi.github.io",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             }
@@ -1582,12 +2228,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rime 中原官話輸入方案",
+                    "homepage": null,
                     "id": 3649363,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-07-02T15:30:37Z",
+                    "open_issues": 1,
                     "owner": "lotem",
                     "repo": "rime-zhung",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
                 },
@@ -1598,12 +2249,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 14066841,
                     "language": null,
+                    "license": null,
                     "last_commit": "2016-04-03T17:29:22Z",
+                    "open_issues": 0,
                     "owner": "Patricivs",
                     "repo": "lakyang",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
                 },
@@ -1614,12 +2270,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "開源的棗莊話RIME碼錶",
+                    "homepage": null,
                     "id": 66741570,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2016-10-02T12:30:54Z",
+                    "open_issues": 0,
                     "owner": "tsauibusato",
                     "repo": "yihdjoouhuah",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
                 }
@@ -1637,12 +2298,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "南京官話拼音輸入法",
+                    "homepage": null,
                     "id": 169585833,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-07-13T15:02:08Z",
+                    "open_issues": 0,
                     "owner": "uliloewi",
                     "repo": "lang2jin1",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
                 },
@@ -1653,12 +2319,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "南通话拼音输入法 An input method for Nantong Chinese using the RIME engine",
+                    "homepage": "http://nantonghua.net",
                     "id": 192996735,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-02-13T13:43:51Z",
+                    "open_issues": 0,
                     "owner": "gaozhiyan",
                     "repo": "rime-nantong",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "chinese-dialects",
+                      "chinese-input-method",
+                      "nantong-chinese",
+                      "rime",
+                      "rime-ime",
+                      "rime-schema"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
                 },
@@ -1669,12 +2347,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "泰如拼音輸入法rime",
+                    "homepage": null,
                     "id": 272956731,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-06-17T11:36:01Z",
+                    "open_issues": 0,
                     "owner": "osfans",
                     "repo": "rime-taerv",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
                 },
@@ -1685,12 +2368,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "基於rime的淮拼（全字／雙字）輸入法",
+                    "homepage": null,
                     "id": 669343389,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-07-24T03:25:00Z",
+                    "open_issues": 0,
                     "owner": "Sonner114514",
                     "repo": "huaipin",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
                 }
@@ -1708,12 +2396,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 146390286,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2022-04-21T08:02:29Z",
+                    "open_issues": 3,
                     "owner": "Papnas",
                     "repo": "shupin",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
                 },
@@ -1724,12 +2417,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "咵一咵湖北话",
+                    "homepage": null,
                     "id": 176270177,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2021-02-15T04:49:08Z",
+                    "open_issues": 1,
                     "owner": "yuxifongfei",
                     "repo": "hubehua",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
                 },
@@ -1740,12 +2438,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "永州官話輸入方案 · 永州官话输入方案 · A Rime input schema for Yongzhou Dialect",
+                    "homepage": null,
                     "id": 369035689,
                     "language": null,
+                    "license": "LGPL-3.0",
                     "last_commit": "2023-01-21T07:12:47Z",
+                    "open_issues": 0,
                     "owner": "shinzoqchiuq",
                     "repo": "rime-yunciu",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "chinese",
+                      "chinese-dialects",
+                      "chinese-language",
+                      "input-method",
+                      "rime",
+                      "rime-schema",
+                      "yongzhou",
+                      "yongzhou-dialect"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
                 }
@@ -1763,12 +2475,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "老國音（舊式國音/Old National Pronunciation of Standard Mandarin）輸入法整合：直接以注音字母編寫碼表，通過RIME拼寫轉換實現十多種不同的注音鍵盤或羅馬拼音輸入方案",
+                    "homepage": null,
                     "id": 839768544,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2024-10-20T08:06:36Z",
+                    "open_issues": 1,
                     "owner": "baopaau",
                     "repo": "rime-bepemefeve",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
                 }
@@ -1788,12 +2505,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "汾阳话拼音输入方案",
+                "homepage": null,
                 "id": 434903832,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-10-09T13:48:46Z",
+                "open_issues": 0,
                 "owner": "Hynuza",
                 "repo": "fengyo_type",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1804,12 +2526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "嘉樂泉的拼音方案 基於中州韻輸入法引擎",
+                "homepage": null,
                 "id": 108528386,
                 "language": null,
+                "license": "LGPL-3.0",
                 "last_commit": "2022-05-09T02:33:27Z",
+                "open_issues": 0,
                 "owner": "iaoiezaon",
                 "repo": "rime-jieny",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             }
@@ -1827,12 +2554,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "寧波閒話吳語拼音輸入方案 · 寧波話吳語拼音輸入方案 · A Rime input schema for Ningbo Dialect",
+                "homepage": null,
                 "id": 161583425,
                 "language": null,
+                "license": "LGPL-3.0",
                 "last_commit": "2026-07-24T01:58:15Z",
+                "open_issues": 0,
                 "owner": "NGLI",
                 "repo": "rime-wugniu_gninpou",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "chinese",
+                  "chinese-dialects",
+                  "chinese-language",
+                  "input-method",
+                  "ningbo",
+                  "ningbo-dialect",
+                  "ningponese",
+                  "rime",
+                  "rime-schema",
+                  "wu-chinese"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1843,12 +2586,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "上海吳語拼音輸入方案 · 上海吴语拼音输入方案 · Rime input schemas for Shanghai Dialects",
+                "homepage": null,
                 "id": 174667687,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-05T07:23:53Z",
+                "open_issues": 0,
                 "owner": "NGLI",
                 "repo": "rime-wugniu_zaonhe",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "chinese",
+                  "chinese-dialects",
+                  "chinese-language",
+                  "input-method",
+                  "rime",
+                  "rime-schema",
+                  "shanghai",
+                  "shanghainese",
+                  "wu-chinese"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1859,12 +2617,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "吳語協會式上海話輸入法/吴语协会式上海话输入法：以吳語協會式拼音爲基礎的 Rime 上海話輸入方案。",
+                "homepage": null,
                 "id": 180562627,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2023-06-03T18:36:58Z",
+                "open_issues": 0,
                 "owner": "yuanhao-chen-nyoeghau",
                 "repo": "rime-yahwe_zaonhe",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "input-method",
+                  "latinization",
+                  "rime",
+                  "romanization",
+                  "shanghainese",
+                  "wu-chinese"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1875,12 +2645,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基於Rime的溫州話輸入方案規則；基于Rime的温州话输入方案规则（采用沈克成先生-沈迦先生的拼音方案）",
+                "homepage": "https://zwolken.github.io/rime-wenzhounese/",
                 "id": 661475441,
                 "language": "SCSS",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-08-30T03:57:15Z",
+                "open_issues": 1,
                 "owner": "ZWolken",
                 "repo": "rime-wenzhounese",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "chinese",
+                  "dialect",
+                  "input-method",
+                  "language",
+                  "wenzhou",
+                  "wenzhounese",
+                  "wu",
+                  "wugniu"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1891,12 +2675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "上海吳語輸入方案",
+                "homepage": null,
                 "id": 74138034,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-18T03:47:00Z",
+                "open_issues": 0,
                 "owner": "rime",
                 "repo": "rime-wugniu",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1907,12 +2696,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "蘇州吳語拼音輸入方案 · 苏州吴语拼音输入方案 · A Rime input schema for Suzhou Dialect",
+                "homepage": null,
                 "id": 174655650,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-25T03:21:48Z",
+                "open_issues": 1,
                 "owner": "NGLI",
                 "repo": "rime-wugniu_soutseu",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "chinese",
+                  "chinese-dialects",
+                  "chinese-language",
+                  "input-method",
+                  "rime",
+                  "rime-schema",
+                  "suzhou",
+                  "suzhou-dialect",
+                  "suzhounese",
+                  "wu-chinese"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1923,12 +2728,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standardized Wu Language Method for RIME",
+                "homepage": "https://nguphing.estela.moe",
                 "id": 259520230,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-01-24T13:31:57Z",
+                "open_issues": 2,
                 "owner": "saeziae",
                 "repo": "rime_nguphing",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "chinese-learning",
+                  "localization",
+                  "rime-schema",
+                  "shanghainese",
+                  "wu-chinese",
+                  "wu-language"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1939,12 +2756,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "非吳拼上海話輸入方案 · 非吴拼上海话输入方案",
+                "homepage": null,
                 "id": 243258990,
                 "language": null,
+                "license": "LGPL-3.0",
                 "last_commit": "2025-09-05T08:34:00Z",
+                "open_issues": 0,
                 "owner": "shinzoqchiuq",
                 "repo": "rime-shanghainese",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "chinese",
+                  "chinese-dialects",
+                  "chinese-language",
+                  "input-method",
+                  "rime",
+                  "rime-schema",
+                  "shanghai",
+                  "shanghainese",
+                  "wu-chinese"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1955,12 +2787,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "蘇州吳語輸入方案",
+                "homepage": null,
                 "id": 74138100,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2019-01-20T14:33:44Z",
+                "open_issues": 0,
                 "owner": "rime",
                 "repo": "rime-soutzoe",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1971,12 +2808,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "寧波話輸入方案變體 · 宁波话输入方案变体 · Variant Input Schemas for Ningbo Dialect",
+                "homepage": null,
                 "id": 441619256,
                 "language": null,
+                "license": "LGPL-3.0",
                 "last_commit": "2026-01-18T13:53:54Z",
+                "open_issues": 0,
                 "owner": "ionkaon",
                 "repo": "rime-gninpou-variant",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "chinese",
+                  "chinese-dialects",
+                  "chinese-language",
+                  "input-method",
+                  "ningbo",
+                  "ningbo-dialect",
+                  "ningponese",
+                  "rime",
+                  "rime-schema",
+                  "wu-chinese"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -1987,12 +2840,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "寧波話雙拼輸入方案",
+                "homepage": null,
                 "id": 1136207959,
                 "language": null,
+                "license": "LGPL-3.0",
                 "last_commit": "2026-01-18T13:54:04Z",
+                "open_issues": 0,
                 "owner": "ionkaon",
                 "repo": "rime-gninpou-saonphin",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "chinese",
+                  "chinese-dialects",
+                  "chinese-languages",
+                  "double-pinyin",
+                  "input-method",
+                  "ningbo",
+                  "ningbo-dialect",
+                  "ningponese",
+                  "rime",
+                  "rime-schema",
+                  "wu-chinese"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2003,12 +2873,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "晚清寧波話輸入方案",
+                "homepage": null,
                 "id": 445821097,
                 "language": null,
+                "license": "LGPL-3.0",
                 "last_commit": "2026-03-22T15:27:52Z",
+                "open_issues": 0,
                 "owner": "ionkaon",
                 "repo": "rime-old-nyingpo",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "chinese",
+                  "chinese-dialects",
+                  "chinese-language",
+                  "input-method",
+                  "ningbo",
+                  "ningbo-dialect",
+                  "ningponese",
+                  "rime",
+                  "rime-schema",
+                  "wu-chinese"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2019,12 +2905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "樂清話拼音輸入法",
+                "homepage": null,
                 "id": 129612468,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-04-15T13:34:35Z",
+                "open_issues": 0,
                 "owner": "lotem",
                 "repo": "rime-aoyu",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2035,12 +2926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A RIME IME for Wenzhounese",
+                "homepage": null,
                 "id": 338553111,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-05-08T09:52:56Z",
+                "open_issues": 0,
                 "owner": "pearapple123",
                 "repo": "rime-iuciou",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2051,12 +2947,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "嘉興（五縣兩區）吳語拼音輸入方案 · 嘉兴（五县两区）吴语拼音输入方案 · Rime input schemas for Jiaxing Dialects",
+                "homepage": null,
                 "id": 174638845,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-25T03:21:46Z",
+                "open_issues": 0,
                 "owner": "NGLI",
                 "repo": "rime-wugniu_kashin",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "chinese",
+                  "chinese-dialects",
+                  "chinese-language",
+                  "input-method",
+                  "jiaxing",
+                  "jiaxing-dialect",
+                  "rime",
+                  "rime-schema",
+                  "wu-chinese"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             }
@@ -2074,12 +2985,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基於Rime平臺的湘語邵東話輸入方案",
+                "homepage": null,
                 "id": 516391076,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-15T09:15:40Z",
+                "open_issues": 0,
                 "owner": "AlfredLouis00",
                 "repo": "rime-Sautungva",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "rime",
+                  "rime-schema",
+                  "xiang"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             }
@@ -2097,12 +3017,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "潮语拼音输入法 (Rime schema for Teochew dialect)",
+                "homepage": "https://kahaani.github.io/dieghv/",
                 "id": 47263861,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2019-02-18T12:21:29Z",
+                "open_issues": 15,
                 "owner": "kahaani",
                 "repo": "dieghv",
-                "stars": 125
+                "stars": 125,
+                "topics": [
+                  "rime",
+                  "rime-schema",
+                  "romanization",
+                  "teochew"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2113,12 +3043,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "閩南語臺羅輸入方案，為RIME輸入法所設計",
+                "homepage": null,
                 "id": 60600200,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-07-09T18:00:21Z",
+                "open_issues": 6,
                 "owner": "a-thok",
                 "repo": "rime-hokkien",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2129,12 +3064,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "萌台語：基於萌典 API 的 RIME 臺語輸入法，使用注音符號輕鬆輸入台語。",
+                "homepage": null,
                 "id": 381368295,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2022-07-15T06:37:22Z",
+                "open_issues": 4,
                 "owner": "whyjz",
                 "repo": "rime-moetaigi",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "bopomofo",
+                  "ime",
+                  "moedict",
+                  "rime",
+                  "taigi"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2145,12 +3091,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taigi-TPS 台語方音輸入法（基於 RIME 引擎）",
+                "homepage": "https://github.com/YuRen-tw/rime-taigi-tps/wiki",
                 "id": 324831395,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-05-17T00:05:39Z",
+                "open_issues": 1,
                 "owner": "YuRen-tw",
                 "repo": "rime-taigi-tps",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "bopomofo",
+                  "ime",
+                  "rime",
+                  "rime-schema",
+                  "taigi"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2161,12 +3118,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "潮州話拍字方案，包含漢字、白話字佮潮拼（Teochew Input Schema for Rime, including Chinese character, PUJ and DP），還支持普通話查詢、English 查詢等。",
+                "homepage": null,
                 "id": 461372701,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-05T16:00:26Z",
+                "open_issues": 0,
                 "owner": "OpenTeochew",
                 "repo": "rime-teochew",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "hokkien-writing",
+                  "rime-schema",
+                  "teochew",
+                  "teochew-romanization"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2177,12 +3144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 372075021,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-13T18:12:15Z",
+                "open_issues": 0,
                 "owner": "Language-Preservation-Community",
                 "repo": "Community-Min-Language-Rime",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2193,12 +3165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "潮語 潮汕話 潮州話RIME輸入方案",
+                "homepage": null,
                 "id": 45334494,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-01-10T10:52:31Z",
+                "open_issues": 0,
                 "owner": "femkerr",
                 "repo": "dieghe",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2209,12 +3186,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rime Bân-lâm-gú Lô-má-jī su-ji̍p hong-àn.  Rime 閩南語羅馬字輸入方案。",
+                "homepage": null,
                 "id": 244589180,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-15T07:48:29Z",
+                "open_issues": 0,
                 "owner": "unsioer",
                 "repo": "rime-lomaji",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "hokkien",
+                  "rime"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2225,12 +3210,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type Hokkien (Taiwanese) Han-ji using POJ (Pe̍h-Ōe-Ji, Church Romanisation).",
+                "homepage": null,
                 "id": 366680302,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-05-12T10:40:24Z",
+                "open_issues": 0,
                 "owner": "yangwenbo99",
                 "repo": "rime-hokkien-poj",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2241,12 +3231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 129757414,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-06-30T08:55:02Z",
+                "open_issues": 0,
                 "owner": "LimTo",
                 "repo": "etaiBLG",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2257,12 +3252,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "福建話拍字方案，包含漢字、白話字、台羅佮閩拼（Hokkien Input Schema for Rime, including Chinese character, POJ, TL and BP），還支持普通話查詢、English 查詢等。",
+                "homepage": null,
                 "id": 1221613700,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-04T11:26:57Z",
+                "open_issues": 0,
                 "owner": "hokkien-writing",
                 "repo": "rime-hokkien",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "hokkien",
+                  "hokkien-romanization",
+                  "hokkien-writing",
+                  "rime-schema"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             }
@@ -2280,12 +3285,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "電子化平話字音表｡ 戚林八音校注､ Dictionary of the Foochow Dialect｡ 校對中, 尚未完善, 請謹慎取用｡ ",
+                "homepage": "https://only3km.github.io/ciklinbekin",
                 "id": 62117514,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-29T12:32:09Z",
+                "open_issues": 9,
                 "owner": "only3km",
                 "repo": "ciklinbekin",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "dictionary"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2296,12 +3308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RIME输入方案：福州话教会罗马字（Lò̤-mā-cê / Foochow Romanization）",
+                "homepage": null,
                 "id": 222109504,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-02-22T15:38:19Z",
+                "open_issues": 0,
                 "owner": "ZySieng",
                 "repo": "Foochow-Romanization",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             }
@@ -2319,12 +3336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "齐来写㑚莆仙话 zé-lih siâ nâh póu-seng-uā",
+                "homepage": null,
                 "id": 172439745,
                 "language": null,
+                "license": "MPL-2.0",
                 "last_commit": "2019-11-22T02:43:52Z",
+                "open_issues": 0,
                 "owner": "Yaryou",
                 "repo": "HinghuaFactory",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             }
@@ -2342,12 +3364,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hakka words database",
+                "homepage": null,
                 "id": 166357324,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-04-19T01:35:23Z",
+                "open_issues": 0,
                 "owner": "syndict",
                 "repo": "hakka",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2358,12 +3385,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rime Hakka (Taibu) Input Schema 大埔客家語拼音輸入方案",
+                "homepage": null,
                 "id": 279075418,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2020-07-13T19:48:17Z",
+                "open_issues": 0,
                 "owner": "huangjunxin",
                 "repo": "Rime-Hakka-TaibuShang",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             }
@@ -2381,12 +3413,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rime Cantonese input schema | 中州韻粵語拼音輸入方案",
+                "homepage": "https://jyutping.net",
                 "id": 206629805,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-13T09:55:49Z",
+                "open_issues": 13,
                 "owner": "rime",
                 "repo": "rime-cantonese",
-                "stars": 672
+                "stars": 672,
+                "topics": [
+                  "cantonese",
+                  "cantonese-dictionary",
+                  "cantonese-language",
+                  "chinese",
+                  "chinese-language",
+                  "chinese-nlp",
+                  "ime",
+                  "input-method",
+                  "jyutping",
+                  "linguistics",
+                  "rime",
+                  "rime-schema",
+                  "typing"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2397,12 +3448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "中州韻粵語拼音輸入法分歧拼音系統補丁 | For users of alternative Cantonese romanisation schemes",
+                "homepage": null,
                 "id": 261695306,
                 "language": null,
+                "license": "LGPL-3.0",
                 "last_commit": "2025-09-29T02:21:02Z",
+                "open_issues": 0,
                 "owner": "CanCLID",
                 "repo": "rime-cantonese-schemes",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2413,12 +3469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基於rime的粵語雙拼方案",
+                "homepage": null,
                 "id": 245169544,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-05-05T08:09:08Z",
+                "open_issues": 0,
                 "owner": "MrCorn0-0",
                 "repo": "jyutsp",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2429,12 +3490,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "粤语双拼输入法 Input method for typing Chinese using Cantonese pronunciations with 2-3 keys per character, based on RIME",
+                "homepage": null,
                 "id": 244290671,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-07-25T23:53:02Z",
+                "open_issues": 0,
                 "owner": "gkovacs",
                 "repo": "rime-double-jyutping-extra",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "cantonese",
+                  "chinese",
+                  "double-pinyin",
+                  "input-method",
+                  "jyutping",
+                  "rime",
+                  "rime-schema",
+                  "shuangpin"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2445,12 +3520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A RIME IME for Taishanese",
+                "homepage": null,
                 "id": 341857466,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2023-08-03T07:45:31Z",
+                "open_issues": 4,
                 "owner": "pearapple123",
                 "repo": "rime-hoisanva",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2461,12 +3541,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jyutsoeng IME scheme based on RIME framework (https://github.com/rime)",
+                "homepage": null,
                 "id": 84784602,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2019-09-01T13:00:09Z",
+                "open_issues": 0,
                 "owner": "CanCLID",
                 "repo": "Jyutsoeng",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2477,12 +3562,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "粵語分歧拼音系統排版工具",
+                "homepage": null,
                 "id": 267219810,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-06T16:49:28Z",
+                "open_issues": 0,
                 "owner": "CanCLID",
                 "repo": "rime-cantonese-schemes-editor",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2493,12 +3583,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RIME keyboard for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Cantonese.",
+                "homepage": null,
                 "id": 357285651,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-06-23T08:26:42Z",
+                "open_issues": 7,
                 "owner": "jyutcitzi",
                 "repo": "jyutcitzi-RIME",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "cantonese",
+                  "cantonese-dictionary",
+                  "cantonese-language",
+                  "faancit",
+                  "input-method",
+                  "jyutcitzi",
+                  "jyutcitzi-characters",
+                  "jyutcitzi-keyboard",
+                  "jyutcitzi-rime",
+                  "rime",
+                  "rime-config",
+                  "rime-custom",
+                  "rime-keyboard",
+                  "rime-schema"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2509,12 +3619,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rime Nanning Dialect Input Scheme | 南寧話輸入方案",
+                "homepage": null,
                 "id": 163563072,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:44:22Z",
+                "open_issues": 0,
                 "owner": "leimaau",
                 "repo": "naamning_jyutping",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "rime",
+                  "rime-schema"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2525,12 +3643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rime Old Cantonese Input Scheme | 《分韻撮要》音系及輸入方案",
+                "homepage": null,
                 "id": 216824401,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-01T19:34:16Z",
+                "open_issues": 0,
                 "owner": "leimaau",
                 "repo": "old-Cantonese",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2541,12 +3664,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "並擊輸入粵語方案",
+                "homepage": null,
                 "id": 257648939,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-28T22:49:46Z",
+                "open_issues": 0,
                 "owner": "tanxpyox",
                 "repo": "rime-combo-jyutping",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "cantonese",
+                  "chording",
+                  "ime",
+                  "input-method",
+                  "jyutping",
+                  "rime-schema"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2557,12 +3692,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "勾漏粤拼输入方案。 Gaulau Cantonese, a Cantonese subdialect input schema based on Jyutping romanisation system.",
+                "homepage": null,
                 "id": 35531712,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-04-22T13:35:52Z",
+                "open_issues": 1,
                 "owner": "cryptogun",
                 "repo": "gaulau_jyutping",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2573,12 +3713,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "袖珍粵拼",
+                "homepage": null,
                 "id": 82054387,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-02-15T11:49:57Z",
+                "open_issues": 2,
                 "owner": "rime-aca",
                 "repo": "rime-jyutping-compact",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2589,12 +3734,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rime 粵語羅馬字輸入方案",
+                "homepage": null,
                 "id": 280812302,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-07-20T14:22:58Z",
+                "open_issues": 0,
                 "owner": "fuzy112",
                 "repo": "rime-yutlo",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2605,12 +3755,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "欽州白話碼表",
+                "homepage": null,
                 "id": 216648973,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-11T12:34:01Z",
+                "open_issues": 0,
                 "owner": "LaiJoengzit",
                 "repo": "hamzau_jyutping",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "cantonese",
+                  "rime"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2621,12 +3779,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rime 阳江话拼音输入方案",
+                "homepage": null,
                 "id": 817702741,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-02T13:55:42Z",
+                "open_issues": 0,
                 "owner": "Lumen01",
                 "repo": "rime-jienggong-cantonese",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2637,12 +3800,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "粵語注音系統",
+                "homepage": null,
                 "id": 267100161,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2020-08-16T12:08:12Z",
+                "open_issues": 1,
                 "owner": "CanCLID",
                 "repo": "rime-cantonese-bpmf",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2653,12 +3821,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "粵語工作組碼表 （分歧拼音系統）",
+                "homepage": null,
                 "id": 274316961,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2020-07-20T16:41:04Z",
+                "open_issues": 0,
                 "owner": "CanCLID",
                 "repo": "rime-cantonese-alt-dict",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "cantonese",
+                  "cantonese-language",
+                  "jyutping"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -2669,12 +3846,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jyutgaan | 粵語簡拼 | RIME粵語簡拼輸入方案",
+                "homepage": null,
                 "id": 199400295,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2020-08-15T06:08:34Z",
+                "open_issues": 0,
                 "owner": "redchenjs",
                 "repo": "rime-jyutgaan",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             }
@@ -2692,12 +3874,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rime Nanning Dialect Input Scheme | 南寧話輸入方案",
+                "homepage": null,
                 "id": 163563072,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:44:22Z",
+                "open_issues": 0,
                 "owner": "leimaau",
                 "repo": "naamning_jyutping",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "rime",
+                  "rime-schema"
+                ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             }
@@ -2716,12 +3906,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "日语输入法 Input method for typing Japanese with RIME",
+            "homepage": null,
             "id": 244325153,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-12T09:01:34Z",
+            "open_issues": 9,
             "owner": "gkovacs",
             "repo": "rime-japanese",
-            "stars": 402
+            "stars": 402,
+            "topics": [
+              "input-method",
+              "japanese",
+              "nihongo",
+              "rime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2732,12 +3933,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime / Easy English 英文输入法",
+            "homepage": null,
             "id": 187191574,
             "language": "Lua",
+            "license": "LGPL-3.0",
             "last_commit": "2025-02-28T04:07:46Z",
+            "open_issues": 3,
             "owner": "BlindingDark",
             "repo": "rime-easy-en",
-            "stars": 394
+            "stars": 393,
+            "topics": [
+              "rime"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2748,12 +3956,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "李さんの日本語入力方法。一個Rime日語方案，完全忽略音読訓読，使用漢語拼音录入日語漢字字形，使用羅馬音録入仮名。適用於基本不懂日語並且無意深入学習，但是又有一定日語書写の人。",
+            "homepage": null,
             "id": 372003284,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-06-22T13:52:22Z",
+            "open_issues": 1,
             "owner": "tumuyan",
             "repo": "rime-pinyin-jap",
-            "stars": 208
+            "stars": 208,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2764,12 +3977,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IPA / 國際音標輸入方案",
+            "homepage": null,
             "id": 74141753,
             "language": null,
+            "license": "LGPL-3.0",
             "last_commit": "2021-01-28T09:05:30Z",
+            "open_issues": 6,
             "owner": "rime",
             "repo": "rime-ipa",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2780,12 +3998,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nushu input method | 𛆁𛈬𛈬𛇈𛊡 | 女书输入法",
+            "homepage": "https://nushuscript.org/",
             "id": 162142576,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2020-07-22T03:17:58Z",
+            "open_issues": 2,
             "owner": "nushu-script",
             "repo": "rime-nushu",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "input",
+              "nushu",
+              "rime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2796,12 +4024,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "poly日文",
+            "homepage": null,
             "id": 74902341,
             "language": null,
+            "license": null,
             "last_commit": "2023-11-21T10:27:24Z",
+            "open_issues": 1,
             "owner": "biopolyhedron",
             "repo": "rime-jap-poly",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2812,12 +4045,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Input Chinese words by Japanese Kunyomi with Rime | Rimeとともに中国語単語を日本語訓読みで入力",
+            "homepage": null,
             "id": 152180951,
             "language": null,
+            "license": null,
             "last_commit": "2020-07-09T02:25:51Z",
+            "open_issues": 0,
             "owner": "sgalal",
             "repo": "rime-kunyomi",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "japanese",
+              "japanese-dictionary",
+              "japanese-language",
+              "rime",
+              "rime-config",
+              "rime-custom",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2828,12 +4074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 303672494,
             "language": "Lua",
+            "license": null,
             "last_commit": "2021-04-15T17:03:57Z",
+            "open_issues": 2,
             "owner": "shewer",
             "repo": "rime-english",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2844,12 +4095,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime Korean Schema",
+            "homepage": "https://blog.einverne.info/post/2019/08/rime-korean-japanese-input-method.html",
             "id": 204491957,
             "language": null,
+            "license": null,
             "last_commit": "2020-02-16T02:57:09Z",
+            "open_issues": 1,
             "owner": "einverne",
             "repo": "rime-hangul",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "hangul",
+              "rime",
+              "rime-ime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2860,12 +4121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 拉丁字母混合輸入",
+            "homepage": null,
             "id": 74902513,
             "language": null,
+            "license": null,
             "last_commit": "2025-01-16T06:55:50Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-latin-international",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2876,12 +4142,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "越南語 拼音+Telex 輸入法 for Rime.  這是一個在學習越南語過程的自用小工具。",
+            "homepage": null,
             "id": 265733633,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-16T07:15:43Z",
+            "open_issues": 0,
             "owner": "JaplinChen",
             "repo": "rime-vietnamese-pinyin",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "chinese-language",
+              "dict-vietnamesewordlist",
+              "pinyin-ime",
+              "python",
+              "rime",
+              "telex",
+              "vietnamese",
+              "vietnamese-language",
+              "weasel",
+              "xlsx"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2892,12 +4174,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Three Hangul ( Korean alphabet ) input method for Rime Engine.",
+            "homepage": null,
             "id": 204699627,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-06-30T11:14:14Z",
+            "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Hangul_Rime_Files",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "hangeul",
+              "hangul",
+              "hangul-2set",
+              "hangul-hnc"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2908,12 +4200,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RIME keyboard layout for typing Spanish, French, German, Portuguese, and Hungarian. Supports QWERTY and colemak",
+            "homepage": null,
             "id": 389298051,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-23T05:51:08Z",
+            "open_issues": 0,
             "owner": "gkovacs",
             "repo": "rime-spanish",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "accented-characters",
+              "french",
+              "german",
+              "hungarian",
+              "latin-alphabet",
+              "magyar",
+              "plum",
+              "portuguese",
+              "rime",
+              "rime-schema",
+              "spanish"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2924,12 +4233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "世界语输入方案",
+            "homepage": null,
             "id": 129612488,
             "language": null,
+            "license": "LGPL-3.0",
             "last_commit": "2022-04-12T12:34:15Z",
+            "open_issues": 0,
             "owner": "arsenali",
             "repo": "rime-esperanto",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2940,12 +4254,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Input Chinese words by Korean pronunciation",
+            "homepage": null,
             "id": 172304640,
             "language": null,
+            "license": null,
             "last_commit": "2020-05-31T08:47:33Z",
+            "open_issues": 0,
             "owner": "sgalal",
             "repo": "rime-hanja",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "chinese-characters",
+              "input-method",
+              "rime",
+              "rime-config",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2956,12 +4281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime Korean input schema | 韓國語輸入方案",
+            "homepage": null,
             "id": 275165955,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-06-26T14:15:18Z",
+            "open_issues": 0,
             "owner": "LiGhauNgyan",
             "repo": "rime-korean",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2972,12 +4302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "埃及象形文字聖書體MdC轉寫",
+            "homepage": null,
             "id": 259039921,
             "language": null,
+            "license": null,
             "last_commit": "2020-05-03T07:09:36Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-hieroglyph-mdc",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2988,12 +4323,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "韩语输入法 RIME IME schema for typing Korean Hangul and Hanja",
+            "homepage": null,
             "id": 244337569,
             "language": null,
+            "license": null,
             "last_commit": "2020-07-10T23:29:15Z",
+            "open_issues": 2,
             "owner": "gkovacs",
             "repo": "rime-korean",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "hangul",
+              "hanja",
+              "input-method",
+              "korean",
+              "plum",
+              "rime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3004,12 +4352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RIME IME schema for inputting Vietnamese",
+            "homepage": null,
             "id": 245377396,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-03-07T01:08:13Z",
+            "open_issues": 0,
             "owner": "gkovacs",
             "repo": "rime-vietnamese",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3020,12 +4373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rime阿拉伯字母國際鍵盤",
+            "homepage": null,
             "id": 74773608,
             "language": null,
+            "license": null,
             "last_commit": "2024-09-21T15:37:09Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-arabic",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3036,12 +4394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 藏文",
+            "homepage": null,
             "id": 74905168,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-13T14:31:08Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-tibetan",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3052,12 +4415,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Korean transcription input method for RIME, romanization from Journal of Yanbian University (연변대학)",
+            "homepage": null,
             "id": 468511813,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-19T16:38:02Z",
+            "open_issues": 0,
             "owner": "saeziae",
             "repo": "rime_korean-yeonbyeon",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "joseon",
+              "korean",
+              "rime",
+              "rime-schema",
+              "romanization"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3068,12 +4442,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Input method of the complete set of kana, including hentaigana and other less used kana sets, like those in 台湾語仮名. 變體假名輸入. 変体仮名を入力。",
+            "homepage": null,
             "id": 200167737,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2020-03-25T01:20:50Z",
+            "open_issues": 0,
             "owner": "yuanhao-chen-nyoeghau",
             "repo": "rime-hentaigana",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "hentaigana",
+              "input-method",
+              "kana",
+              "rime"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3084,12 +4468,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "한국어 - 韓國語 on RIME / rime schema korean(+ hanja) romanize / 韩文（+汉字词）罗马音输入方案",
+            "homepage": null,
             "id": 92048287,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2024-11-03T09:56:22Z",
+            "open_issues": 0,
             "owner": "sgqy",
             "repo": "rime-korean",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "rime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3100,12 +4492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An IME for Chu Nom",
+            "homepage": null,
             "id": 286969007,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-16T00:29:07Z",
+            "open_issues": 0,
             "owner": "pearapple123",
             "repo": "rime-chunom",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3116,12 +4513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "한글",
+            "homepage": null,
             "id": 82054289,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-01T16:18:27Z",
+            "open_issues": 3,
             "owner": "rime-aca",
             "repo": "rime-hangyl",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3132,12 +4534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 希臘文",
+            "homepage": null,
             "id": 74901953,
             "language": null,
+            "license": null,
             "last_commit": "2016-11-27T17:09:23Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-greek",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3148,12 +4555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 蒙古文",
+            "homepage": null,
             "id": 74903344,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-13T11:57:19Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-mongol",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3164,12 +4576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 維吾爾語",
+            "homepage": null,
             "id": 74905276,
             "language": null,
+            "license": null,
             "last_commit": "2016-11-27T18:10:04Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-uyghur",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3180,12 +4597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "manju hergen-i ejeme dosire arga, RIME based",
+            "homepage": null,
             "id": 355727411,
             "language": "Mathematica",
+            "license": null,
             "last_commit": "2023-06-09T05:57:57Z",
+            "open_issues": 0,
             "owner": "tyotakuki",
             "repo": "ejemedosirearga",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3196,12 +4618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Siddham for Sanskrit, Unicode 8.0 rather than using Devanagari block",
+            "homepage": null,
             "id": 144313197,
             "language": null,
+            "license": null,
             "last_commit": "2018-08-10T17:12:42Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-siddham",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3212,12 +4639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "滿文阿禮嘎禮，以藏文轉寫輸入",
+            "homepage": null,
             "id": 106908929,
             "language": null,
+            "license": null,
             "last_commit": "2024-02-25T17:37:50Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-manju-alikali",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3228,12 +4660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "旧壮文输入法码表，适用于小狼毫输入法平台。",
+            "homepage": null,
             "id": 11554328,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2013-12-23T11:45:09Z",
+            "open_issues": 0,
             "owner": "hienning",
             "repo": "ime-sawrauz",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3244,12 +4681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semantic IPA input method for RIME",
+            "homepage": null,
             "id": 106852167,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-27T17:03:35Z",
+            "open_issues": 0,
             "owner": "mkpoli",
             "repo": "SIPA4RIME",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3260,12 +4702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rime Schema for toki pona (言善) in sitelen munjan (書文言). Classical-Chinese style Toki Pona.",
+            "homepage": "https://munjan.mkpo.li/",
             "id": 383675752,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-25T07:53:31Z",
+            "open_issues": 0,
             "owner": "mkpoli",
             "repo": "rime-toki-pona-munjan",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3276,12 +4723,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rime-tibetan",
+            "homepage": null,
             "id": 151416529,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-06T01:30:33Z",
+            "open_issues": 0,
             "owner": "arpcn",
             "repo": "rime-tibetan",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3292,12 +4744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 基利爾字母混合輸入",
+            "homepage": null,
             "id": 74902440,
             "language": null,
+            "license": null,
             "last_commit": "2020-05-09T16:30:53Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-kyril-international",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3308,12 +4765,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 西夏文【Poly四角】",
+            "homepage": null,
             "id": 74904520,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-17T12:01:29Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-tangut-poly4",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3324,12 +4786,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tienyu's Russian input schema for Rime with windows-like multi-alphabet-to-one support.",
+            "homepage": null,
             "id": 380543153,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-06-26T16:54:50Z",
+            "open_issues": 0,
             "owner": "lingrottin",
             "repo": "tienyu_rus",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3340,12 +4807,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An input schema for RIME IME",
+            "homepage": null,
             "id": 193432270,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2024-02-20T21:51:26Z",
+            "open_issues": 0,
             "owner": "saeziae",
             "repo": "rime_thai_naphukhau",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3356,12 +4828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 天城體梵文",
+            "homepage": null,
             "id": 74901876,
             "language": null,
+            "license": null,
             "last_commit": "2016-11-27T17:07:28Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-devanagari",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3372,12 +4849,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 泰文（笨）",
+            "homepage": null,
             "id": 74904726,
             "language": null,
+            "license": null,
             "last_commit": "2016-11-27T18:05:05Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-thai-stupid",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3388,12 +4870,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[IME] 克林贡语的 RIME 输入方案 (RIME Schema For Klingon Language)",
+            "homepage": null,
             "id": 497584283,
             "language": null,
+            "license": null,
             "last_commit": "2022-06-07T02:47:16Z",
+            "open_issues": 0,
             "owner": "kitty-panics",
             "repo": "rime-klingon",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ime",
+              "input-method",
+              "klingon",
+              "klingon-language",
+              "rime",
+              "rime-schema",
+              "tlh",
+              "tlhingan-hol",
+              "trime",
+              "weasel"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3404,12 +4902,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Soolegi Korean Input (쓰레기 한국어 입력)",
+            "homepage": null,
             "id": 214981621,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2021-09-19T07:07:05Z",
+            "open_issues": 1,
             "owner": "szc126",
             "repo": "rime-slg-korean",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "rime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3420,12 +4926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rime scheme to type pīnyīn",
+            "homepage": null,
             "id": 23963339,
             "language": null,
+            "license": null,
             "last_commit": "2019-12-16T12:36:19Z",
+            "open_issues": 0,
             "owner": "wu-shan",
             "repo": "type-pinyin",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3436,12 +4947,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full Latin Alphabet Input Schema Extension for Rime",
+            "homepage": null,
             "id": 40351292,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2016-05-05T05:25:08Z",
+            "open_issues": 0,
             "owner": "AraragiHoozuki",
             "repo": "FLAIS-EX-for-Rime",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3452,12 +4968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "綾香思考用語輸入方案 Ayaka’s Thinking Language Input Schema",
+            "homepage": null,
             "id": 598021171,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-02-06T08:20:56Z",
+            "open_issues": 0,
             "owner": "ayaka14732",
             "repo": "rime-ayaka-v8",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3468,12 +4989,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 希伯來語轉寫輸入",
+            "homepage": null,
             "id": 74902206,
             "language": null,
+            "license": null,
             "last_commit": "2016-11-27T17:13:58Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-hebrew",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3484,12 +5010,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 옛한글・漢字",
+            "homepage": null,
             "id": 74903637,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-09T05:03:32Z",
+            "open_issues": 1,
             "owner": "biopolyhedron",
             "repo": "rime-qyeyshanglr-hanja",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3500,12 +5031,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rime Korean schema (Romanized transliteration) with Hanja and extended Hangeul support",
+            "homepage": null,
             "id": 297871129,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-04T20:42:42Z",
+            "open_issues": 0,
             "owner": "baopaau",
             "repo": "rime-korean",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3516,12 +5052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RIME輸入方案：通古羅馬字，一種形似通字羅馬字的中古漢語（切韻音系）拼音",
+            "homepage": null,
             "id": 351364040,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-04-03T02:17:01Z",
+            "open_issues": 0,
             "owner": "baopaau",
             "repo": "rime-toongcuu",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3532,12 +5073,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 滿語轉寫輸入",
+            "homepage": null,
             "id": 74902612,
             "language": null,
+            "license": null,
             "last_commit": "2016-11-27T17:22:13Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-manju",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3548,12 +5094,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Input method for Xdi8 Kana",
+            "homepage": null,
             "id": 302082277,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-08T04:05:12Z",
+            "open_issues": 0,
             "owner": "yuanhao-chen-nyoeghau",
             "repo": "rime-Xdi8_Kana",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3564,12 +5115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "uyghur layout for RIME, common turkic transcription",
+            "homepage": null,
             "id": 580361559,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-20T11:24:00Z",
+            "open_issues": 0,
             "owner": "saeziae",
             "repo": "rime-uyghur",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3580,12 +5136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tai Tham input schema for RIME",
+            "homepage": null,
             "id": 464175753,
             "language": null,
+            "license": null,
             "last_commit": "2024-02-20T21:51:48Z",
+            "open_issues": 0,
             "owner": "saeziae",
             "repo": "rime_tai",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3596,12 +5157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基於Rime的泰米爾文輸入法碼錶",
+            "homepage": null,
             "id": 42762810,
             "language": null,
+            "license": null,
             "last_commit": "2015-09-19T06:46:15Z",
+            "open_issues": 0,
             "owner": "AraragiHoozuki",
             "repo": "Tamil-for-Rime",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3612,12 +5178,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1123707848,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-29T10:22:35Z",
+            "open_issues": 0,
             "owner": "IGBY-Klek",
             "repo": "rime-khathuri-straight",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "rime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3628,12 +5202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 786385678,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-14T10:55:14Z",
+            "open_issues": 0,
             "owner": "a-pontifex",
             "repo": "rime-avestan",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3644,12 +5223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 緬甸文",
+            "homepage": null,
             "id": 74901742,
             "language": null,
+            "license": null,
             "last_commit": "2016-11-27T17:05:19Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-burmese",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3660,12 +5244,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "格魯吉亞字母",
+            "homepage": null,
             "id": 176067184,
             "language": null,
+            "license": null,
             "last_commit": "2019-03-17T07:02:30Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-kartuli",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3676,12 +5265,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "敘利亞字母鍵盤",
+            "homepage": null,
             "id": 176068356,
             "language": null,
+            "license": null,
             "last_commit": "2019-03-17T07:14:25Z",
+            "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-syriac",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3692,12 +5286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ugaritic Cuneiform input schema for Rime",
+            "homepage": null,
             "id": 240457471,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-02-22T17:46:38Z",
+            "open_issues": 0,
             "owner": "laubonghaudoi",
             "repo": "rime-ugaritic",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         }
@@ -3714,12 +5313,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+            "homepage": "https://dvel.me/posts/rime-ice/",
             "id": 334110599,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-22T12:30:40Z",
+            "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19037
+            "stars": 19045,
+            "topics": [
+              "rime",
+              "rime-config",
+              "rime-custom",
+              "rime-schema",
+              "rime-squirrel",
+              "rime-weasel"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3730,12 +5341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，经评测准确性已经不输于商业输入法。在墨奇输入法内置，欢迎使用。",
+            "homepage": "https://github.com/gaboolic/moqi-im-windows",
             "id": 811705988,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T14:20:51Z",
+            "open_issues": 13,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3582
+            "stars": 3582,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3746,12 +5362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）",
+            "homepage": null,
             "id": 253806056,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-03-22T12:25:31Z",
+            "open_issues": 46,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3533
+            "stars": 3533,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3762,12 +5383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "墨奇音形，打造最强双拼辅助码rime输入方案，让天下双拼用户人人用得上辅助码。基于雾凇-白霜词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持十万字）、自然码部首辅、小鹤音形（鹤形辅）等，支持双拼和辅助码之间排列组合，支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤|雾凇自然|墨奇码|墨奇音形",
+            "homepage": "https://moqiyinxing.chunqiujinjing.com/index",
             "id": 748148497,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-16T11:44:33Z",
+            "open_issues": 13,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1038
+            "stars": 1038,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3778,12 +5404,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【魔然】自然碼 雙拼 + 輔助碼 Rime 配置 / 自然码 双拼 + 辅助码 Rime 配置",
+            "homepage": "https://moran.rimeinn.org",
             "id": 594648540,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T13:49:49Z",
+            "open_issues": 0,
             "owner": "rimeinn",
             "repo": "rime-moran",
-            "stars": 328
+            "stars": 328,
+            "topics": [
+              "chinese",
+              "double-pinyin",
+              "ime",
+              "rime",
+              "shuangpin",
+              "ziranma",
+              "zrm"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         }
@@ -3800,12 +5439,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emoji / 繪文字輸入方案",
+            "homepage": null,
             "id": 74141371,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-03-25T00:16:26Z",
+            "open_issues": 4,
             "owner": "rime",
             "repo": "rime-emoji",
-            "stars": 363
+            "stars": 363,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3816,12 +5460,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。群：696353204",
+            "homepage": null,
             "id": 1197939186,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-18T01:38:31Z",
+            "open_issues": 25,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 272
+            "stars": 273,
+            "topics": [
+              "input-method",
+              "input-methods"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3832,12 +5484,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rime Latex Math Input Method | Typing LaTeX symbols everywhere.",
+            "homepage": null,
             "id": 302268654,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-03T22:17:35Z",
+            "open_issues": 5,
             "owner": "shenlebantongying",
             "repo": "rime_latex",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "latex",
+              "rime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3848,12 +5509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "利用OpenCC做的Emoji和特殊符号滤镜，供Rime输入法使用者使用。",
+            "homepage": null,
             "id": 157181808,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-17T16:48:07Z",
+            "open_issues": 0,
             "owner": "rtransformation",
             "repo": "rime-opencc_emoji_symbols",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3864,12 +5530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mewo-emoji for Rime 中州韻之貓顏文字",
+            "homepage": null,
             "id": 7363347,
             "language": null,
+            "license": null,
             "last_commit": "2013-10-20T01:59:52Z",
+            "open_issues": 3,
             "owner": "hitigon",
             "repo": "meow-emoji-rime",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3880,12 +5551,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "将 Rime userdb.txt 转换为 Gboard PersonalDictionary.zip 格式, 便于将词库导入 Gboard.",
+            "homepage": null,
             "id": 583525145,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-04T06:42:47Z",
+            "open_issues": 0,
             "owner": "velviagris",
             "repo": "rime_to_gboard",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "gboard",
+              "gboard-dictionary",
+              "google-pinyin",
+              "rime",
+              "rime-weasel"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3896,12 +5578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "关于小狼毫输入法的一个小工具",
+            "homepage": null,
             "id": 364849483,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-03T08:55:54Z",
+            "open_issues": 0,
             "owner": "puddinging",
             "repo": "rime-cli",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3912,12 +5599,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GuruIM captures all your input history — keystrokes, clipboard, and context — and lets you export it to any LLM, on your terms. Feed yourself to AI, willingly.GuruIM 采集你的全部输入记录——键盘上屏、剪贴板、上下文——在你的完全控制下导出给任意 LLM 大模型。我愿以身饲 AI。",
+            "homepage": null,
             "id": 1194432295,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-28T15:20:53Z",
+            "open_issues": 0,
             "owner": "CauT",
             "repo": "GuruIM",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ai",
+              "input-method",
+              "ios-keyboard",
+              "llm",
+              "privacy",
+              "rime"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3928,12 +5627,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agda input recipe in Rime.",
+            "homepage": null,
             "id": 858570842,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-15T14:12:23Z",
+            "open_issues": 0,
             "owner": "Godalin",
             "repo": "rime-agda-input",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "input-method",
+              "rime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3944,12 +5652,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "可挂载于小鹤音形之下的 Emoji 输入方案",
+            "homepage": null,
             "id": 324981704,
             "language": null,
+            "license": null,
             "last_commit": "2021-02-24T03:25:01Z",
+            "open_issues": 0,
             "owner": "amorphobia",
             "repo": "xmoji",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3960,12 +5673,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customize rime input schemata to use the latest OpenCC dictionaries",
+            "homepage": null,
             "id": 259607592,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2020-10-28T09:48:57Z",
+            "open_issues": 2,
             "owner": "sgalal",
             "repo": "rime-opencc-latest",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "rime",
+              "rime-config",
+              "rime-schema",
+              "simplified-chinese",
+              "traditional-chinese"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3976,12 +5700,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Symbolic input for Rime | Rime 符號輸入",
+            "homepage": null,
             "id": 240000778,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2020-08-13T12:18:07Z",
+            "open_issues": 0,
             "owner": "sgalal",
             "repo": "rime-symbolic",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "rime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -3992,12 +5724,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Symbolic input for rime (Simplified Chinese version) | rime 符號輸入（简化字版）",
+            "homepage": null,
             "id": 287269557,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2020-08-13T12:23:17Z",
+            "open_issues": 0,
             "owner": "sgalal",
             "repo": "rime-symbolic-simp",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "rime",
+              "rime-schema"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -4008,12 +5748,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customize rime input schemata to use the latest OpenCC dictionaries (32-bit)",
+            "homepage": null,
             "id": 260109737,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2020-10-28T09:52:42Z",
+            "open_issues": 0,
             "owner": "sgalal",
             "repo": "rime-opencc-32bit-latest",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "rime",
+              "rime-config",
+              "rime-schema",
+              "simplified-chinese",
+              "traditional-chinese"
+            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         }
@@ -4022,15 +5773,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:48:54.998Z",
+    "last_updated": "2026-08-29T04:32:33.891Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
+      "homepage": null,
       "id": 214790541,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2026-08-26T05:44:49Z",
+      "open_issues": 7,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1452
+      "stars": 1451,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "rime",
+        "rime-schema"
+      ]
     },
     "original_repository_sha": "0c1938088b76942228d96f5a3c401c4e356ec6da",
     "enhanced_repository": "enhansome/enhansome-rime",

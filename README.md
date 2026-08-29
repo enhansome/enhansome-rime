@@ -16,7 +16,7 @@ rime 輸入方案和配置列表
 * **54** [rime/rime-cangjie](https://github.com/rime/rime-cangjie) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2026-06-01 - 【倉頡】輸入方案
 * **47** [ywxt/rime-huma](https://github.com/ywxt/rime-huma) ⭐ 47 | 🐛 7 | 🌐 Lua | 📅 2026-05-21 - 虎碼輸入方案
 * **42** [YQ-YSY/one-hand\_Rime](https://github.com/YQ-YSY/one-hand_Rime) ⭐ 42 | 🐛 2 | 🌐 HTML | 📅 2025-11-27 - 单手笔顺输入法（Rime版）Chinese stroke sequence (one hand) input method made with Rime
-* **40** [pingshunhuangalex/rime-keydo](https://github.com/pingshunhuangalex/rime-keydo) ⭐ 40 | 🐛 1 | 🌐 Lua | 📅 2026-08-28 - 键道·我流：基于Colemak-DH Matrix布局的音形码顶功输入方案，脱胎于星空键道
+* **40** [pingshunhuangalex/rime-keydo](https://github.com/pingshunhuangalex/rime-keydo) ⭐ 40 | 🐛 1 | 🌐 Lua | 📅 2026-08-29 - 键道·我流：基于Colemak-DH Matrix布局的音形码顶功输入方案，脱胎于星空键道
 * **33** [JeffChien/rime-flypyquick5](https://github.com/JeffChien/rime-flypyquick5) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2023-08-13 - 小鶴雙拼的音+速成的形組合而成的音形方案
 * **30** [acevery/rime-zhengma](https://github.com/acevery/rime-zhengma) ⭐ 30 | 🐛 0 | 📅 2017-12-28 - Zhengma for Rime
 * **26** [GongMu/rime-zhengma](https://github.com/GongMu/rime-zhengma) ⭐ 26 | 🐛 3 | 🌐 VimL | 📅 2019-01-09 - Rime郑码输入方案
@@ -208,7 +208,7 @@ rime 輸入方案和配置列表
 ## 非漢語/非漢字
 
 * **402** [gkovacs/rime-japanese](https://github.com/gkovacs/rime-japanese) ⭐ 402 | 🐛 9 | 📅 2024-07-12 - 日语输入法 Input method for typing Japanese with RIME
-* **394** [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) ⭐ 394 | 🐛 3 | 🌐 Lua | 📅 2025-02-28 - Rime / Easy English 英文输入法
+* **394** [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) ⭐ 393 | 🐛 3 | 🌐 Lua | 📅 2025-02-28 - Rime / Easy English 英文输入法
 * **208** [tumuyan/rime-pinyin-jap](https://github.com/tumuyan/rime-pinyin-jap) ⭐ 208 | 🐛 1 | 🌐 Lua | 📅 2026-06-22 - 李さんの日本語入力方法：一個Rime日語方案，完全忽略音読訓読，使用漢語拼音录入日語漢字字形，使用羅馬音録入仮名。
 * **75** [rime/rime-ipa](https://github.com/rime/rime-ipa) ⭐ 75 | 🐛 6 | 📅 2021-01-28 - IPA / 國際音標輸入方案
 * **70** [nushu-script/rime-nushu](https://github.com/nushu-script/rime-nushu) ⭐ 70 | 🐛 2 | 📅 2020-07-22 - Nushu input method | 𛆁𛈬𛈬𛇈𛊡 | 女书输入法
@@ -273,7 +273,7 @@ rime 輸入方案和配置列表
 
 ## 配置
 
-* **18999** [iDvel/rime-ice](https://github.com/iDvel/rime-ice) ⭐ 19,037 | 🐛 5 | 🌐 Lua | 📅 2026-08-22 - Rime 配置：雾凇拼音 | 长期维护的简体词库
+* **18999** [iDvel/rime-ice](https://github.com/iDvel/rime-ice) ⭐ 19,045 | 🐛 5 | 🌐 Lua | 📅 2026-08-22 - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * **3575** [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) ⭐ 3,582 | 🐛 13 | 🌐 Lua | 📅 2026-08-27 - 白霜拼音，使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。
 * **3532** [maomiui/rime](https://github.com/maomiui/rime) ⭐ 3,533 | 🐛 46 | 🌐 Lua | 📅 2026-03-22 - Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置
 * **1039** [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) ⭐ 1,038 | 🐛 13 | 🌐 Lua | 📅 2026-08-16 - 墨奇音形，支持自然码、小鹤、搜狗、微软双拼,是一个基于字形描述信息、递归拆分，最后取首末双形音托的码表开源的方案，墨奇码的拆分码表已开源，目前已经拆分完成全部的通用规范汉字、常用繁体字，总计支持4万字。
@@ -282,7 +282,7 @@ rime 輸入方案和配置列表
 ## 其他
 
 * **363** [rime/rime-emoji](https://github.com/rime/rime-emoji) ⭐ 363 | 🐛 4 | 🌐 Python | 📅 2026-03-25 - Emoji / 繪文字輸入方案
-* **271** [gaboolic/moqi-im-windows](https://github.com/gaboolic/moqi-im-windows) ⭐ 272 | 🐛 25 | 🌐 C++ | 📅 2026-08-18 - 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。
+* **271** [gaboolic/moqi-im-windows](https://github.com/gaboolic/moqi-im-windows) ⭐ 273 | 🐛 25 | 🌐 C++ | 📅 2026-08-18 - 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。
 * **98** [shenlebantongying/rime\_latex](https://github.com/shenlebantongying/rime_latex) ⭐ 98 | 🐛 5 | 🌐 Python | 📅 2025-04-03 - LaTeX Symbols (Complete) | 所有 LaTeX 符號的輸入方案
 * **67** [rtransformation/rime-opencc\_emoji\_symbols](https://github.com/rtransformation/rime-opencc_emoji_symbols) ⭐ 67 | 🐛 0 | 📅 2026-07-17 - 利用OpenCC做的Emoji和特殊符号滤镜，供Rime输入法使用者使用
 * **43** [hitigon/meow-emoji-rime](https://github.com/hitigon/meow-emoji-rime) ⭐ 43 | 🐛 3 | 📅 2013-10-20 - Mewo-emoji for Rime 中州韻之貓顏文字
@@ -298,4 +298,4 @@ rime 輸入方案和配置列表
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
