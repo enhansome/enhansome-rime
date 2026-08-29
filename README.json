@@ -88,7 +88,7 @@
             "open_issues": 17,
             "owner": "rime",
             "repo": "rime-wubi",
-            "stars": 338,
+            "stars": 339,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -1457,7 +1457,7 @@
             "open_issues": 20,
             "owner": "rime",
             "repo": "rime-terra-pinyin",
-            "stars": 164,
+            "stars": 165,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5322,7 +5322,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19045,
+            "stars": 19059,
             "topics": [
               "rime",
               "rime-config",
@@ -5350,7 +5350,7 @@
             "open_issues": 13,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3582,
+            "stars": 3583,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5392,7 +5392,7 @@
             "open_issues": 13,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1038,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5469,7 +5469,7 @@
             "open_issues": 25,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 273,
+            "stars": 275,
             "topics": [
               "input-method",
               "input-methods"
@@ -5608,7 +5608,7 @@
             "open_issues": 0,
             "owner": "CauT",
             "repo": "GuruIM",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "ai",
               "input-method",
@@ -5773,7 +5773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:32:33.891Z",
+    "last_updated": "2026-08-29T14:23:28.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
