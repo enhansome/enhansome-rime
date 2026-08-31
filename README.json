@@ -19,7 +19,7 @@
             "open_issues": 46,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1636,
+            "stars": 1638,
             "topics": [
               "android",
               "ggtt",
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T02:35:54Z",
+            "last_commit": "2026-08-30T22:13:53Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -1360,7 +1360,7 @@
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "bopomofo",
               "hangeul",
@@ -1991,7 +1991,7 @@
                 "open_issues": 0,
                 "owner": "Hulenkius",
                 "repo": "RIME_OC_collections",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
@@ -2559,7 +2559,7 @@
                 "id": 161583425,
                 "language": null,
                 "license": "LGPL-3.0",
-                "last_commit": "2026-08-30T09:49:54Z",
+                "last_commit": "2026-08-30T16:42:32Z",
                 "open_issues": 0,
                 "owner": "NGLI",
                 "repo": "rime-wugniu_gninpou",
@@ -2970,6 +2970,71 @@
                 ]
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "贛語 Gan",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2 Doohaey/GonnyuGeneralIME-Rime-Lancong",
+              "description": "南昌话 Gan Lancong (Nanchang) Rime input method",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "南昌话输入rime方案，赣语通用输入子集",
+                "homepage": null,
+                "id": 1352334703,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T12:46:04Z",
+                "open_issues": 0,
+                "owner": "Doohaey",
+                "repo": "GonnyuGeneralIME-Rime-Lancong",
+                "stars": 3,
+                "topics": [
+                  "chinese",
+                  "dialect",
+                  "gan",
+                  "ganyu",
+                  "gonnyu",
+                  "nanchang"
+                ]
+              },
+              "first_seen": "2026-08-31T17:00:55.705Z"
+            },
+            {
+              "node_type": "item",
+              "title": "2 Doohaey/GonnyuGeneralIME-Rime-Fenni",
+              "description": "分宜话 Gan Fenni (Fenyi) Rime input method",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "分宜话输入rime方案，赣语通用输入子集",
+                "homepage": null,
+                "id": 1352337080,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-31T12:46:42Z",
+                "open_issues": 0,
+                "owner": "Doohaey",
+                "repo": "GonnyuGeneralIME-Rime-Fenni",
+                "stars": 3,
+                "topics": [
+                  "chinese",
+                  "dialect",
+                  "fenni",
+                  "fenyi",
+                  "gan",
+                  "gonnyu",
+                  "jiangxi",
+                  "xinyu"
+                ]
+              },
+              "first_seen": "2026-08-31T17:00:55.705Z"
             }
           ]
         },
@@ -3422,7 +3487,7 @@
                 "open_issues": 13,
                 "owner": "rime",
                 "repo": "rime-cantonese",
-                "stars": 675,
+                "stars": 676,
                 "topics": [
                   "cantonese",
                   "cantonese-dictionary",
@@ -5318,11 +5383,11 @@
             "id": 334110599,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-22T12:30:40Z",
+            "last_commit": "2026-08-31T09:44:46Z",
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19083,
+            "stars": 19110,
             "topics": [
               "rime",
               "rime-config",
@@ -5346,11 +5411,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-27T14:20:51Z",
+            "last_commit": "2026-08-31T03:35:30Z",
             "open_issues": 13,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3587,
+            "stars": 3590,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5371,7 +5436,7 @@
             "open_issues": 46,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3533,
+            "stars": 3535,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5392,7 +5457,7 @@
             "open_issues": 13,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1039,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5469,7 +5534,7 @@
             "open_issues": 25,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 276,
+            "stars": 278,
             "topics": [
               "input-method",
               "input-methods"
@@ -5773,7 +5838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:23:08.669Z",
+    "last_updated": "2026-08-31T17:00:55.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -5781,11 +5846,11 @@
       "id": 214790541,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-08-26T05:44:49Z",
+      "last_commit": "2026-08-31T12:06:31Z",
       "open_issues": 7,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1453,
+      "stars": 1456,
       "topics": [
         "awesome",
         "awesome-list",
@@ -5793,7 +5858,7 @@
         "rime-schema"
       ]
     },
-    "original_repository_sha": "0c1938088b76942228d96f5a3c401c4e356ec6da",
+    "original_repository_sha": "348eed8eca9d63775647dd53bdcedbd92764a05d",
     "enhanced_repository": "enhansome/enhansome-rime",
     "enhanced_repository_description": null,
     "title": "awesome-rime with stars"
