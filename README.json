@@ -13,13 +13,13 @@
             "description": "86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema",
             "homepage": null,
             "id": 173078784,
-            "language": "Lua",
+            "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-06-07T17:08:15Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-01T09:51:02Z",
+            "open_issues": 30,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1638,
+            "stars": 1640,
             "topics": [
               "android",
               "ggtt",
@@ -88,7 +88,7 @@
             "open_issues": 17,
             "owner": "rime",
             "repo": "rime-wubi",
-            "stars": 339,
+            "stars": 340,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -539,7 +539,7 @@
             "id": 141218995,
             "language": null,
             "license": null,
-            "last_commit": "2026-04-22T09:54:32Z",
+            "last_commit": "2026-09-01T09:42:18Z",
             "open_issues": 2,
             "owner": "philipposkhos",
             "repo": "rime-ms-quick",
@@ -1356,7 +1356,7 @@
             "id": 292112591,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-08-26T21:16:10Z",
+            "last_commit": "2026-09-01T06:12:10Z",
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
@@ -1394,7 +1394,7 @@
             "open_issues": 19,
             "owner": "rime",
             "repo": "rime-luna-pinyin",
-            "stars": 281,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -1533,7 +1533,7 @@
             "open_issues": 5,
             "owner": "andy0130tw",
             "repo": "iridium-bpmf",
-            "stars": 60,
+            "stars": 59,
             "topics": [
               "bopomofo",
               "ime",
@@ -5387,7 +5387,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19110,
+            "stars": 19127,
             "topics": [
               "rime",
               "rime-config",
@@ -5411,11 +5411,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T03:35:30Z",
+            "last_commit": "2026-09-01T03:45:55Z",
             "open_issues": 13,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3590,
+            "stars": 3596,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5436,7 +5436,7 @@
             "open_issues": 46,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3535,
+            "stars": 3534,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5457,7 +5457,7 @@
             "open_issues": 13,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1040,
+            "stars": 1042,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5534,7 +5534,7 @@
             "open_issues": 25,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "input-method",
               "input-methods"
@@ -5838,7 +5838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:00:55.705Z",
+    "last_updated": "2026-09-01T14:05:50.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -5850,7 +5850,7 @@
       "open_issues": 7,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1456,
+      "stars": 1457,
       "topics": [
         "awesome",
         "awesome-list",
