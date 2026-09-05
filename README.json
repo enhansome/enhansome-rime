@@ -15,7 +15,7 @@
             "id": 173078784,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T09:51:02Z",
+            "last_commit": "2026-09-05T01:28:38Z",
             "open_issues": 30,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T22:00:25Z",
+            "last_commit": "2026-09-05T05:48:49Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -1765,6 +1765,36 @@
         },
         {
           "node_type": "item",
+          "title": "6 gkovacs/rime-td-pinyin-flypy",
+          "description": "小鹤双拼输入法（带声调） Input method for typing Chinese using Flypy Double Pinyin (Xiaohe Shuangpin) with Tones, for RIME",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "小鹤双拼输入法（带声调） Input method for typing Chinese using Flypy Double Pinyin (Xiaohe Shuangpin) with Tones, for RIME",
+            "homepage": null,
+            "id": 242673953,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2023-05-03T06:51:06Z",
+            "open_issues": 0,
+            "owner": "gkovacs",
+            "repo": "rime-td-pinyin-flypy",
+            "stars": 7,
+            "topics": [
+              "chinese",
+              "double-pinyin",
+              "flypy",
+              "input-method",
+              "rime",
+              "rime-schema",
+              "shuangpin",
+              "xiaohe"
+            ]
+          },
+          "first_seen": "2026-08-28T20:48:54.998Z"
+        },
+        {
+          "node_type": "item",
           "title": "6 baopaau/rime-guobiao-quick",
           "description": "国标三拼／双拼",
           "children": [],
@@ -1781,36 +1811,6 @@
             "repo": "rime-guobiao-quick",
             "stars": 6,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:54.998Z"
-        },
-        {
-          "node_type": "item",
-          "title": "6 gkovacs/rime-td-pinyin-flypy",
-          "description": "小鹤双拼输入法（带声调） Input method for typing Chinese using Flypy Double Pinyin (Xiaohe Shuangpin) with Tones, for RIME",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "小鹤双拼输入法（带声调） Input method for typing Chinese using Flypy Double Pinyin (Xiaohe Shuangpin) with Tones, for RIME",
-            "homepage": null,
-            "id": 242673953,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2023-05-03T06:51:06Z",
-            "open_issues": 0,
-            "owner": "gkovacs",
-            "repo": "rime-td-pinyin-flypy",
-            "stars": 6,
-            "topics": [
-              "chinese",
-              "double-pinyin",
-              "flypy",
-              "input-method",
-              "rime",
-              "rime-schema",
-              "shuangpin",
-              "xiaohe"
-            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -4007,7 +4007,7 @@
             "open_issues": 3,
             "owner": "BlindingDark",
             "repo": "rime-easy-en",
-            "stars": 395,
+            "stars": 397,
             "topics": [
               "rime"
             ]
@@ -4030,7 +4030,7 @@
             "open_issues": 1,
             "owner": "tumuyan",
             "repo": "rime-pinyin-jap",
-            "stars": 208,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5387,7 +5387,7 @@
             "open_issues": 6,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19177,
+            "stars": 19187,
             "topics": [
               "rime",
               "rime-config",
@@ -5411,11 +5411,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T04:56:26Z",
+            "last_commit": "2026-09-05T12:20:58Z",
             "open_issues": 13,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3607,
+            "stars": 3609,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5474,8 +5474,8 @@
             "id": 594648540,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T13:49:49Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-04T20:58:12Z",
+            "open_issues": 0,
             "owner": "rimeinn",
             "repo": "rime-moran",
             "stars": 329,
@@ -5534,7 +5534,7 @@
             "open_issues": 25,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 284,
+            "stars": 285,
             "topics": [
               "input-method",
               "input-methods"
@@ -5838,7 +5838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:24:37.124Z",
+    "last_updated": "2026-09-05T12:35:54.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -5850,7 +5850,7 @@
       "open_issues": 7,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1464,
+      "stars": 1465,
       "topics": [
         "awesome",
         "awesome-list",
