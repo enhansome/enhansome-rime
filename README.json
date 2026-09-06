@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1642,
+            "stars": 1643,
             "topics": [
               "android",
               "ggtt",
@@ -51,7 +51,7 @@
             "open_issues": 4,
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1118,
+            "stars": 1119,
             "topics": [
               "config",
               "configs",
@@ -151,11 +151,11 @@
             "id": 247484607,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-08-30T02:00:15Z",
+            "last_commit": "2026-09-06T02:00:16Z",
             "open_issues": 1,
             "owner": "xkinput",
             "repo": "KeyTao",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "ime",
               "keytao",
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T05:48:49Z",
+            "last_commit": "2026-09-06T07:54:19Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -627,7 +627,7 @@
             "open_issues": 2,
             "owner": "rime",
             "repo": "rime-quick",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -3103,27 +3103,6 @@
             },
             {
               "node_type": "item",
-              "title": "59 a-thok/rime-hokkien",
-              "description": "閩南語輸入方案",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "閩南語臺羅輸入方案，為RIME輸入法所設計",
-                "homepage": null,
-                "id": 60600200,
-                "language": null,
-                "license": null,
-                "last_commit": "2020-07-09T18:00:21Z",
-                "open_issues": 6,
-                "owner": "a-thok",
-                "repo": "rime-hokkien",
-                "stars": 59,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:48:54.998Z"
-            },
-            {
-              "node_type": "item",
               "title": "59 whyjz/rime-moetaigi",
               "description": "萌台語注音輸入法",
               "children": [],
@@ -3146,6 +3125,27 @@
                   "rime",
                   "taigi"
                 ]
+              },
+              "first_seen": "2026-08-28T20:48:54.998Z"
+            },
+            {
+              "node_type": "item",
+              "title": "59 a-thok/rime-hokkien",
+              "description": "閩南語輸入方案",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "閩南語臺羅輸入方案，為RIME輸入法所設計",
+                "homepage": null,
+                "id": 60600200,
+                "language": null,
+                "license": null,
+                "last_commit": "2020-07-09T18:00:21Z",
+                "open_issues": 6,
+                "owner": "a-thok",
+                "repo": "rime-hokkien",
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
             },
@@ -3980,7 +3980,7 @@
             "open_issues": 9,
             "owner": "gkovacs",
             "repo": "rime-japanese",
-            "stars": 402,
+            "stars": 403,
             "topics": [
               "input-method",
               "japanese",
@@ -5384,10 +5384,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-08-31T09:44:46Z",
-            "open_issues": 6,
+            "open_issues": 4,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19187,
+            "stars": 19205,
             "topics": [
               "rime",
               "rime-config",
@@ -5411,11 +5411,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T12:20:58Z",
+            "last_commit": "2026-09-06T04:30:06Z",
             "open_issues": 13,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3609,
+            "stars": 3620,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5436,7 +5436,7 @@
             "open_issues": 46,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3535,
+            "stars": 3534,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5457,7 +5457,7 @@
             "open_issues": 13,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1045,
+            "stars": 1047,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5534,7 +5534,7 @@
             "open_issues": 25,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 285,
+            "stars": 287,
             "topics": [
               "input-method",
               "input-methods"
@@ -5838,7 +5838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:35:54.241Z",
+    "last_updated": "2026-09-06T12:49:39.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
