@@ -51,7 +51,7 @@
             "open_issues": 4,
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1119,
+            "stars": 1118,
             "topics": [
               "config",
               "configs",
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T07:54:19Z",
+            "last_commit": "2026-09-06T21:50:19Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -550,6 +550,27 @@
         },
         {
           "node_type": "item",
+          "title": "16 zongxinbo/rime-zong",
+          "description": "RIME 四种方案 (龙渊郑码、倉頡五代、四角号码和行列30)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "RIME方案 (拼音、自然码、仓颉、郑码、四角号码和日语)",
+            "homepage": null,
+            "id": 61268347,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-07-08T06:56:05Z",
+            "open_issues": 0,
+            "owner": "zongxinbo",
+            "repo": "rime-zong",
+            "stars": 17,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:54.998Z"
+        },
+        {
+          "node_type": "item",
           "title": "16 CanCLID/rime-loengfan",
           "description": "Loengfan (粵語兩分) is the Cantonese version of the Liang Fen input method",
           "children": [],
@@ -585,27 +606,6 @@
             "open_issues": 0,
             "owner": "IT1187541749",
             "repo": "Rime-data",
-            "stars": 16,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:54.998Z"
-        },
-        {
-          "node_type": "item",
-          "title": "16 zongxinbo/rime-zong",
-          "description": "RIME 四种方案 (龙渊郑码、倉頡五代、四角号码和行列30)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "RIME方案 (拼音、自然码、仓颉、郑码、四角号码和日语)",
-            "homepage": null,
-            "id": 61268347,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-07-08T06:56:05Z",
-            "open_issues": 0,
-            "owner": "zongxinbo",
-            "repo": "rime-zong",
             "stars": 16,
             "topics": []
           },
@@ -2595,7 +2595,7 @@
                 "open_issues": 0,
                 "owner": "NGLI",
                 "repo": "rime-wugniu_zaonhe",
-                "stars": 46,
+                "stars": 45,
                 "topics": [
                   "chinese",
                   "chinese-dialects",
@@ -3435,7 +3435,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2019-04-19T01:35:23Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "syndict",
                 "repo": "hakka",
                 "stars": 7,
@@ -5384,10 +5384,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-08-31T09:44:46Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19205,
+            "stars": 19222,
             "topics": [
               "rime",
               "rime-config",
@@ -5411,11 +5411,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T04:30:06Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-07T04:19:02Z",
+            "open_issues": 14,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3620,
+            "stars": 3621,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5478,7 +5478,7 @@
             "open_issues": 0,
             "owner": "rimeinn",
             "repo": "rime-moran",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "chinese",
               "double-pinyin",
@@ -5513,7 +5513,7 @@
             "open_issues": 4,
             "owner": "rime",
             "repo": "rime-emoji",
-            "stars": 364,
+            "stars": 365,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5531,10 +5531,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-18T01:38:31Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 287,
+            "stars": 290,
             "topics": [
               "input-method",
               "input-methods"
@@ -5838,7 +5838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:49:39.471Z",
+    "last_updated": "2026-09-07T14:59:58.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -5850,7 +5850,7 @@
       "open_issues": 7,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1465,
+      "stars": 1466,
       "topics": [
         "awesome",
         "awesome-list",
