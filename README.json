@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1643,
+            "stars": 1642,
             "topics": [
               "android",
               "ggtt",
@@ -51,7 +51,7 @@
             "open_issues": 4,
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1118,
+            "stars": 1119,
             "topics": [
               "config",
               "configs",
@@ -749,7 +749,7 @@
             "open_issues": 0,
             "owner": "Joey-Li",
             "repo": "Newcj_rime",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "input-method",
               "rime-config",
@@ -1360,7 +1360,7 @@
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
-            "stars": 325,
+            "stars": 324,
             "topics": [
               "bopomofo",
               "hangeul",
@@ -1555,7 +1555,7 @@
             "id": 74137651,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-06-01T12:43:55Z",
+            "last_commit": "2026-09-08T13:22:31Z",
             "open_issues": 1,
             "owner": "rime",
             "repo": "rime-combo-pinyin",
@@ -2559,7 +2559,7 @@
                 "id": 161583425,
                 "language": null,
                 "license": "LGPL-3.0",
-                "last_commit": "2026-08-30T16:42:32Z",
+                "last_commit": "2026-09-08T12:16:34Z",
                 "open_issues": 0,
                 "owner": "NGLI",
                 "repo": "rime-wugniu_gninpou",
@@ -3487,7 +3487,7 @@
                 "open_issues": 13,
                 "owner": "rime",
                 "repo": "rime-cantonese",
-                "stars": 676,
+                "stars": 677,
                 "topics": [
                   "cantonese",
                   "cantonese-dictionary",
@@ -5387,7 +5387,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19222,
+            "stars": 19238,
             "topics": [
               "rime",
               "rime-config",
@@ -5411,11 +5411,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T04:19:02Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-08T08:43:26Z",
+            "open_issues": 15,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3621,
+            "stars": 3625,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5436,7 +5436,7 @@
             "open_issues": 46,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3534,
+            "stars": 3536,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5474,7 +5474,7 @@
             "id": 594648540,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T20:58:12Z",
+            "last_commit": "2026-09-08T09:52:48Z",
             "open_issues": 0,
             "owner": "rimeinn",
             "repo": "rime-moran",
@@ -5531,10 +5531,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-18T01:38:31Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 290,
+            "stars": 293,
             "topics": [
               "input-method",
               "input-methods"
@@ -5838,7 +5838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T14:59:58.426Z",
+    "last_updated": "2026-09-08T13:29:31.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -5850,7 +5850,7 @@
       "open_issues": 7,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1466,
+      "stars": 1467,
       "topics": [
         "awesome",
         "awesome-list",
