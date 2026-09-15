@@ -1356,7 +1356,7 @@
             "id": 292112591,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-09-10T09:03:45Z",
+            "last_commit": "2026-09-15T01:52:38Z",
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
@@ -1436,7 +1436,7 @@
             "open_issues": 4,
             "owner": "rime",
             "repo": "rime-pinyin-simp",
-            "stars": 183,
+            "stars": 182,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -4051,7 +4051,7 @@
             "open_issues": 6,
             "owner": "rime",
             "repo": "rime-ipa",
-            "stars": 75,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5387,7 +5387,7 @@
             "open_issues": 4,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19339,
+            "stars": 19346,
             "topics": [
               "rime",
               "rime-config",
@@ -5411,11 +5411,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T13:12:53Z",
+            "last_commit": "2026-09-15T08:44:57Z",
             "open_issues": 14,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3641,
+            "stars": 3648,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5478,7 +5478,7 @@
             "open_issues": 0,
             "owner": "rimeinn",
             "repo": "rime-moran",
-            "stars": 332,
+            "stars": 333,
             "topics": [
               "chinese",
               "double-pinyin",
@@ -5838,7 +5838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T15:51:12.201Z",
+    "last_updated": "2026-09-15T14:17:22.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -5850,7 +5850,7 @@
       "open_issues": 7,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1479,
+      "stars": 1480,
       "topics": [
         "awesome",
         "awesome-list",
