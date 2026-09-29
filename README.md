@@ -4,7 +4,7 @@ rime 輸入方案和配置列表
 
 ## 形碼・音形
 
-* **1663** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) ⭐ 1,665 | 🐛 31 | 📅 2026-09-09 - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
+* **1663** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) ⭐ 1,667 | 🐛 2 | 📅 2026-09-09 - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
 * **1131** [SivanLaai/rime\_pure: rime配置](https://github.com/SivanLaai/rime_pure) ⭐ 1,133 | 🐛 5 | 🌐 C++ | 📅 2026-07-30 - 【rime小狼毫\trime同文：手机/PC一站式配置】九宫格双拼、四叶草九宫格拼音、四叶草拼音、小鹤双拼、极品五笔、QQ五笔、徐码、郑码
 * **343** [rime/rime-wubi](https://github.com/rime/rime-wubi) ⭐ 345 | 🐛 17 | 📅 2024-01-05 - 【五筆字型】輸入方案
 * **281** [brglng/rime-xhup](https://github.com/brglng/rime-xhup) ⭐ 282 | 🐛 5 | 📅 2019-06-13 - Rime 小鹤双拼音形输入方案
@@ -66,7 +66,7 @@ rime 輸入方案和配置列表
 
 ## 音碼
 
-* **474** [rime/rime-double-pinyin](https://github.com/rime/rime-double-pinyin) ⭐ 474 | 🐛 9 | 📅 2025-09-23 - 雙拼輸入方案
+* **474** [rime/rime-double-pinyin](https://github.com/rime/rime-double-pinyin) ⭐ 475 | 🐛 9 | 📅 2025-09-23 - 雙拼輸入方案
 * **326** [oniondelta/Onion\_Rime\_Files](https://github.com/oniondelta/Onion_Rime_Files) ⭐ 329 | 🐛 0 | 🌐 Lua | 📅 2026-09-26 - Rime 注音&拼音 "洋蔥" 方案（四個注音、一個拼音、兩個形碼）
 * **284** [rime/rime-luna-pinyin](https://github.com/rime/rime-luna-pinyin) ⭐ 284 | 🐛 20 | 📅 2026-07-12 - 【朙月拼音】輸入方案
 * **232** [xiaoTaoist/rime-dict](https://github.com/xiaoTaoist/rime-dict) ⭐ 232 | 🐛 4 | 📅 2020-04-30 - RIME输入法 增强词库 适用于明月拼音和双拼
@@ -211,7 +211,7 @@ rime 輸入方案和配置列表
 ## 非漢語/非漢字
 
 * **404** [gkovacs/rime-japanese](https://github.com/gkovacs/rime-japanese) ⭐ 404 | 🐛 9 | 📅 2024-07-12 - 日语输入法 Input method for typing Japanese with RIME
-* **397** [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) ⭐ 399 | 🐛 3 | 🌐 Lua | 📅 2025-02-28 - Rime / Easy English 英文输入法
+* **397** [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) ⭐ 398 | 🐛 3 | 🌐 Lua | 📅 2025-02-28 - Rime / Easy English 英文输入法
 * **211** [tumuyan/rime-pinyin-jap](https://github.com/tumuyan/rime-pinyin-jap) ⭐ 211 | 🐛 1 | 🌐 Lua | 📅 2026-06-22 - 李さんの日本語入力方法：一個Rime日語方案，完全忽略音読訓読，使用漢語拼音录入日語漢字字形，使用羅馬音録入仮名。
 * **75** [rime/rime-ipa](https://github.com/rime/rime-ipa) ⭐ 75 | 🐛 6 | 📅 2021-01-28 - IPA / 國際音標輸入方案
 * **73** [nushu-script/rime-nushu](https://github.com/nushu-script/rime-nushu) ⭐ 74 | 🐛 2 | 📅 2020-07-22 - Nushu input method | 𛆁𛈬𛈬𛇈𛊡 | 女书输入法
@@ -232,8 +232,8 @@ rime 輸入方案和配置列表
 * **11** [biopolyhedron/rime-arabic](https://github.com/biopolyhedron/rime-arabic) ⭐ 11 | 🐛 0 | 📅 2024-09-21 - rime阿拉伯字母國際鍵盤
 * **11** [biopolyhedron/rime-tibetan](https://github.com/biopolyhedron/rime-tibetan) ⭐ 11 | 🐛 0 | 📅 2024-04-13 - Rime 藏文
 * **10** [saeziae/rime\_korean-yeonbyeon](https://github.com/saeziae/rime_korean-yeonbyeon) ⭐ 10 | 🐛 0 | 📅 2022-03-19 两种基于延边大学学报所刊载的朝鲜语罗马字方案所制成的谚文RIME输入法方案
+* **9** [sgqy/rime-korean](https://github.com/sgqy/rime-korean) ⭐ 10 | 🐛 0 | 🌐 C++ | 📅 2024-11-03 - 한국어 - 韓國語 on RIME / rime schema korean(+ hanja) romanize / 韩文（+汉字词）罗马音输入方案
 * **9** [edward-martyr/rime-hentaigana](https://github.com/edward-martyr/rime-hentaigana) ⭐ 9 | 🐛 0 | 📅 2020-03-25 - Input method of the complete set of kana, including hentaigana and other less used kana sets, like those in 台湾語仮名. 變體假名輸入. 変体仮名を入力
-* **9** [sgqy/rime-korean](https://github.com/sgqy/rime-korean) ⭐ 9 | 🐛 0 | 🌐 C++ | 📅 2024-11-03 - 한국어 - 韓國語 on RIME / rime schema korean(+ hanja) romanize / 韩文（+汉字词）罗马音输入方案
 * **8** [pearapple123/rime-chunom](https://github.com/pearapple123/rime-chunom) ⭐ 8 | 🐛 0 | 📅 2022-01-16 - 越南古代喃字（Chữ Nôm）输入方案 An IME for Chu Nom
 * **8** [rime-aca/rime-hangyl](https://github.com/rime-aca/rime-hangyl) ⭐ 8 | 🐛 3 | 📅 2020-06-01 - 한글
 * **7** [biopolyhedron/rime-greek](https://github.com/biopolyhedron/rime-greek) ⭐ 7 | 🐛 0 | 📅 2016-11-27 - Rime 希臘文
@@ -276,16 +276,16 @@ rime 輸入方案和配置列表
 
 ## 配置
 
-* **19463** [iDvel/rime-ice](https://github.com/iDvel/rime-ice) ⭐ 19,535 | 🐛 5 | 🌐 Lua | 📅 2026-09-25 - Rime 配置：雾凇拼音 | 长期维护的简体词库
-* **3673** [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) ⭐ 3,685 | 🐛 15 | 🌐 Lua | 📅 2026-09-28 - 白霜拼音，使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。
+* **19463** [iDvel/rime-ice](https://github.com/iDvel/rime-ice) ⭐ 19,553 | 🐛 5 | 🌐 Lua | 📅 2026-09-25 - Rime 配置：雾凇拼音 | 长期维护的简体词库
+* **3673** [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) ⭐ 3,689 | 🐛 15 | 🌐 Lua | 📅 2026-09-29 - 白霜拼音，使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。
 * **3535** [maomiui/rime](https://github.com/maomiui/rime) ⭐ 3,536 | 🐛 46 | 🌐 Lua | 📅 2026-03-22 - Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置
 * **1059** [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) ⭐ 1,061 | 🐛 15 | 🌐 Lua | 📅 2026-09-22 - 墨奇音形，支持自然码、小鹤、搜狗、微软双拼,是一个基于字形描述信息、递归拆分，最后取首末双形音托的码表开源的方案，墨奇码的拆分码表已开源，目前已经拆分完成全部的通用规范汉字、常用繁体字，总计支持4万字。
-* **335** [ksqsf/rime-moran](https://github.com/ksqsf/rime-moran) ⭐ 336 | 🐛 0 | 🌐 Lua | 📅 2026-09-26 - 自然码及整句辅助方案
+* **335** [ksqsf/rime-moran](https://github.com/ksqsf/rime-moran) ⭐ 337 | 🐛 0 | 🌐 Lua | 📅 2026-09-26 - 自然码及整句辅助方案
 
 ## 其他
 
 * **366** [rime/rime-emoji](https://github.com/rime/rime-emoji) ⭐ 367 | 🐛 4 | 🌐 Python | 📅 2026-03-25 - Emoji / 繪文字輸入方案
-* **315** [gaboolic/moqi-im-windows](https://github.com/gaboolic/moqi-im-windows) ⭐ 324 | 🐛 32 | 🌐 C++ | 📅 2026-08-18 - 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。
+* **315** [gaboolic/moqi-im-windows](https://github.com/gaboolic/moqi-im-windows) ⭐ 325 | 🐛 32 | 🌐 C++ | 📅 2026-08-18 - 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。
 * **99** [shenlebantongying/rime\_latex](https://github.com/shenlebantongying/rime_latex) ⭐ 99 | 🐛 5 | 🌐 Python | 📅 2025-04-03 - LaTeX Symbols (Complete) | 所有 LaTeX 符號的輸入方案
 * **67** [rtransformation/rime-opencc\_emoji\_symbols](https://github.com/rtransformation/rime-opencc_emoji_symbols) ⭐ 67 | 🐛 0 | 📅 2026-07-17 - 利用OpenCC做的Emoji和特殊符号滤镜，供Rime输入法使用者使用
 * **43** [hitigon/meow-emoji-rime](https://github.com/hitigon/meow-emoji-rime) ⭐ 43 | 🐛 3 | 📅 2013-10-20 - Mewo-emoji for Rime 中州韻之貓顏文字
@@ -301,4 +301,4 @@ rime 輸入方案和配置列表
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
