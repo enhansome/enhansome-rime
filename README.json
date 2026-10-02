@@ -51,7 +51,7 @@
             "open_issues": 5,
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1134,
+            "stars": 1135,
             "topics": [
               "config",
               "configs",
@@ -88,7 +88,7 @@
             "open_issues": 17,
             "owner": "rime",
             "repo": "rime-wubi",
-            "stars": 345,
+            "stars": 346,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T09:17:06Z",
+            "last_commit": "2026-09-30T23:19:48Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -1356,11 +1356,11 @@
             "id": 292112591,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-09-26T11:28:58Z",
+            "last_commit": "2026-10-02T10:36:55Z",
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "bopomofo",
               "hangeul",
@@ -2559,11 +2559,11 @@
                 "id": 161583425,
                 "language": null,
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-19T14:20:00Z",
+                "last_commit": "2026-10-01T15:13:16Z",
                 "open_issues": 0,
                 "owner": "NGLI",
                 "repo": "rime-wugniu_gninpou",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "chinese",
                   "chinese-dialects",
@@ -2654,7 +2654,7 @@
                 "open_issues": 1,
                 "owner": "ZWolken",
                 "repo": "rime-wenzhounese",
-                "stars": 32,
+                "stars": 31,
                 "topics": [
                   "chinese",
                   "dialect",
@@ -2737,7 +2737,7 @@
                 "open_issues": 2,
                 "owner": "saeziae",
                 "repo": "rime_nguphing",
-                "stars": 22,
+                "stars": 21,
                 "topics": [
                   "chinese-learning",
                   "localization",
@@ -3380,7 +3380,7 @@
                 "open_issues": 9,
                 "owner": "only3km",
                 "repo": "ciklinbekin",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "dictionary"
                 ]
@@ -3508,7 +3508,7 @@
                 "open_issues": 13,
                 "owner": "rime",
                 "repo": "rime-cantonese",
-                "stars": 681,
+                "stars": 683,
                 "topics": [
                   "cantonese",
                   "cantonese-dictionary",
@@ -5408,7 +5408,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19560,
+            "stars": 19585,
             "topics": [
               "rime",
               "rime-config",
@@ -5432,11 +5432,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T04:15:17Z",
+            "last_commit": "2026-10-02T04:17:46Z",
             "open_issues": 15,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3690,
+            "stars": 3699,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5534,7 +5534,7 @@
             "open_issues": 4,
             "owner": "rime",
             "repo": "rime-emoji",
-            "stars": 367,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5555,7 +5555,7 @@
             "open_issues": 32,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 325,
+            "stars": 336,
             "topics": [
               "input-method",
               "input-methods"
@@ -5859,7 +5859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T15:50:15.757Z",
+    "last_updated": "2026-10-02T15:41:56.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -5871,7 +5871,7 @@
       "open_issues": 8,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1498,
+      "stars": 1500,
       "topics": [
         "awesome",
         "awesome-list",
