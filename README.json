@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1668,
+            "stars": 1669,
             "topics": [
               "android",
               "ggtt",
@@ -88,7 +88,7 @@
             "open_issues": 17,
             "owner": "rime",
             "repo": "rime-wubi",
-            "stars": 346,
+            "stars": 347,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5408,7 +5408,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19585,
+            "stars": 19591,
             "topics": [
               "rime",
               "rime-config",
@@ -5432,11 +5432,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T04:17:46Z",
+            "last_commit": "2026-10-03T04:11:44Z",
             "open_issues": 15,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3699,
+            "stars": 3702,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5478,7 +5478,7 @@
             "open_issues": 15,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1063,
+            "stars": 1062,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5555,7 +5555,7 @@
             "open_issues": 32,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 336,
+            "stars": 338,
             "topics": [
               "input-method",
               "input-methods"
@@ -5859,7 +5859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:41:56.105Z",
+    "last_updated": "2026-10-03T05:05:32.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",

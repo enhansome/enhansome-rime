@@ -4,9 +4,9 @@ rime 輸入方案和配置列表
 
 ## 形碼・音形
 
-* **1668** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) ⭐ 1,668 | 🐛 2 | 📅 2026-09-09 - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
+* **1668** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) ⭐ 1,669 | 🐛 2 | 📅 2026-09-09 - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
 * **1133** [SivanLaai/rime\_pure: rime配置](https://github.com/SivanLaai/rime_pure) ⭐ 1,135 | 🐛 5 | 🌐 C++ | 📅 2026-07-30 - 【rime小狼毫\trime同文：手机/PC一站式配置】九宫格双拼、四叶草九宫格拼音、四叶草拼音、小鹤双拼、极品五笔、QQ五笔、徐码、郑码
-* **345** [rime/rime-wubi](https://github.com/rime/rime-wubi) ⭐ 346 | 🐛 17 | 📅 2024-01-05 - 【五筆字型】輸入方案
+* **345** [rime/rime-wubi](https://github.com/rime/rime-wubi) ⭐ 347 | 🐛 17 | 📅 2024-01-05 - 【五筆字型】輸入方案
 * **282** [brglng/rime-xhup](https://github.com/brglng/rime-xhup) ⭐ 282 | 🐛 5 | 📅 2019-06-13 - Rime 小鹤双拼音形输入方案
 * **172** [nlimpid/rime-hepy](https://github.com/nlimpid/rime-hepy) ⭐ 172 | 🐛 2 | 📅 2014-07-21 - 自用小鹤双拼rime配置
 * **135** [xkinput/Rime\_JD](https://github.com/xkinput/Rime_JD) ⭐ 135 | 🐛 1 | 🌐 Lua | 📅 2026-09-30 - 星空键道6｜详尽操作指南：<https://pingshunhuangalex.gitbook.io/rime-xkjd>
@@ -276,16 +276,16 @@ rime 輸入方案和配置列表
 
 ## 配置
 
-* **19556** [iDvel/rime-ice](https://github.com/iDvel/rime-ice) ⭐ 19,585 | 🐛 5 | 🌐 Lua | 📅 2026-09-25 - Rime 配置：雾凇拼音 | 长期维护的简体词库
-* **3689** [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) ⭐ 3,699 | 🐛 15 | 🌐 Lua | 📅 2026-10-02 - 白霜拼音，使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。
+* **19556** [iDvel/rime-ice](https://github.com/iDvel/rime-ice) ⭐ 19,591 | 🐛 5 | 🌐 Lua | 📅 2026-09-25 - Rime 配置：雾凇拼音 | 长期维护的简体词库
+* **3689** [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) ⭐ 3,702 | 🐛 15 | 🌐 Lua | 📅 2026-10-03 - 白霜拼音，使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。
 * **3535** [maomiui/rime](https://github.com/maomiui/rime) ⭐ 3,535 | 🐛 46 | 🌐 Lua | 📅 2026-03-22 - Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置
-* **1062** [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) ⭐ 1,063 | 🐛 15 | 🌐 Lua | 📅 2026-09-22 - 墨奇音形，支持自然码、小鹤、搜狗、微软双拼,是一个基于字形描述信息、递归拆分，最后取首末双形音托的码表开源的方案，墨奇码的拆分码表已开源，目前已经拆分完成全部的通用规范汉字、常用繁体字，总计支持4万字。
+* **1062** [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) ⭐ 1,062 | 🐛 15 | 🌐 Lua | 📅 2026-09-22 - 墨奇音形，支持自然码、小鹤、搜狗、微软双拼,是一个基于字形描述信息、递归拆分，最后取首末双形音托的码表开源的方案，墨奇码的拆分码表已开源，目前已经拆分完成全部的通用规范汉字、常用繁体字，总计支持4万字。
 * **338** [ksqsf/rime-moran](https://github.com/ksqsf/rime-moran) ⭐ 338 | 🐛 0 | 🌐 Lua | 📅 2026-09-30 - 自然码及整句辅助方案
 
 ## 其他
 
 * **367** [rime/rime-emoji](https://github.com/rime/rime-emoji) ⭐ 368 | 🐛 4 | 🌐 Python | 📅 2026-03-25 - Emoji / 繪文字輸入方案
-* **325** [gaboolic/moqi-im-windows](https://github.com/gaboolic/moqi-im-windows) ⭐ 336 | 🐛 32 | 🌐 C++ | 📅 2026-08-18 - 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。
+* **325** [gaboolic/moqi-im-windows](https://github.com/gaboolic/moqi-im-windows) ⭐ 338 | 🐛 32 | 🌐 C++ | 📅 2026-08-18 - 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。
 * **99** [shenlebantongying/rime\_latex](https://github.com/shenlebantongying/rime_latex) ⭐ 99 | 🐛 5 | 🌐 Python | 📅 2025-04-03 - LaTeX Symbols (Complete) | 所有 LaTeX 符號的輸入方案
 * **67** [rtransformation/rime-opencc\_emoji\_symbols](https://github.com/rtransformation/rime-opencc_emoji_symbols) ⭐ 67 | 🐛 0 | 📅 2026-07-17 - 利用OpenCC做的Emoji和特殊符号滤镜，供Rime输入法使用者使用
 * **43** [hitigon/meow-emoji-rime](https://github.com/hitigon/meow-emoji-rime) ⭐ 43 | 🐛 3 | 📅 2013-10-20 - Mewo-emoji for Rime 中州韻之貓顏文字
@@ -301,4 +301,4 @@ rime 輸入方案和配置列表
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
