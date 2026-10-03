@@ -2956,7 +2956,7 @@
                 "open_issues": 0,
                 "owner": "NGLI",
                 "repo": "rime-wugniu_kashin",
-                "stars": 1,
+                "stars": 2,
                 "topics": [
                   "chinese",
                   "chinese-dialects",
@@ -5408,7 +5408,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19591,
+            "stars": 19597,
             "topics": [
               "rime",
               "rime-config",
@@ -5555,7 +5555,7 @@
             "open_issues": 32,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 338,
+            "stars": 341,
             "topics": [
               "input-method",
               "input-methods"
@@ -5859,7 +5859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:05:32.273Z",
+    "last_updated": "2026-10-03T14:16:00.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",

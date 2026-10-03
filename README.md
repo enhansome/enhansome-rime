@@ -151,7 +151,7 @@ rime 輸入方案和配置列表
   * **2** [ionkaon/rime-old-nyingpo](https://github.com/ionkaon/rime-old-nyingpo) ⭐ 2 | 🐛 0 | 📅 2026-03-22 - 清末寧波話輸入方案
   * **2** [lotem/rime-aoyu](https://github.com/lotem/rime-aoyu) ⭐ 2 | 🐛 0 | 📅 2018-04-15 - 樂清話拼音輸入法
   * **2** [pearapple123/rime-iuciou](https://github.com/pearapple123/rime-iuciou) ⭐ 2 | 🐛 0 | 📅 2021-05-08 - 用「滬語」拼音的溫州話方案 A RIME IME for Wenzhounese
-  * **1** [NGLI/rime-wugniu\_kashin](https://github.com/NGLI/rime-wugniu_kashin) ⭐ 1 | 🐛 0 | 📅 2026-05-25 - 嘉興（五縣兩區）吳語拼音輸入方案
+  * **1** [NGLI/rime-wugniu\_kashin](https://github.com/NGLI/rime-wugniu_kashin) ⭐ 2 | 🐛 0 | 📅 2026-05-25 - 嘉興（五縣兩區）吳語拼音輸入方案
 * 徽語 Hui
 * 贛語 Gan
   * **4** [Doohaey/GonnyuGeneralIME-Rime-Fenni](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Fenni) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-09-28 - 分宜话 Gan Fenni (Fenyi) Rime input method
@@ -276,7 +276,7 @@ rime 輸入方案和配置列表
 
 ## 配置
 
-* **19556** [iDvel/rime-ice](https://github.com/iDvel/rime-ice) ⭐ 19,591 | 🐛 5 | 🌐 Lua | 📅 2026-09-25 - Rime 配置：雾凇拼音 | 长期维护的简体词库
+* **19556** [iDvel/rime-ice](https://github.com/iDvel/rime-ice) ⭐ 19,597 | 🐛 5 | 🌐 Lua | 📅 2026-09-25 - Rime 配置：雾凇拼音 | 长期维护的简体词库
 * **3689** [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) ⭐ 3,702 | 🐛 15 | 🌐 Lua | 📅 2026-10-03 - 白霜拼音，使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。
 * **3535** [maomiui/rime](https://github.com/maomiui/rime) ⭐ 3,535 | 🐛 46 | 🌐 Lua | 📅 2026-03-22 - Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置
 * **1062** [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) ⭐ 1,062 | 🐛 15 | 🌐 Lua | 📅 2026-09-22 - 墨奇音形，支持自然码、小鹤、搜狗、微软双拼,是一个基于字形描述信息、递归拆分，最后取首末双形音托的码表开源的方案，墨奇码的拆分码表已开源，目前已经拆分完成全部的通用规范汉字、常用繁体字，总计支持4万字。
@@ -285,7 +285,7 @@ rime 輸入方案和配置列表
 ## 其他
 
 * **367** [rime/rime-emoji](https://github.com/rime/rime-emoji) ⭐ 368 | 🐛 4 | 🌐 Python | 📅 2026-03-25 - Emoji / 繪文字輸入方案
-* **325** [gaboolic/moqi-im-windows](https://github.com/gaboolic/moqi-im-windows) ⭐ 338 | 🐛 32 | 🌐 C++ | 📅 2026-08-18 - 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。
+* **325** [gaboolic/moqi-im-windows](https://github.com/gaboolic/moqi-im-windows) ⭐ 341 | 🐛 32 | 🌐 C++ | 📅 2026-08-18 - 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。
 * **99** [shenlebantongying/rime\_latex](https://github.com/shenlebantongying/rime_latex) ⭐ 99 | 🐛 5 | 🌐 Python | 📅 2025-04-03 - LaTeX Symbols (Complete) | 所有 LaTeX 符號的輸入方案
 * **67** [rtransformation/rime-opencc\_emoji\_symbols](https://github.com/rtransformation/rime-opencc_emoji_symbols) ⭐ 67 | 🐛 0 | 📅 2026-07-17 - 利用OpenCC做的Emoji和特殊符号滤镜，供Rime输入法使用者使用
 * **43** [hitigon/meow-emoji-rime](https://github.com/hitigon/meow-emoji-rime) ⭐ 43 | 🐛 3 | 📅 2013-10-20 - Mewo-emoji for Rime 中州韻之貓顏文字
