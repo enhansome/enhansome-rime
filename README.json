@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1671,
+            "stars": 1673,
             "topics": [
               "android",
               "ggtt",
@@ -1360,7 +1360,7 @@
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
-            "stars": 332,
+            "stars": 333,
             "topics": [
               "bopomofo",
               "hangeul",
@@ -4818,7 +4818,7 @@
             "open_issues": 0,
             "owner": "arpcn",
             "repo": "rime-tibetan",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5408,7 +5408,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19624,
+            "stars": 19636,
             "topics": [
               "rime",
               "rime-config",
@@ -5436,7 +5436,7 @@
             "open_issues": 15,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3702,
+            "stars": 3705,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5555,7 +5555,7 @@
             "open_issues": 32,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 348,
+            "stars": 351,
             "topics": [
               "input-method",
               "input-methods"
@@ -5694,7 +5694,7 @@
             "open_issues": 0,
             "owner": "CauT",
             "repo": "GuruIM",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "ai",
               "input-method",
@@ -5859,7 +5859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:18:06.346Z",
+    "last_updated": "2026-10-06T10:34:15.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",

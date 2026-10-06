@@ -4,7 +4,7 @@ rime 輸入方案和配置列表
 
 ## 形碼・音形
 
-* **1668** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) ⭐ 1,671 | 🐛 2 | 📅 2026-09-09 - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
+* **1668** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) ⭐ 1,673 | 🐛 2 | 📅 2026-09-09 - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
 * **1133** [SivanLaai/rime\_pure: rime配置](https://github.com/SivanLaai/rime_pure) ⭐ 1,136 | 🐛 5 | 🌐 C++ | 📅 2026-07-30 - 【rime小狼毫\trime同文：手机/PC一站式配置】九宫格双拼、四叶草九宫格拼音、四叶草拼音、小鹤双拼、极品五笔、QQ五笔、徐码、郑码
 * **345** [rime/rime-wubi](https://github.com/rime/rime-wubi) ⭐ 347 | 🐛 17 | 📅 2024-01-05 - 【五筆字型】輸入方案
 * **282** [brglng/rime-xhup](https://github.com/brglng/rime-xhup) ⭐ 282 | 🐛 5 | 📅 2019-06-13 - Rime 小鹤双拼音形输入方案
@@ -67,7 +67,7 @@ rime 輸入方案和配置列表
 ## 音碼
 
 * **476** [rime/rime-double-pinyin](https://github.com/rime/rime-double-pinyin) ⭐ 477 | 🐛 9 | 📅 2025-09-23 - 雙拼輸入方案
-* **329** [oniondelta/Onion\_Rime\_Files](https://github.com/oniondelta/Onion_Rime_Files) ⭐ 332 | 🐛 0 | 🌐 Lua | 📅 2026-10-02 - Rime 注音&拼音 "洋蔥" 方案（四個注音、一個拼音、兩個形碼）
+* **329** [oniondelta/Onion\_Rime\_Files](https://github.com/oniondelta/Onion_Rime_Files) ⭐ 333 | 🐛 0 | 🌐 Lua | 📅 2026-10-02 - Rime 注音&拼音 "洋蔥" 方案（四個注音、一個拼音、兩個形碼）
 * **284** [rime/rime-luna-pinyin](https://github.com/rime/rime-luna-pinyin) ⭐ 284 | 🐛 20 | 📅 2026-07-12 - 【朙月拼音】輸入方案
 * **232** [xiaoTaoist/rime-dict](https://github.com/xiaoTaoist/rime-dict) ⭐ 232 | 🐛 4 | 📅 2020-04-30 - RIME输入法 增强词库 适用于明月拼音和双拼
 * **182** [rime/rime-pinyin-simp](https://github.com/rime/rime-pinyin-simp) ⭐ 182 | 🐛 4 | 📅 2024-12-29 - 【袖珍簡化字拼音】輸入方案
@@ -245,7 +245,7 @@ rime 輸入方案和配置列表
 * **5** [hienning/ime-sawrauz](https://github.com/hienning/ime-sawrauz) ⭐ 5 | 🐛 0 | 📅 2013-12-23 - 旧壮文输入法码表，适用于小狼毫输入法平台。
 * **5** [mkpoli/SIPA4RIME](https://github.com/mkpoli/SIPA4RIME) ⭐ 5 | 🐛 0 | 📅 2022-08-27 - 根據發音部位、發音方法等語義輸入IPA的方案 / Semantic IPA
 * **5** [mkpoli/rime-toki-pona-munjan](https://github.com/mkpoli/rime-toki-pona-munjan) ⭐ 5 | 🐛 0 | 📅 2023-09-25 - A Rime Schema for toki pona (言善) in sitelen munjan (書文言). Classical-Chinese style Toki Pona.
-* **4** [arpcn/rime-tibetan](https://github.com/arpcn/rime-tibetan) ⭐ 4 | 🐛 0 | 📅 2024-03-06 - rime-tibetan 藏文 Wylie 轉寫
+* **4** [arpcn/rime-tibetan](https://github.com/arpcn/rime-tibetan) ⭐ 5 | 🐛 0 | 📅 2024-03-06 - rime-tibetan 藏文 Wylie 轉寫
 * **4** [biopolyhedron/rime-kyril-international](https://github.com/biopolyhedron/rime-kyril-international) ⭐ 4 | 🐛 0 | 📅 2020-05-09 - Rime 基利爾字母混合輸入
 * **4** [biopolyhedron/rime-tangut-poly4](https://github.com/biopolyhedron/rime-tangut-poly4) ⭐ 4 | 🐛 0 | 📅 2024-04-17 - Rime 西夏文【Poly四角】
 * **4** [lingrottin/tienyu\_rus](https://github.com/lingrottin/tienyu_rus) ⭐ 4 | 🐛 0 | 📅 2021-06-26 - Tienyu's Russian input schema for Rime with windows-like multi-alphabet-to-one support
@@ -276,8 +276,8 @@ rime 輸入方案和配置列表
 
 ## 配置
 
-* **19556** [iDvel/rime-ice](https://github.com/iDvel/rime-ice) ⭐ 19,624 | 🐛 5 | 🌐 Lua | 📅 2026-10-05 - Rime 配置：雾凇拼音 | 长期维护的简体词库
-* **3689** [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) ⭐ 3,702 | 🐛 15 | 🌐 Lua | 📅 2026-10-05 - 白霜拼音，使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。
+* **19556** [iDvel/rime-ice](https://github.com/iDvel/rime-ice) ⭐ 19,636 | 🐛 5 | 🌐 Lua | 📅 2026-10-05 - Rime 配置：雾凇拼音 | 长期维护的简体词库
+* **3689** [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) ⭐ 3,705 | 🐛 15 | 🌐 Lua | 📅 2026-10-05 - 白霜拼音，使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。
 * **3535** [maomiui/rime](https://github.com/maomiui/rime) ⭐ 3,534 | 🐛 46 | 🌐 Lua | 📅 2026-03-22 - Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置
 * **1062** [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) ⭐ 1,063 | 🐛 15 | 🌐 Lua | 📅 2026-09-22 - 墨奇音形，支持自然码、小鹤、搜狗、微软双拼,是一个基于字形描述信息、递归拆分，最后取首末双形音托的码表开源的方案，墨奇码的拆分码表已开源，目前已经拆分完成全部的通用规范汉字、常用繁体字，总计支持4万字。
 * **338** [ksqsf/rime-moran](https://github.com/ksqsf/rime-moran) ⭐ 339 | 🐛 0 | 🌐 Lua | 📅 2026-09-30 - 自然码及整句辅助方案
@@ -285,13 +285,13 @@ rime 輸入方案和配置列表
 ## 其他
 
 * **367** [rime/rime-emoji](https://github.com/rime/rime-emoji) ⭐ 369 | 🐛 4 | 🌐 Python | 📅 2026-03-25 - Emoji / 繪文字輸入方案
-* **325** [gaboolic/moqi-im-windows](https://github.com/gaboolic/moqi-im-windows) ⭐ 348 | 🐛 32 | 🌐 C++ | 📅 2026-08-18 - 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。
+* **325** [gaboolic/moqi-im-windows](https://github.com/gaboolic/moqi-im-windows) ⭐ 351 | 🐛 32 | 🌐 C++ | 📅 2026-08-18 - 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。
 * **99** [shenlebantongying/rime\_latex](https://github.com/shenlebantongying/rime_latex) ⭐ 99 | 🐛 5 | 🌐 Python | 📅 2025-04-03 - LaTeX Symbols (Complete) | 所有 LaTeX 符號的輸入方案
 * **67** [rtransformation/rime-opencc\_emoji\_symbols](https://github.com/rtransformation/rime-opencc_emoji_symbols) ⭐ 67 | 🐛 0 | 📅 2026-07-17 - 利用OpenCC做的Emoji和特殊符号滤镜，供Rime输入法使用者使用
 * **43** [hitigon/meow-emoji-rime](https://github.com/hitigon/meow-emoji-rime) ⭐ 43 | 🐛 3 | 📅 2013-10-20 - Mewo-emoji for Rime 中州韻之貓顏文字
 * **22** [cgcel/rime\_to\_gboard](https://github.com/cgcel/rime_to_gboard) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2025-07-04 - 将 Rime userdb.txt 转换为 Gboard PersonalDictionary.zip 格式, 便于将词库导入 Gboard
 * **14** [puddinging/rime-cli](https://github.com/puddinging/rime-cli) ⭐ 14 | 🐛 0 | 🌐 Go | 📅 2023-09-03 - 关于小狼毫输入法的一个小工具
-* **10** [CauT/GuruIM](https://github.com/CauT/GuruIM) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-03-28 - GuruIM (咕噜输入法) iOS RIME 客户端，集成 AI 驱动的个人数据洞察与智能调频，内置雾凇拼音
+* **10** [CauT/GuruIM](https://github.com/CauT/GuruIM) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2026-03-28 - GuruIM (咕噜输入法) iOS RIME 客户端，集成 AI 驱动的个人数据洞察与智能调频，内置雾凇拼音
 * **7** [Godalin/rime-agda-input](https://github.com/Godalin/rime-agda-input) ⭐ 7 | 🐛 0 | 🌐 Emacs Lisp | 📅 2025-10-15 - Rime Agda Input | `agda-input.el` 符號輸入，更短的數學符號方案。提供了與 `rime-latex` 兼容的配置案例
 * **6** [amorphobia/xmoji](https://github.com/amorphobia/xmoji) ⭐ 6 | 🐛 0 | 📅 2021-02-24 - 可挂载于小鹤音形之下的 Emoji 输入方案
 * **6** [sgalal/rime-opencc-latest](https://github.com/sgalal/rime-opencc-latest) ⭐ 6 | 🐛 2 | 📅 2020-10-28 - Customize rime input schemata to use the latest OpenCC dictionaries
@@ -301,4 +301,4 @@ rime 輸入方案和配置列表
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
