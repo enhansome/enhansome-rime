@@ -4,14 +4,14 @@ rime 輸入方案和配置列表
 
 ## 形碼・音形
 
-* **1668** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) ⭐ 1,673 | 🐛 2 | 📅 2026-09-09 - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
-* **1133** [SivanLaai/rime\_pure: rime配置](https://github.com/SivanLaai/rime_pure) ⭐ 1,136 | 🐛 5 | 🌐 C++ | 📅 2026-07-30 - 【rime小狼毫\trime同文：手机/PC一站式配置】九宫格双拼、四叶草九宫格拼音、四叶草拼音、小鹤双拼、极品五笔、QQ五笔、徐码、郑码
-* **345** [rime/rime-wubi](https://github.com/rime/rime-wubi) ⭐ 347 | 🐛 17 | 📅 2024-01-05 - 【五筆字型】輸入方案
+* **1674** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) ⭐ 1,676 | 🐛 2 | 📅 2026-09-09 - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
+* **1136** [SivanLaai/rime\_pure: rime配置](https://github.com/SivanLaai/rime_pure) ⭐ 1,136 | 🐛 5 | 🌐 C++ | 📅 2026-07-30 - 【rime小狼毫\trime同文：手机/PC一站式配置】九宫格双拼、四叶草九宫格拼音、四叶草拼音、小鹤双拼、极品五笔、QQ五笔、徐码、郑码
+* **347** [rime/rime-wubi](https://github.com/rime/rime-wubi) ⭐ 347 | 🐛 17 | 📅 2024-01-05 - 【五筆字型】輸入方案
 * **282** [brglng/rime-xhup](https://github.com/brglng/rime-xhup) ⭐ 282 | 🐛 5 | 📅 2019-06-13 - Rime 小鹤双拼音形输入方案
 * **172** [nlimpid/rime-hepy](https://github.com/nlimpid/rime-hepy) ⭐ 172 | 🐛 2 | 📅 2014-07-21 - 自用小鹤双拼rime配置
-* **135** [xkinput/Rime\_JD](https://github.com/xkinput/Rime_JD) ⭐ 135 | 🐛 1 | 🌐 Lua | 📅 2026-10-04 - 星空键道6｜详尽操作指南：<https://pingshunhuangalex.gitbook.io/rime-xkjd>
+* **135** [xkinput/Rime\_JD](https://github.com/xkinput/Rime_JD) ⭐ 135 | 🐛 1 | 🌐 Lua | 📅 2026-10-07 - 星空键道6｜详尽操作指南：<https://pingshunhuangalex.gitbook.io/rime-xkjd>
 * **71** [Ace-Who/rime-xuma](https://github.com/Ace-Who/rime-xuma) ⭐ 71 | 🐛 1 | 🌐 Lua | 📅 2022-02-17 - 徐码／爾雅：三重注解、双重反查、屏蔽词组、全码后置……
-* **66** [yanhuacuo/98wubi](https://github.com/yanhuacuo/98wubi) ⭐ 66 | 🐛 0 | 🌐 Lua | 📅 2025-07-10 - 具备码元提示功能的98五笔配置文件
+* **66** [yanhuacuo/98wubi](https://github.com/yanhuacuo/98wubi) ⭐ 67 | 🐛 0 | 🌐 Lua | 📅 2025-07-10 - 具备码元提示功能的98五笔配置文件
 * **65** [bigshans/rime-zrm](https://github.com/bigshans/rime-zrm) ⭐ 65 | 🐛 0 | 🌐 Lua | 📅 2025-11-05 - 自然码+辅助码的 rime 配置方案
 * **54** [rime/rime-cangjie](https://github.com/rime/rime-cangjie) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2026-06-01 - 【倉頡】輸入方案
 * **48** [ywxt/rime-huma](https://github.com/ywxt/rime-huma) ⭐ 48 | 🐛 7 | 🌐 Lua | 📅 2026-05-21 - 虎碼輸入方案
@@ -19,15 +19,15 @@ rime 輸入方案和配置列表
 * **40** [pingshunhuangalex/rime-keydo](https://github.com/pingshunhuangalex/rime-keydo) ⭐ 40 | 🐛 1 | 🌐 Lua | 📅 2026-10-04 - 键道·我流：基于Colemak-DH Matrix布局的音形码顶功输入方案，脱胎于星空键道
 * **33** [JeffChien/rime-flypyquick5](https://github.com/JeffChien/rime-flypyquick5) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2023-08-13 - 小鶴雙拼的音+速成的形組合而成的音形方案
 * **30** [acevery/rime-zhengma](https://github.com/acevery/rime-zhengma) ⭐ 30 | 🐛 0 | 📅 2017-12-28 - Zhengma for Rime
+* **27** [Openvingen/rime-zhengma](https://github.com/Openvingen/rime-zhengma) ⭐ 27 | 🐛 0 | 📅 2022-10-31 - 用于Rime平台的郑码输入方案自定义码表(包含安静郑码、极点超集郑码、单字郑码、巨集郑码)
 * **26** [GongMu/rime-zhengma](https://github.com/GongMu/rime-zhengma) ⭐ 26 | 🐛 3 | 🌐 VimL | 📅 2019-01-09 - Rime郑码输入方案
-* **26** [Openvingen/rime-zhengma](https://github.com/Openvingen/rime-zhengma) ⭐ 26 | 🐛 0 | 📅 2022-10-31 - 用于Rime平台的郑码输入方案自定义码表(包含安静郑码、极点超集郑码、单字郑码、巨集郑码)
 * **26** [momijineko/Rime-KappaJP](https://github.com/momijineko/Rime-KappaJP) ⭐ 26 | 🐛 3 | 📅 2025-09-05 - Rime河童日本語五筆入力
 * **23** [rime/rime-array](https://github.com/rime/rime-array) ⭐ 23 | 🐛 3 | 📅 2024-08-11 - 【行列】輸入方案
 * **21** [lotem/rime-wubi98](https://github.com/lotem/rime-wubi98) ⭐ 21 | 🐛 0 | 📅 2018-04-07 - 五筆98版 Rime 輸入方案
+* **19** [zongxinbo/rime-zong](https://github.com/zongxinbo/rime-zong) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-07-08 - RIME 四种方案 (龙渊郑码、倉頡五代、四角号码和行列30)
 * **18** [allencch/wubiluna](https://github.com/allencch/wubiluna) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2025-10-05 - 五笔朙月流 Wubiluna is the input method combining Pinyin and Wubi86 using Rime
 * **18** [zeylei/ghcm](https://github.com/zeylei/ghcm) ⭐ 18 | 🐛 0 | 📅 2020-12-15 - 矧(shěn)码，又名神码
-* **17** [zongxinbo/rime-zong](https://github.com/zongxinbo/rime-zong) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-07-08 - RIME 四种方案 (龙渊郑码、倉頡五代、四角号码和行列30)
-* **17** [philipposkhos/rime-ms-quick](https://github.com/philipposkhos/rime-ms-quick) ⭐ 17 | 🐛 2 | 📅 2026-09-28 - 傳統速成 ， rime 輸入法 (<https://github.com/rime>) 的微軟傳統排位速成方案
+* **17** [philipposkhos/rime-ms-quick](https://github.com/philipposkhos/rime-ms-quick) ⭐ 17 | 🐛 3 | 📅 2026-09-28 - 傳統速成 ， rime 輸入法 (<https://github.com/rime>) 的微軟傳統排位速成方案
 * **16** [CanCLID/rime-loengfan](https://github.com/CanCLID/rime-loengfan) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2022-03-03 - Loengfan (粵語兩分) is the Cantonese version of the Liang Fen input method
 * **16** [IT1187541749/Rime-data](https://github.com/IT1187541749/Rime-data) ⭐ 16 | 🐛 0 | 🌐 Lua | 📅 2025-04-06 - 新世纪五笔字型资源库(新世纪五笔魔改版，包括新世纪五笔超集、含词、单字、拆分各版)
 * **16** [rime/rime-quick](https://github.com/rime/rime-quick) ⭐ 16 | 🐛 2 | 📅 2026-07-17 - 【速成】輸入方案
@@ -54,6 +54,7 @@ rime 輸入方案和配置列表
 * **2** [Schummacher/XHSJ](https://github.com/Schummacher/XHSJ) ⭐ 2 | 🐛 0 | 📅 2022-02-01 - 小鹤四角，参考了小鹤音形的音码、四角号码的形码、星空键道的顶功
 * **2** [dzyht/rime\_xkyd](https://github.com/dzyht/rime_xkyd) ⭐ 2 | 🐛 1 | 📅 2018-04-30 - 星空一道：星空一笔的音+星空键道的形，名之为星空一道
 * **2** [runapp/rime-wubi98char](https://github.com/runapp/rime-wubi98char) ⭐ 2 | 🐛 0 | 📅 2016-10-12 - 小狼毫（rime） 五笔98单字方案 源于海峰五笔码表
+* **17** [arliong/rime-cixin-quick](https://github.com/arliong/rime-cixin-quick) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-10-07 - 慈心速成：基於 rime-ms-quick 增強的微軟傳統排位速成，還原 XP 式盲接詞組聯想（Shift+1..9），附候選欄可見聯想與拼音/筆畫反查（候選自動註速成碼），63,000 詞組
 * **1** [Reniastyc/RIME\_array30\_ex](https://github.com/Reniastyc/RIME_array30_ex) ⭐ 1 | 🐛 0 | 📅 2021-02-03 - 用於RIME的修改版行列30輸入方案
 * **1** [dzyht/rime\_xkyb](https://github.com/dzyht/rime_xkyb) ⭐ 1 | 🐛 0 | 📅 2018-07-22 - 星空一笔：吅吅大山的星空一笔输入方案 for RIME
 * **1** [lotem/rime-linguistic-wubi](https://github.com/lotem/rime-linguistic-wubi) ⭐ 1 | 🐛 0 | 📅 2018-04-07 - Rime 輸入方案：學界專供大字符集五筆字型輸入法
@@ -66,19 +67,19 @@ rime 輸入方案和配置列表
 
 ## 音碼
 
-* **476** [rime/rime-double-pinyin](https://github.com/rime/rime-double-pinyin) ⭐ 477 | 🐛 9 | 📅 2025-09-23 - 雙拼輸入方案
-* **329** [oniondelta/Onion\_Rime\_Files](https://github.com/oniondelta/Onion_Rime_Files) ⭐ 334 | 🐛 0 | 🌐 Lua | 📅 2026-10-02 - Rime 注音&拼音 "洋蔥" 方案（四個注音、一個拼音、兩個形碼）
+* **477** [rime/rime-double-pinyin](https://github.com/rime/rime-double-pinyin) ⭐ 477 | 🐛 9 | 📅 2025-09-23 - 雙拼輸入方案
+* **334** [oniondelta/Onion\_Rime\_Files](https://github.com/oniondelta/Onion_Rime_Files) ⭐ 334 | 🐛 0 | 🌐 Lua | 📅 2026-10-06 - Rime 注音&拼音 "洋蔥" 方案（四個注音、一個拼音、兩個形碼）
 * **284** [rime/rime-luna-pinyin](https://github.com/rime/rime-luna-pinyin) ⭐ 284 | 🐛 20 | 📅 2026-07-12 - 【朙月拼音】輸入方案
-* **232** [xiaoTaoist/rime-dict](https://github.com/xiaoTaoist/rime-dict) ⭐ 233 | 🐛 4 | 📅 2020-04-30 - RIME输入法 增强词库 适用于明月拼音和双拼
+* **233** [xiaoTaoist/rime-dict](https://github.com/xiaoTaoist/rime-dict) ⭐ 233 | 🐛 4 | 📅 2020-04-30 - RIME输入法 增强词库 适用于明月拼音和双拼
 * **182** [rime/rime-pinyin-simp](https://github.com/rime/rime-pinyin-simp) ⭐ 182 | 🐛 4 | 📅 2024-12-29 - 【袖珍簡化字拼音】輸入方案
-* **166** [rime/rime-terra-pinyin](https://github.com/rime/rime-terra-pinyin) ⭐ 167 | 🐛 20 | 📅 2026-09-18 - 【地球拼音】輸入方案
+* **167** [rime/rime-terra-pinyin](https://github.com/rime/rime-terra-pinyin) ⭐ 167 | 🐛 20 | 📅 2026-09-18 - 【地球拼音】輸入方案
 * **100** [imper0502/rime-double-bopomo](https://github.com/imper0502/rime-double-bopomo) ⭐ 100 | 🐛 8 | 📅 2025-07-11 - Double bopomo(zhù-yīn), A Chinese Input Method for Taiwanese, zhù-yīn users.雙碼注音，給注音使用者的雙拼輸入法。不需要額外學習漢語拼音。
 * **69** [hosxy/rime-aurora-pinyin](https://github.com/hosxy/rime-aurora-pinyin) ⭐ 69 | 🐛 5 | 📅 2022-08-27 - 【极光拼音】输入方案
 * **61** [andy0130tw/iridium-bpmf](https://github.com/andy0130tw/iridium-bpmf) ⭐ 61 | 🐛 5 | 📅 2026-09-11 - 銥 \[Ir] 注音 — (又是一個) 基於 RIME、參酌其它注音輸入法習慣、符合臺灣使用習慣為規準的注音輸入方案。
 * **59** [rime/rime-combo-pinyin](https://github.com/rime/rime-combo-pinyin) ⭐ 59 | 🐛 1 | 📅 2026-09-25 - 【宮保拼音】輸入方案
 * **53** [rime/rime-bopomofo](https://github.com/rime/rime-bopomofo) ⭐ 53 | 🐛 0 | 📅 2026-05-09 - 注音輸入方案
 * **27** [zaqzrh/Tone-double\_pinyin](https://github.com/zaqzrh/Tone-double_pinyin) ⭐ 27 | 🐛 8 | 📅 2021-04-02 - 帶聲調的雙拼方案
-* **13** [arsenali/rime-triple-pinyin-lssp](https://github.com/arsenali/rime-triple-pinyin-lssp) ⭐ 14 | 🐛 0 | 🌐 Lua | 📅 2026-09-19 - 李氏三拼方案，按“声、韵、调”三码输入一个带调音节，15键内无重音
+* **14** [arsenali/rime-triple-pinyin-lssp](https://github.com/arsenali/rime-triple-pinyin-lssp) ⭐ 14 | 🐛 0 | 🌐 Lua | 📅 2026-09-19 - 李氏三拼方案，按“声、韵、调”三码输入一个带调音节，15键内无重音
 * **12** [jacob-us/lau\_guoq\_in](https://github.com/jacob-us/lau_guoq_in) ⭐ 12 | 🐛 1 | 📅 2016-07-23 - 一種老國音的輸入灋方案
 * **11** [ayaka14732/rime-putonghua](https://github.com/ayaka14732/rime-putonghua) ⭐ 11 | 🐛 0 | 🌐 C++ | 📅 2020-09-16 - rime 有声调普通话拼音方案
 * **10** [baopaau/rime-tungdzih](https://github.com/baopaau/rime-tungdzih) ⭐ 10 | 🐛 1 | 🌐 Lua | 📅 2024-11-05 - Rime 趙元任通字羅馬字輸入方案
@@ -105,7 +106,7 @@ rime 輸入方案和配置列表
 * 上古漢語 Old Chinese
   * **20** [Hulenkius/RIME\_OC\_collections](https://github.com/Hulenkius/RIME_OC_collections) ⭐ 20 | 🐛 0 | 📅 2026-09-25 - RIME 上古漢語輸入方案集
 * 中古漢語 Middle Chinese
-  * **52** [ayaka14732/rime-tupa](https://github.com/ayaka14732/rime-tupa) ⭐ 53 | 🐛 1 | 📅 2026-02-12 - rime 切韻拼音輸入方案
+  * **53** [ayaka14732/rime-tupa](https://github.com/ayaka14732/rime-tupa) ⭐ 53 | 🐛 1 | 📅 2026-02-12 - rime 切韻拼音輸入方案
   * **36** [biopolyhedron/rime-middle-chinese](https://github.com/biopolyhedron/rime-middle-chinese) ⭐ 36 | 🐛 2 | 📅 2021-03-26 - 中古漢語（切韻音系）全拼及三拼
   * **6** [nk2028/rime-kyonh](https://github.com/nk2028/rime-kyonh) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2022-04-15 - rime 中古漢語拼音（古韻羅馬字版）方案
   * **3** [rime-aca/rime-nieh-ched](https://github.com/rime-aca/rime-nieh-ched) ⭐ 3 | 🐛 0 | 📅 2019-06-24 - 爾切羅馬字
@@ -137,21 +138,21 @@ rime 輸入方案和配置列表
   * **4** [Hynuza/fengyo](https://github.com/Hynuza/fengyo) ⭐ 4 | 🐛 0 | 📅 2023-10-09 - 晋语汾阳话输入方案
   * **2** [iaoiezaon/rime-jieny](https://github.com/iaoiezaon/rime-jieny) ⭐ 2 | 🐛 0 | 📅 2022-05-09 - 嘉樂泉話
 * 吳語 Wu
-  * **49** [NGLI/rime-wugniu\_gninpou](https://github.com/NGLI/rime-wugniu_gninpou) ⭐ 50 | 🐛 0 | 📅 2026-10-01 - 寧波吳語拼音輸入方案
-  * **45** [NGLI/rime-wugniu\_zaonhe](https://github.com/NGLI/rime-wugniu_zaonhe) ⭐ 45 | 🐛 0 | 📅 2026-06-05 - 上海吳語拼音輸入方案
+  * **50** [NGLI/rime-wugniu\_gninpou](https://github.com/NGLI/rime-wugniu_gninpou) ⭐ 50 | 🐛 0 | 📅 2026-10-01 - 寧波吳語拼音輸入方案
+  * **45** [NGLI/rime-wugniu\_zaonhe](https://github.com/NGLI/rime-wugniu_zaonhe) ⭐ 44 | 🐛 0 | 📅 2026-06-05 - 上海吳語拼音輸入方案
   * **37** [edward-martyr/rime-yahwe\_zaonhe](https://github.com/edward-martyr/rime-yahwe_zaonhe) ⭐ 37 | 🐛 0 | 📅 2023-06-03 - 吳語協會式上海話輸入法
-  * **32** [ZWolken/rime-wenzhounese](https://github.com/ZWolken/rime-wenzhounese) ⭐ 31 | 🐛 1 | 🌐 SCSS | 📅 2023-08-30 - 吳語-溫州話輸入方案
+  * **31** [ZWolken/rime-wenzhounese](https://github.com/ZWolken/rime-wenzhounese) ⭐ 31 | 🐛 1 | 🌐 SCSS | 📅 2023-08-30 - 吳語-溫州話輸入方案
   * **26** [rime/rime-wugniu](https://github.com/rime/rime-wugniu) ⭐ 26 | 🐛 0 | 📅 2026-06-18 - 吳語·上海話
   * **22** [NGLI/rime-wugniu\_soutseu](https://github.com/NGLI/rime-wugniu_soutseu) ⭐ 22 | 🐛 1 | 📅 2026-05-25 - 蘇州吳語拼音輸入方案
-  * **22** [saeziae/rime\_nguphing](https://github.com/saeziae/rime_nguphing) ⭐ 21 | 🐛 2 | 🌐 Python | 📅 2026-01-24 - 標準吳語 Standard Wu (Standard Shanghainese)
+  * **21** [saeziae/rime\_nguphing](https://github.com/saeziae/rime_nguphing) ⭐ 21 | 🐛 2 | 🌐 Python | 📅 2026-01-24 - 標準吳語 Standard Wu (Standard Shanghainese)
   * **16** [shinzoqchiuq/rime-shanghainese](https://github.com/shinzoqchiuq/rime-shanghainese) ⭐ 16 | 🐛 0 | 📅 2025-09-05 - 非吳拼上海話輸入方案
   * **9** [rime/rime-soutzoe](https://github.com/rime/rime-soutzoe) ⭐ 9 | 🐛 0 | 📅 2019-01-20 - 蘇州吳語
-  * **5** [ionkaon/rime-gninpou-variant](https://github.com/ionkaon/rime-gninpou-variant) ⭐ 6 | 🐛 0 | 📅 2026-09-16 - 寧波話輸入方案（變體方案）
+  * **6** [ionkaon/rime-gninpou-variant](https://github.com/ionkaon/rime-gninpou-variant) ⭐ 6 | 🐛 0 | 📅 2026-09-16 - 寧波話輸入方案（變體方案）
+  * **2** [NGLI/rime-wugniu\_kashin](https://github.com/NGLI/rime-wugniu_kashin) ⭐ 2 | 🐛 0 | 📅 2026-05-25 - 嘉興（五縣兩區）吳語拼音輸入方案
   * **2** [ionkaon/rime-gninpou-saonphin](https://github.com/ionkaon/rime-gninpou-saonphin) ⭐ 2 | 🐛 0 | 📅 2026-09-16 - 寧波話雙拼輸入方案
   * **2** [ionkaon/rime-old-nyingpo](https://github.com/ionkaon/rime-old-nyingpo) ⭐ 2 | 🐛 0 | 📅 2026-03-22 - 清末寧波話輸入方案
   * **2** [lotem/rime-aoyu](https://github.com/lotem/rime-aoyu) ⭐ 2 | 🐛 0 | 📅 2018-04-15 - 樂清話拼音輸入法
   * **2** [pearapple123/rime-iuciou](https://github.com/pearapple123/rime-iuciou) ⭐ 2 | 🐛 0 | 📅 2021-05-08 - 用「滬語」拼音的溫州話方案 A RIME IME for Wenzhounese
-  * **1** [NGLI/rime-wugniu\_kashin](https://github.com/NGLI/rime-wugniu_kashin) ⭐ 2 | 🐛 0 | 📅 2026-05-25 - 嘉興（五縣兩區）吳語拼音輸入方案
 * 徽語 Hui
 * 贛語 Gan
   * **4** [Doohaey/GonnyuGeneralIME-Rime-Fenni](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Fenni) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-09-28 - 分宜话 Gan Fenni (Fenyi) Rime input method
@@ -174,7 +175,7 @@ rime 輸入方案和配置列表
   * **3** [hokkien-writing/rime-hokkien](https://github.com/hokkien-writing/rime-hokkien) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-05-04 - 福建話拍字方案，包含漢字、白話字、台羅佮閩拼（Hokkien Input Schema for Rime, including Chinese character, POJ, TL and BP）
   * **0** [i3thuan5/rime-taigi](https://github.com/i3thuan5/rime-taigi) - Rime台語輸入法詞表 (Taiwanese Input Schema for Rime)
 * 閩東語 Eastern Min
-  * **35** [only3km/ciklinbekin](https://github.com/only3km/ciklinbekin) ⭐ 36 | 🐛 9 | 🌐 Python | 📅 2025-03-29 - 平話字表 (閩東語‣福州話)
+  * **36** [only3km/ciklinbekin](https://github.com/only3km/ciklinbekin) ⭐ 36 | 🐛 9 | 🌐 Python | 📅 2025-03-29 - 平話字表 (閩東語‣福州話)
   * **8** [DDFShanyu/Huk-ciu-ua-Lo-ma-ci](https://github.com/DDFShanyu/Huk-ciu-ua-Lo-ma-ci) ⭐ 8 | 🐛 0 | 📅 2025-02-22 - 福州話羅馬字
 * 閩中語 Central Min
 * 莆仙語 Pu-Xian Min
@@ -184,7 +185,7 @@ rime 輸入方案和配置列表
   * **2** [huangjunxin/Rime-Hakka-TaibuShang](https://github.com/huangjunxin/Rime-Hakka-TaibuShang) ⭐ 2 | 🐛 0 | 📅 2020-07-13 - Rime Hakka (Taibu) Input Schema 大埔客家語拼音輸入方案
   * **0** [i3thuan5/rime-hakka](https://github.com/i3thuan5/rime-hakka) - 客家輸入法詞表
 * 粵語 Yue (Cantonese)
-  * **681** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) ⭐ 683 | 🐛 13 | 🌐 Python | 📅 2026-08-13 - Rime Cantonese input schema | 粵語拼音輸入方案
+  * **683** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) ⭐ 683 | 🐛 13 | 🌐 Python | 📅 2026-08-13 - Rime Cantonese input schema | 粵語拼音輸入方案
   * **28** [CanCLID/rime-cantonese-schemes](https://github.com/CanCLID/rime-cantonese-schemes) ⭐ 28 | 🐛 0 | 📅 2025-09-29 - 中州韻粵語拼音輸入法分歧拼音系統補丁 | For users of alternative Cantonese romanisation schemes
   * **16** [MrCorn0-0/jyutsp](https://github.com/MrCorn0-0/jyutsp) ⭐ 16 | 🐛 0 | 📅 2021-05-05 - 基於rime的粵語雙拼方案
   * **11** [rime-double-jyutping-extra](https://github.com/gkovacs/rime-double-jyutping-extra) ⭐ 11 | 🐛 0 | 📅 2021-07-25 - 粤语双拼输入法 Input method for typing Chinese using Cantonese pronunciations with 2-3 keys per character, based on RIME
@@ -241,11 +242,11 @@ rime 輸入方案和配置列表
 * **7** [biopolyhedron/rime-uyghur](https://github.com/biopolyhedron/rime-uyghur) ⭐ 7 | 🐛 0 | 📅 2016-11-27 - Rime 維吾爾語
 * **7** [tyotakuki/ejemedosirearga](https://github.com/tyotakuki/ejemedosirearga) ⭐ 7 | 🐛 0 | 🌐 Mathematica | 📅 2023-06-09 - 满文字头输入法 a syllable-based input system for the Manju Hergen
 * **6** [biopolyhedron/rime-siddham](https://github.com/biopolyhedron/rime-siddham) ⭐ 6 | 🐛 0 | 📅 2018-08-10 - Siddham for Sanskrit, Unicode 8.0 rather than using Devanagari block
+* **5** [arpcn/rime-tibetan](https://github.com/arpcn/rime-tibetan) ⭐ 5 | 🐛 0 | 📅 2024-03-06 - rime-tibetan 藏文 Wylie 轉寫
 * **5** [biopolyhedron/rime-manju-alikali](https://github.com/biopolyhedron/rime-manju-alikali) ⭐ 5 | 🐛 0 | 📅 2024-02-25 - 滿文阿禮嘎禮，以藏文轉寫輸入
 * **5** [hienning/ime-sawrauz](https://github.com/hienning/ime-sawrauz) ⭐ 5 | 🐛 0 | 📅 2013-12-23 - 旧壮文输入法码表，适用于小狼毫输入法平台。
 * **5** [mkpoli/SIPA4RIME](https://github.com/mkpoli/SIPA4RIME) ⭐ 5 | 🐛 0 | 📅 2022-08-27 - 根據發音部位、發音方法等語義輸入IPA的方案 / Semantic IPA
 * **5** [mkpoli/rime-toki-pona-munjan](https://github.com/mkpoli/rime-toki-pona-munjan) ⭐ 5 | 🐛 0 | 📅 2023-09-25 - A Rime Schema for toki pona (言善) in sitelen munjan (書文言). Classical-Chinese style Toki Pona.
-* **4** [arpcn/rime-tibetan](https://github.com/arpcn/rime-tibetan) ⭐ 5 | 🐛 0 | 📅 2024-03-06 - rime-tibetan 藏文 Wylie 轉寫
 * **4** [biopolyhedron/rime-kyril-international](https://github.com/biopolyhedron/rime-kyril-international) ⭐ 4 | 🐛 0 | 📅 2020-05-09 - Rime 基利爾字母混合輸入
 * **4** [biopolyhedron/rime-tangut-poly4](https://github.com/biopolyhedron/rime-tangut-poly4) ⭐ 4 | 🐛 0 | 📅 2024-04-17 - Rime 西夏文【Poly四角】
 * **4** [lingrottin/tienyu\_rus](https://github.com/lingrottin/tienyu_rus) ⭐ 4 | 🐛 0 | 📅 2021-06-26 - Tienyu's Russian input schema for Rime with windows-like multi-alphabet-to-one support
@@ -276,22 +277,22 @@ rime 輸入方案和配置列表
 
 ## 配置
 
-* **19556** [iDvel/rime-ice](https://github.com/iDvel/rime-ice) ⭐ 19,638 | 🐛 5 | 🌐 Lua | 📅 2026-10-05 - Rime 配置：雾凇拼音 | 长期维护的简体词库
-* **3689** [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) ⭐ 3,705 | 🐛 15 | 🌐 Lua | 📅 2026-10-05 - 白霜拼音，使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。
-* **3535** [maomiui/rime](https://github.com/maomiui/rime) ⭐ 3,534 | 🐛 46 | 🌐 Lua | 📅 2026-03-22 - Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置
-* **1062** [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) ⭐ 1,063 | 🐛 15 | 🌐 Lua | 📅 2026-09-22 - 墨奇音形，支持自然码、小鹤、搜狗、微软双拼,是一个基于字形描述信息、递归拆分，最后取首末双形音托的码表开源的方案，墨奇码的拆分码表已开源，目前已经拆分完成全部的通用规范汉字、常用繁体字，总计支持4万字。
-* **338** [ksqsf/rime-moran](https://github.com/ksqsf/rime-moran) ⭐ 339 | 🐛 0 | 🌐 Lua | 📅 2026-09-30 - 自然码及整句辅助方案
+* **19641** [iDvel/rime-ice](https://github.com/iDvel/rime-ice) ⭐ 19,647 | 🐛 5 | 🌐 Lua | 📅 2026-10-05 - Rime 配置：雾凇拼音 | 长期维护的简体词库
+* **3705** [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) ⭐ 3,706 | 🐛 15 | 🌐 Lua | 📅 2026-10-07 - 白霜拼音，使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。
+* **3534** [maomiui/rime](https://github.com/maomiui/rime) ⭐ 3,533 | 🐛 46 | 🌐 Lua | 📅 2026-03-22 - Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置
+* **1063** [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) ⭐ 1,063 | 🐛 15 | 🌐 Lua | 📅 2026-09-22 - 墨奇音形，支持自然码、小鹤、搜狗、微软双拼,是一个基于字形描述信息、递归拆分，最后取首末双形音托的码表开源的方案，墨奇码的拆分码表已开源，目前已经拆分完成全部的通用规范汉字、常用繁体字，总计支持4万字。
+* **339** [ksqsf/rime-moran](https://github.com/ksqsf/rime-moran) ⭐ 339 | 🐛 0 | 🌐 Lua | 📅 2026-10-07 - 自然码及整句辅助方案
 
 ## 其他
 
-* **367** [rime/rime-emoji](https://github.com/rime/rime-emoji) ⭐ 369 | 🐛 4 | 🌐 Python | 📅 2026-03-25 - Emoji / 繪文字輸入方案
-* **325** [gaboolic/moqi-im-windows](https://github.com/gaboolic/moqi-im-windows) ⭐ 354 | 🐛 32 | 🌐 C++ | 📅 2026-08-18 - 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。
+* **369** [rime/rime-emoji](https://github.com/rime/rime-emoji) ⭐ 369 | 🐛 4 | 🌐 Python | 📅 2026-03-25 - Emoji / 繪文字輸入方案
+* **354** [gaboolic/moqi-im-windows](https://github.com/gaboolic/moqi-im-windows) ⭐ 357 | 🐛 32 | 🌐 C++ | 📅 2026-08-18 - 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。
 * **99** [shenlebantongying/rime\_latex](https://github.com/shenlebantongying/rime_latex) ⭐ 99 | 🐛 5 | 🌐 Python | 📅 2025-04-03 - LaTeX Symbols (Complete) | 所有 LaTeX 符號的輸入方案
 * **67** [rtransformation/rime-opencc\_emoji\_symbols](https://github.com/rtransformation/rime-opencc_emoji_symbols) ⭐ 67 | 🐛 0 | 📅 2026-07-17 - 利用OpenCC做的Emoji和特殊符号滤镜，供Rime输入法使用者使用
 * **43** [hitigon/meow-emoji-rime](https://github.com/hitigon/meow-emoji-rime) ⭐ 43 | 🐛 3 | 📅 2013-10-20 - Mewo-emoji for Rime 中州韻之貓顏文字
 * **22** [cgcel/rime\_to\_gboard](https://github.com/cgcel/rime_to_gboard) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2025-07-04 - 将 Rime userdb.txt 转换为 Gboard PersonalDictionary.zip 格式, 便于将词库导入 Gboard
 * **14** [puddinging/rime-cli](https://github.com/puddinging/rime-cli) ⭐ 14 | 🐛 0 | 🌐 Go | 📅 2023-09-03 - 关于小狼毫输入法的一个小工具
-* **10** [CauT/GuruIM](https://github.com/CauT/GuruIM) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2026-03-28 - GuruIM (咕噜输入法) iOS RIME 客户端，集成 AI 驱动的个人数据洞察与智能调频，内置雾凇拼音
+* **11** [CauT/GuruIM](https://github.com/CauT/GuruIM) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2026-03-28 - GuruIM (咕噜输入法) iOS RIME 客户端，集成 AI 驱动的个人数据洞察与智能调频，内置雾凇拼音
 * **7** [Godalin/rime-agda-input](https://github.com/Godalin/rime-agda-input) ⭐ 7 | 🐛 0 | 🌐 Emacs Lisp | 📅 2025-10-15 - Rime Agda Input | `agda-input.el` 符號輸入，更短的數學符號方案。提供了與 `rime-latex` 兼容的配置案例
 * **6** [amorphobia/xmoji](https://github.com/amorphobia/xmoji) ⭐ 6 | 🐛 0 | 📅 2021-02-24 - 可挂载于小鹤音形之下的 Emoji 输入方案
 * **6** [sgalal/rime-opencc-latest](https://github.com/sgalal/rime-opencc-latest) ⭐ 6 | 🐛 2 | 📅 2020-10-28 - Customize rime input schemata to use the latest OpenCC dictionaries
@@ -301,4 +302,4 @@ rime 輸入方案和配置列表
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
