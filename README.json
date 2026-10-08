@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-04T22:37:06Z",
+            "last_commit": "2026-10-07T23:56:10Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -740,27 +740,6 @@
         },
         {
           "node_type": "item",
-          "title": "13 liming2013/rime-flypy-xhup",
-          "description": "rime平台下的小鹤双拼（加形）配置方案",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "rime平台下的小鹤双拼（加形）配置方案",
-            "homepage": "https://github.com/liming2013/rime-flypy-xhup",
-            "id": 74007095,
-            "language": null,
-            "license": null,
-            "last_commit": "2016-12-02T11:19:16Z",
-            "open_issues": 2,
-            "owner": "liming2013",
-            "repo": "rime-flypy-xhup",
-            "stars": 13,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:54.998Z"
-        },
-        {
-          "node_type": "item",
           "title": "13 ywxt/rime-sunman",
           "description": "山人全息码",
           "children": [],
@@ -776,6 +755,27 @@
             "owner": "ywxt",
             "repo": "rime-sunman",
             "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:54.998Z"
+        },
+        {
+          "node_type": "item",
+          "title": "13 liming2013/rime-flypy-xhup",
+          "description": "rime平台下的小鹤双拼（加形）配置方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "rime平台下的小鹤双拼（加形）配置方案",
+            "homepage": "https://github.com/liming2013/rime-flypy-xhup",
+            "id": 74007095,
+            "language": null,
+            "license": null,
+            "last_commit": "2016-12-02T11:19:16Z",
+            "open_issues": 2,
+            "owner": "liming2013",
+            "repo": "rime-flypy-xhup",
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -1414,7 +1414,7 @@
             "language": null,
             "license": "LGPL-3.0",
             "last_commit": "2026-07-12T05:01:55Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "rime",
             "repo": "rime-luna-pinyin",
             "stars": 284,
@@ -2326,7 +2326,7 @@
                     "id": 169585833,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-11T19:16:12Z",
+                    "last_commit": "2026-10-08T01:06:23Z",
                     "open_issues": 0,
                     "owner": "uliloewi",
                     "repo": "lang2jin1",
@@ -4051,7 +4051,7 @@
             "open_issues": 3,
             "owner": "BlindingDark",
             "repo": "rime-easy-en",
-            "stars": 398,
+            "stars": 399,
             "topics": [
               "rime"
             ]
@@ -5431,7 +5431,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19647,
+            "stars": 19663,
             "topics": [
               "rime",
               "rime-config",
@@ -5455,11 +5455,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T09:53:08Z",
+            "last_commit": "2026-10-08T04:10:26Z",
             "open_issues": 15,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3706,
+            "stars": 3711,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5522,7 +5522,7 @@
             "open_issues": 0,
             "owner": "rimeinn",
             "repo": "rime-moran",
-            "stars": 339,
+            "stars": 340,
             "topics": [
               "chinese",
               "double-pinyin",
@@ -5553,7 +5553,7 @@
             "id": 74141371,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-03-25T00:16:26Z",
+            "last_commit": "2026-10-07T17:59:27Z",
             "open_issues": 4,
             "owner": "rime",
             "repo": "rime-emoji",
@@ -5575,10 +5575,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-18T01:38:31Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 357,
+            "stars": 361,
             "topics": [
               "input-method",
               "input-methods"
@@ -5717,7 +5717,7 @@
             "open_issues": 0,
             "owner": "CauT",
             "repo": "GuruIM",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "ai",
               "input-method",
@@ -5882,7 +5882,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T16:19:24.786Z",
+    "last_updated": "2026-10-08T16:21:43.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
