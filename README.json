@@ -16,7 +16,7 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T08:33:03Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
             "stars": 1676,
@@ -51,7 +51,7 @@
             "open_issues": 5,
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1136,
+            "stars": 1137,
             "topics": [
               "config",
               "configs",
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T23:56:10Z",
+            "last_commit": "2026-10-09T00:03:02Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -571,6 +571,27 @@
         },
         {
           "node_type": "item",
+          "title": "16 rime/rime-quick",
+          "description": "【速成】輸入方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "【速成】輸入方案",
+            "homepage": null,
+            "id": 74138685,
+            "language": null,
+            "license": "LGPL-3.0",
+            "last_commit": "2026-07-17T03:53:23Z",
+            "open_issues": 2,
+            "owner": "rime",
+            "repo": "rime-quick",
+            "stars": 17,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:54.998Z"
+        },
+        {
+          "node_type": "item",
           "title": "16 CanCLID/rime-loengfan",
           "description": "Loengfan (粵語兩分) is the Cantonese version of the Liang Fen input method",
           "children": [],
@@ -606,27 +627,6 @@
             "open_issues": 0,
             "owner": "IT1187541749",
             "repo": "Rime-data",
-            "stars": 16,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:54.998Z"
-        },
-        {
-          "node_type": "item",
-          "title": "16 rime/rime-quick",
-          "description": "【速成】輸入方案",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "【速成】輸入方案",
-            "homepage": null,
-            "id": 74138685,
-            "language": null,
-            "license": "LGPL-3.0",
-            "last_commit": "2026-07-17T03:53:23Z",
-            "open_issues": 2,
-            "owner": "rime",
-            "repo": "rime-quick",
             "stars": 16,
             "topics": []
           },
@@ -1383,7 +1383,7 @@
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
-            "stars": 334,
+            "stars": 335,
             "topics": [
               "bopomofo",
               "hangeul",
@@ -1414,7 +1414,7 @@
             "language": null,
             "license": "LGPL-3.0",
             "last_commit": "2026-07-12T05:01:55Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "rime",
             "repo": "rime-luna-pinyin",
             "stars": 284,
@@ -1698,6 +1698,33 @@
         },
         {
           "node_type": "item",
+          "title": "10 waveform/ziguang_shuangpin",
+          "description": "紫光双拼",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "紫光双拼方案 rime输入法配置文件",
+            "homepage": null,
+            "id": 189781543,
+            "language": null,
+            "license": null,
+            "last_commit": "2022-08-18T15:30:46Z",
+            "open_issues": 0,
+            "owner": "waveform",
+            "repo": "ziguang_shuangpin",
+            "stars": 11,
+            "topics": [
+              "double-pinyin",
+              "rime-schema",
+              "shuangpin",
+              "unispim",
+              "ziguang"
+            ]
+          },
+          "first_seen": "2026-08-28T20:48:54.998Z"
+        },
+        {
+          "node_type": "item",
           "title": "10 baopaau/rime-tungdzih",
           "description": "Rime 趙元任通字羅馬字輸入方案",
           "children": [],
@@ -1714,33 +1741,6 @@
             "repo": "rime-tungdzih",
             "stars": 10,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:54.998Z"
-        },
-        {
-          "node_type": "item",
-          "title": "10 waveform/ziguang_shuangpin",
-          "description": "紫光双拼",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "紫光双拼方案 rime输入法配置文件",
-            "homepage": null,
-            "id": 189781543,
-            "language": null,
-            "license": null,
-            "last_commit": "2022-08-18T15:30:46Z",
-            "open_issues": 0,
-            "owner": "waveform",
-            "repo": "ziguang_shuangpin",
-            "stars": 10,
-            "topics": [
-              "double-pinyin",
-              "rime-schema",
-              "shuangpin",
-              "unispim",
-              "ziguang"
-            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -2428,7 +2428,7 @@
                     "open_issues": 3,
                     "owner": "Papnas",
                     "repo": "shupin",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
@@ -3013,7 +3013,7 @@
                 "id": 1352337080,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T14:11:26Z",
+                "last_commit": "2026-10-08T18:21:39Z",
                 "open_issues": 0,
                 "owner": "Doohaey",
                 "repo": "GonnyuGeneralIME-Rime-Fenni",
@@ -3043,11 +3043,11 @@
                 "id": 1352334703,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T14:11:20Z",
+                "last_commit": "2026-10-08T18:21:31Z",
                 "open_issues": 0,
                 "owner": "Doohaey",
                 "repo": "GonnyuGeneralIME-Rime-Lancong",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "chinese",
                   "dialect",
@@ -3071,7 +3071,7 @@
                 "id": 1379184278,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T14:11:30Z",
+                "last_commit": "2026-10-08T18:21:44Z",
                 "open_issues": 0,
                 "owner": "Doohaey",
                 "repo": "GonnyuGeneralIME-Rime-Fungcen",
@@ -3079,6 +3079,48 @@
                 "topics": []
               },
               "first_seen": "2026-09-21T15:51:15.758Z"
+            },
+            {
+              "node_type": "item",
+              "title": "1 Doohaey/GonnyuGeneralIME-Rime-Yikyan-Henfeng",
+              "description": "弋阳－横峰话 Gan Yikyan-Henfeng (Yiyang–Hengfeng) Rime input method",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Rime schema and dictionary for Yikyan-Henfeng (Yiyang-Hengfeng) Gon(Gan) Chinese",
+                "homepage": null,
+                "id": 1410734205,
+                "language": "Lua",
+                "license": null,
+                "last_commit": "2026-10-08T17:43:34Z",
+                "open_issues": 0,
+                "owner": "Doohaey",
+                "repo": "GonnyuGeneralIME-Rime-Yikyan-Henfeng",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-09T16:04:56.216Z"
+            },
+            {
+              "node_type": "item",
+              "title": "1 Doohaey/GonnyuGeneralIME-Rime-Sinyi",
+              "description": "新余话 Gan Sinyi (Xinyu) Rime input method",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Rime schema and dictionary for Sinyi (Xinyu City) Gon(Gan) Chinese",
+                "homepage": null,
+                "id": 1410735095,
+                "language": "Lua",
+                "license": null,
+                "last_commit": "2026-10-08T17:43:40Z",
+                "open_issues": 0,
+                "owner": "Doohaey",
+                "repo": "GonnyuGeneralIME-Rime-Sinyi",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-09T16:04:56.216Z"
             }
           ]
         },
@@ -4024,7 +4066,7 @@
             "open_issues": 9,
             "owner": "gkovacs",
             "repo": "rime-japanese",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "input-method",
               "japanese",
@@ -4610,7 +4652,7 @@
             "open_issues": 0,
             "owner": "pearapple123",
             "repo": "rime-chunom",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5431,7 +5473,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19663,
+            "stars": 19682,
             "topics": [
               "rime",
               "rime-config",
@@ -5455,11 +5497,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T04:10:26Z",
+            "last_commit": "2026-10-09T04:07:36Z",
             "open_issues": 15,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3711,
+            "stars": 3714,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5480,7 +5522,7 @@
             "open_issues": 46,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3533,
+            "stars": 3532,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5501,7 +5543,7 @@
             "open_issues": 15,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1063,
+            "stars": 1065,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5519,10 +5561,10 @@
             "language": "Lua",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T09:44:47Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "rimeinn",
             "repo": "rime-moran",
-            "stars": 340,
+            "stars": 341,
             "topics": [
               "chinese",
               "double-pinyin",
@@ -5575,10 +5617,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-18T01:38:31Z",
-            "open_issues": 33,
+            "open_issues": 35,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 361,
+            "stars": 365,
             "topics": [
               "input-method",
               "input-methods"
@@ -5882,7 +5924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T16:21:43.989Z",
+    "last_updated": "2026-10-09T16:04:56.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -5890,11 +5932,11 @@
       "id": 214790541,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-07T10:38:22Z",
-      "open_issues": 8,
+      "last_commit": "2026-10-09T05:07:38Z",
+      "open_issues": 7,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1502,
+      "stars": 1504,
       "topics": [
         "awesome",
         "awesome-list",
@@ -5902,7 +5944,7 @@
         "rime-schema"
       ]
     },
-    "original_repository_sha": "1a090d34cf34a88b424aa2562e7b13405fe24cc0",
+    "original_repository_sha": "65c751389fd92a61bdeb13809437ba73e3a79ecf",
     "enhanced_repository": "enhansome/enhansome-rime",
     "enhanced_repository_description": null,
     "title": "awesome-rime with stars"
