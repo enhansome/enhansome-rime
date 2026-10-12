@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1679,
+            "stars": 1683,
             "topics": [
               "android",
               "ggtt",
@@ -51,7 +51,7 @@
             "open_issues": 5,
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1138,
+            "stars": 1137,
             "topics": [
               "config",
               "configs",
@@ -109,7 +109,7 @@
             "open_issues": 5,
             "owner": "brglng",
             "repo": "rime-xhup",
-            "stars": 282,
+            "stars": 281,
             "topics": [
               "flypy",
               "rime",
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T00:03:02Z",
+            "last_commit": "2026-10-12T18:00:24Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -1501,7 +1501,7 @@
             "open_issues": 8,
             "owner": "imper0502",
             "repo": "rime-double-bopomo",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "bopomofo",
               "cin",
@@ -1902,6 +1902,42 @@
         },
         {
           "node_type": "item",
+          "title": "0 Ivan666jjj/rime-xiaozhuan",
+          "description": "小篆輸入方案：拼音輸入，候選窗以篆形顯示（附篆書字體說明；另有 macOS 原生輸入法版）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "小篆输入方案 for Rime（小狼毫 / 同文）—— 拼音输入，候选窗以篆形显示",
+            "homepage": "https://github.com/Ivan666jjj/xiaozhuan-ime",
+            "id": 1414291405,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-12T15:15:47Z",
+            "open_issues": 0,
+            "owner": "Ivan666jjj",
+            "repo": "rime-xiaozhuan",
+            "stars": 2,
+            "topics": [
+              "ancient-chinese",
+              "chinese",
+              "chinese-calligraphy",
+              "chinese-characters",
+              "cjk",
+              "input-method",
+              "rime",
+              "rime-schema",
+              "seal-script",
+              "shuowen",
+              "shuowen-jiezi",
+              "small-seal-script",
+              "trime",
+              "weasel"
+            ]
+          },
+          "first_seen": "2026-10-11T15:33:21.428Z"
+        },
+        {
+          "node_type": "item",
           "title": "1 baopaau/rime-yale-mandarin",
           "description": "國語耶魯拼音／Yale romanization of Mandarin",
           "children": [],
@@ -1986,36 +2022,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
-        },
-        {
-          "node_type": "item",
-          "title": "0 Ivan666jjj/rime-xiaozhuan",
-          "description": "小篆輸入方案：拼音輸入，候選窗以篆形顯示（附篆書字體說明；另有 macOS 原生輸入法版）",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "小篆输入方案 for Rime（小狼毫 / 同文）—— 拼音输入，候选窗以篆形显示",
-            "homepage": "https://github.com/Ivan666jjj/xiaozhuan-ime",
-            "id": 1414291405,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-11T12:00:24Z",
-            "open_issues": 0,
-            "owner": "Ivan666jjj",
-            "repo": "rime-xiaozhuan",
-            "stars": 0,
-            "topics": [
-              "ancient-chinese",
-              "chinese",
-              "cjk",
-              "input-method",
-              "rime",
-              "seal-script",
-              "shuowen",
-              "small-seal-script"
-            ]
-          },
-          "first_seen": "2026-10-11T15:33:21.428Z"
         }
       ],
       "title": "音碼"
@@ -2290,7 +2296,7 @@
                     "open_issues": 1,
                     "owner": "lotem",
                     "repo": "rime-zhung",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
@@ -2311,7 +2317,7 @@
                     "open_issues": 0,
                     "owner": "Patricivs",
                     "repo": "lakyang",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
@@ -2356,11 +2362,11 @@
                     "id": 169585833,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-10-08T01:06:23Z",
+                    "last_commit": "2026-10-11T17:39:03Z",
                     "open_issues": 0,
                     "owner": "uliloewi",
                     "repo": "lang2jin1",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
@@ -2648,7 +2654,7 @@
                 "open_issues": 0,
                 "owner": "NGLI",
                 "repo": "rime-wugniu_zaonhe",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "chinese",
                   "chinese-dialects",
@@ -3175,7 +3181,7 @@
                 "open_issues": 0,
                 "owner": "AlfredLouis00",
                 "repo": "rime-Sautungva",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "rime",
                   "rime-schema",
@@ -3603,7 +3609,7 @@
                 "open_issues": 13,
                 "owner": "rime",
                 "repo": "rime-cantonese",
-                "stars": 683,
+                "stars": 684,
                 "topics": [
                   "cantonese",
                   "cantonese-dictionary",
@@ -4146,7 +4152,7 @@
             "open_issues": 1,
             "owner": "tumuyan",
             "repo": "rime-pinyin-jap",
-            "stars": 211,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -4167,7 +4173,7 @@
             "open_issues": 6,
             "owner": "rime",
             "repo": "rime-ipa",
-            "stars": 75,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5503,7 +5509,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19719,
+            "stars": 19732,
             "topics": [
               "rime",
               "rime-config",
@@ -5527,11 +5533,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-10T04:08:51Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-12T04:14:18Z",
+            "open_issues": 17,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3724,
+            "stars": 3726,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5552,7 +5558,7 @@
             "open_issues": 46,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3531,
+            "stars": 3532,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5615,6 +5621,30 @@
       "items": [
         {
           "node_type": "item",
+          "title": "354 gaboolic/moqi-im-windows",
+          "description": "墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": " 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。群：696353204",
+            "homepage": null,
+            "id": 1197939186,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-08-18T01:38:31Z",
+            "open_issues": 36,
+            "owner": "gaboolic",
+            "repo": "moqi-im-windows",
+            "stars": 372,
+            "topics": [
+              "input-method",
+              "input-methods"
+            ]
+          },
+          "first_seen": "2026-08-28T20:48:54.998Z"
+        },
+        {
+          "node_type": "item",
           "title": "369 rime/rime-emoji",
           "description": "Emoji / 繪文字輸入方案",
           "children": [],
@@ -5631,30 +5661,6 @@
             "repo": "rime-emoji",
             "stars": 369,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:54.998Z"
-        },
-        {
-          "node_type": "item",
-          "title": "354 gaboolic/moqi-im-windows",
-          "description": "墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": " 墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。群：696353204",
-            "homepage": null,
-            "id": 1197939186,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2026-08-18T01:38:31Z",
-            "open_issues": 36,
-            "owner": "gaboolic",
-            "repo": "moqi-im-windows",
-            "stars": 366,
-            "topics": [
-              "input-method",
-              "input-methods"
-            ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
@@ -5954,7 +5960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T15:33:21.428Z",
+    "last_updated": "2026-10-12T18:53:56.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
