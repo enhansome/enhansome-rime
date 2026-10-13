@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1683,
+            "stars": 1686,
             "topics": [
               "android",
               "ggtt",
@@ -51,7 +51,7 @@
             "open_issues": 5,
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1137,
+            "stars": 1138,
             "topics": [
               "config",
               "configs",
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T18:00:24Z",
+            "last_commit": "2026-10-13T01:44:13Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -1379,7 +1379,7 @@
             "id": 292112591,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-10-06T18:41:26Z",
+            "last_commit": "2026-10-13T12:05:47Z",
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
@@ -1582,7 +1582,7 @@
             "open_issues": 1,
             "owner": "rime",
             "repo": "rime-combo-pinyin",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -2654,7 +2654,7 @@
                 "open_issues": 0,
                 "owner": "NGLI",
                 "repo": "rime-wugniu_zaonhe",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "chinese",
                   "chinese-dialects",
@@ -5509,7 +5509,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19732,
+            "stars": 19745,
             "topics": [
               "rime",
               "rime-config",
@@ -5533,11 +5533,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T04:14:18Z",
+            "last_commit": "2026-10-13T04:08:28Z",
             "open_issues": 17,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3726,
+            "stars": 3730,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5558,7 +5558,7 @@
             "open_issues": 46,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3532,
+            "stars": 3531,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5612,6 +5612,36 @@
             ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
+        },
+        {
+          "node_type": "item",
+          "title": "0 ianTPE/rime-taiwan-pinyin",
+          "description": "用漢語拼音打臺灣正體字與臺灣用語：朙月拼音·臺灣正體＋萌典詞庫，Linux（fcitx5）與 Windows（小狼毫）一鍵安裝",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "用漢語拼音打臺灣正體字與臺灣用語：Rime 設定與詞庫，Linux（fcitx5）與 Windows（小狼毫）共用 / Taiwan-standard Traditional Chinese with Hanyu Pinyin for Rime",
+            "homepage": null,
+            "id": 1416650642,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-13T07:55:21Z",
+            "open_issues": 0,
+            "owner": "ianTPE",
+            "repo": "rime-taiwan-pinyin",
+            "stars": 0,
+            "topics": [
+              "fcitx5",
+              "input-method",
+              "pinyin",
+              "rime",
+              "rime-schema",
+              "taiwan",
+              "traditional-chinese",
+              "weasel"
+            ]
+          },
+          "first_seen": "2026-10-13T16:52:55.949Z"
         }
       ],
       "title": "配置"
@@ -5960,7 +5990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:53:56.148Z",
+    "last_updated": "2026-10-13T16:52:55.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -5968,11 +5998,11 @@
       "id": 214790541,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-11T15:17:53Z",
+      "last_commit": "2026-10-13T08:30:08Z",
       "open_issues": 7,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1507,
+      "stars": 1509,
       "topics": [
         "awesome",
         "awesome-list",
@@ -5980,7 +6010,7 @@
         "rime-schema"
       ]
     },
-    "original_repository_sha": "92a99999069c07eb3b8d0f95dbc2b075dd2e90ee",
+    "original_repository_sha": "bfb7674fcee6786649d1e25e82f249ef3d3999f1",
     "enhanced_repository": "enhansome/enhansome-rime",
     "enhanced_repository_description": null,
     "title": "awesome-rime with stars"
