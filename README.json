@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "1674 KyleBing/rime-wubi86-jidian",
+          "title": "1686 KyleBing/rime-wubi86-jidian",
           "description": "86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法",
           "children": [],
           "repo_info": {
@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1686,
+            "stars": 1687,
             "topics": [
               "android",
               "ggtt",
@@ -37,7 +37,7 @@
         },
         {
           "node_type": "item",
-          "title": "1136 SivanLaai/rime_pure: rime配置",
+          "title": "1138 SivanLaai/rime_pure: rime配置",
           "description": "【rime小狼毫\\trime同文：手机/PC一站式配置】九宫格双拼、四叶草九宫格拼音、四叶草拼音、小鹤双拼、极品五笔、QQ五笔、徐码、郑码",
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "282 brglng/rime-xhup",
+          "title": "281 brglng/rime-xhup",
           "description": "Rime 小鹤双拼音形输入方案",
           "children": [],
           "repo_info": {
@@ -141,7 +141,7 @@
         },
         {
           "node_type": "item",
-          "title": "135 xkinput/Rime_JD",
+          "title": "136 xkinput/Rime_JD",
           "description": "星空键道6｜详尽操作指南：https://pingshunhuangalex.gitbook.io/rime-xkjd",
           "children": [],
           "repo_info": {
@@ -155,7 +155,7 @@
             "open_issues": 1,
             "owner": "xkinput",
             "repo": "KeyTao",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "ime",
               "keytao",
@@ -189,7 +189,7 @@
         },
         {
           "node_type": "item",
-          "title": "66 yanhuacuo/98wubi",
+          "title": "67 yanhuacuo/98wubi",
           "description": "具备码元提示功能的98五笔配置文件",
           "children": [],
           "repo_info": {
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T01:44:13Z",
+            "last_commit": "2026-10-14T05:26:11Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -571,7 +571,7 @@
         },
         {
           "node_type": "item",
-          "title": "16 rime/rime-quick",
+          "title": "17 rime/rime-quick",
           "description": "【速成】輸入方案",
           "children": [],
           "repo_info": {
@@ -761,27 +761,6 @@
         },
         {
           "node_type": "item",
-          "title": "13 liming2013/rime-flypy-xhup",
-          "description": "rime平台下的小鹤双拼（加形）配置方案",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "rime平台下的小鹤双拼（加形）配置方案",
-            "homepage": "https://github.com/liming2013/rime-flypy-xhup",
-            "id": 74007095,
-            "language": null,
-            "license": null,
-            "last_commit": "2016-12-02T11:19:16Z",
-            "open_issues": 2,
-            "owner": "liming2013",
-            "repo": "rime-flypy-xhup",
-            "stars": 12,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:54.998Z"
-        },
-        {
-          "node_type": "item",
           "title": "12 chiahsien/RimeDayi",
           "description": "給中州韻輸入法用的大易字碼表",
           "children": [],
@@ -796,6 +775,27 @@
             "open_issues": 0,
             "owner": "chiahsien",
             "repo": "RimeDayi",
+            "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:54.998Z"
+        },
+        {
+          "node_type": "item",
+          "title": "12 liming2013/rime-flypy-xhup",
+          "description": "rime平台下的小鹤双拼（加形）配置方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "rime平台下的小鹤双拼（加形）配置方案",
+            "homepage": "https://github.com/liming2013/rime-flypy-xhup",
+            "id": 74007095,
+            "language": null,
+            "license": null,
+            "last_commit": "2016-12-02T11:19:16Z",
+            "open_issues": 2,
+            "owner": "liming2013",
+            "repo": "rime-flypy-xhup",
             "stars": 12,
             "topics": []
           },
@@ -1151,7 +1151,28 @@
         },
         {
           "node_type": "item",
-          "title": "17 arliong/rime-cixin-quick",
+          "title": "1 Reniastyc/RIME_array30_ex",
+          "description": "用於RIME的修改版行列30輸入方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "經過鄙人修改的用於RIME的行列30輸入方案",
+            "homepage": null,
+            "id": 208627478,
+            "language": null,
+            "license": null,
+            "last_commit": "2021-02-03T02:13:09Z",
+            "open_issues": 0,
+            "owner": "Reniastyc",
+            "repo": "RIME_array30_ex",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:54.998Z"
+        },
+        {
+          "node_type": "item",
+          "title": "1 arliong/rime-cixin-quick",
           "description": "慈心速成：基於 rime-ms-quick 增強的微軟傳統排位速成，還原 XP 式盲接詞組聯想（Shift+1..9），附候選欄可見聯想與拼音/筆畫反查（候選自動註速成碼），63,000 詞組",
           "children": [],
           "repo_info": {
@@ -1171,27 +1192,6 @@
             ]
           },
           "first_seen": "2026-10-07T16:19:24.786Z"
-        },
-        {
-          "node_type": "item",
-          "title": "1 Reniastyc/RIME_array30_ex",
-          "description": "用於RIME的修改版行列30輸入方案",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "經過鄙人修改的用於RIME的行列30輸入方案",
-            "homepage": null,
-            "id": 208627478,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-02-03T02:13:09Z",
-            "open_issues": 0,
-            "owner": "Reniastyc",
-            "repo": "RIME_array30_ex",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:54.998Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1348,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "477 rime/rime-double-pinyin",
+          "title": "476 rime/rime-double-pinyin",
           "description": "雙拼輸入方案",
           "children": [],
           "repo_info": {
@@ -1369,7 +1369,7 @@
         },
         {
           "node_type": "item",
-          "title": "334 oniondelta/Onion_Rime_Files",
+          "title": "335 oniondelta/Onion_Rime_Files",
           "description": "Rime 注音&拼音 \"洋蔥\" 方案（四個注音、一個拼音、兩個形碼）",
           "children": [],
           "repo_info": {
@@ -1379,7 +1379,7 @@
             "id": 292112591,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-10-13T12:05:47Z",
+            "last_commit": "2026-10-14T12:41:14Z",
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
@@ -1403,7 +1403,7 @@
         },
         {
           "node_type": "item",
-          "title": "284 rime/rime-luna-pinyin",
+          "title": "286 rime/rime-luna-pinyin",
           "description": "【朙月拼音】輸入方案",
           "children": [],
           "repo_info": {
@@ -1417,14 +1417,14 @@
             "open_issues": 20,
             "owner": "rime",
             "repo": "rime-luna-pinyin",
-            "stars": 285,
+            "stars": 286,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
         {
           "node_type": "item",
-          "title": "233 xiaoTaoist/rime-dict",
+          "title": "232 xiaoTaoist/rime-dict",
           "description": "RIME输入法 增强词库 适用于明月拼音和双拼",
           "children": [],
           "repo_info": {
@@ -1459,7 +1459,7 @@
             "open_issues": 4,
             "owner": "rime",
             "repo": "rime-pinyin-simp",
-            "stars": 182,
+            "stars": 183,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -1487,7 +1487,7 @@
         },
         {
           "node_type": "item",
-          "title": "100 imper0502/rime-double-bopomo",
+          "title": "101 imper0502/rime-double-bopomo",
           "description": "Double bopomo(zhù-yīn), A Chinese Input Method for Taiwanese, zhù-yīn users.雙碼注音，給注音使用者的雙拼輸入法。不需要額外學習漢語拼音。",
           "children": [],
           "repo_info": {
@@ -1568,7 +1568,7 @@
         },
         {
           "node_type": "item",
-          "title": "59 rime/rime-combo-pinyin",
+          "title": "60 rime/rime-combo-pinyin",
           "description": "【宮保拼音】輸入方案",
           "children": [],
           "repo_info": {
@@ -1698,7 +1698,7 @@
         },
         {
           "node_type": "item",
-          "title": "10 waveform/ziguang_shuangpin",
+          "title": "11 waveform/ziguang_shuangpin",
           "description": "紫光双拼",
           "children": [],
           "repo_info": {
@@ -1881,28 +1881,7 @@
         },
         {
           "node_type": "item",
-          "title": "2 tsauibusato/xintalng_pinyin",
-          "description": "這是關於漢語拼音和國語羅馬字結合體的一種RIME方案，整理自1985年《新唐》雜誌，需配合terra_pinyin.dict使用",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "這是關於漢語拼音和國語羅馬字結合體的一種RIME方案，整理自1985年《新唐》雜誌，需配合terra_pinyin.dict使用",
-            "homepage": null,
-            "id": 74422168,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2016-11-22T01:35:47Z",
-            "open_issues": 0,
-            "owner": "tsauibusato",
-            "repo": "xintalng_pinyin",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:54.998Z"
-        },
-        {
-          "node_type": "item",
-          "title": "0 Ivan666jjj/rime-xiaozhuan",
+          "title": "2 Ivan666jjj/rime-xiaozhuan",
           "description": "小篆輸入方案：拼音輸入，候選窗以篆形顯示（附篆書字體說明；另有 macOS 原生輸入法版）",
           "children": [],
           "repo_info": {
@@ -1935,6 +1914,27 @@
             ]
           },
           "first_seen": "2026-10-11T15:33:21.428Z"
+        },
+        {
+          "node_type": "item",
+          "title": "2 tsauibusato/xintalng_pinyin",
+          "description": "這是關於漢語拼音和國語羅馬字結合體的一種RIME方案，整理自1985年《新唐》雜誌，需配合terra_pinyin.dict使用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "這是關於漢語拼音和國語羅馬字結合體的一種RIME方案，整理自1985年《新唐》雜誌，需配合terra_pinyin.dict使用",
+            "homepage": null,
+            "id": 74422168,
+            "language": null,
+            "license": "Apache-2.0",
+            "last_commit": "2016-11-22T01:35:47Z",
+            "open_issues": 0,
+            "owner": "tsauibusato",
+            "repo": "xintalng_pinyin",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:54.998Z"
         },
         {
           "node_type": "item",
@@ -2282,7 +2282,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "25 lotem/rime-zhung",
+                  "title": "26 lotem/rime-zhung",
                   "description": "中原官話輸入方案",
                   "children": [],
                   "repo_info": {
@@ -2303,7 +2303,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "3 Patricivs/lakyang",
+                  "title": "4 Patricivs/lakyang",
                   "description": "中原官話洛陽方言",
                   "children": [],
                   "repo_info": {
@@ -2352,7 +2352,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "10 uliloewi/lang2jin1",
+                  "title": "11 uliloewi/lang2jin1",
                   "description": "南京話拼音输入法",
                   "children": [],
                   "repo_info": {
@@ -2450,7 +2450,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "24 Papnas/shupin",
+                  "title": "25 Papnas/shupin",
                   "description": "蜀拼",
                   "children": [],
                   "repo_info": {
@@ -2640,7 +2640,7 @@
             },
             {
               "node_type": "item",
-              "title": "45 NGLI/rime-wugniu_zaonhe",
+              "title": "46 NGLI/rime-wugniu_zaonhe",
               "description": "上海吳語拼音輸入方案",
               "children": [],
               "repo_info": {
@@ -3069,7 +3069,7 @@
             },
             {
               "node_type": "item",
-              "title": "3 Doohaey/GonnyuGeneralIME-Rime-Lancong",
+              "title": "4 Doohaey/GonnyuGeneralIME-Rime-Lancong",
               "description": "南昌话 Gan Lancong (Nanchang) Rime input method",
               "children": [],
               "repo_info": {
@@ -3118,27 +3118,6 @@
             },
             {
               "node_type": "item",
-              "title": "1 Doohaey/GonnyuGeneralIME-Rime-Yikyan-Henfeng",
-              "description": "弋阳－横峰话 Gan Yikyan-Henfeng (Yiyang–Hengfeng) Rime input method",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rime schema and dictionary for Yikyan-Henfeng (Yiyang-Hengfeng) Gon(Gan) Chinese",
-                "homepage": null,
-                "id": 1410734205,
-                "language": "Lua",
-                "license": null,
-                "last_commit": "2026-10-08T17:43:34Z",
-                "open_issues": 0,
-                "owner": "Doohaey",
-                "repo": "GonnyuGeneralIME-Rime-Yikyan-Henfeng",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-10-09T16:04:56.216Z"
-            },
-            {
-              "node_type": "item",
               "title": "1 Doohaey/GonnyuGeneralIME-Rime-Sinyi",
               "description": "新余话 Gan Sinyi (Xinyu) Rime input method",
               "children": [],
@@ -3157,6 +3136,27 @@
                 "topics": []
               },
               "first_seen": "2026-10-09T16:04:56.216Z"
+            },
+            {
+              "node_type": "item",
+              "title": "1 Doohaey/GonnyuGeneralIME-Rime-Yikyan-Henfeng",
+              "description": "弋阳－横峰话 Gan Yikyan-Henfeng (Yiyang–Hengfeng) Rime input method",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Rime schema and dictionary for Yikyan-Henfeng (Yiyang-Hengfeng) Gon(Gan) Chinese",
+                "homepage": null,
+                "id": 1410734205,
+                "language": "Lua",
+                "license": null,
+                "last_commit": "2026-10-08T17:43:34Z",
+                "open_issues": 0,
+                "owner": "Doohaey",
+                "repo": "GonnyuGeneralIME-Rime-Yikyan-Henfeng",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-09T16:04:56.216Z"
             }
           ]
         },
@@ -3167,7 +3167,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "5 AlfredLouis00/rime-Sautungva",
+              "title": "6 AlfredLouis00/rime-Sautungva",
               "description": "邵東話輸入方案",
               "children": [],
               "repo_info": {
@@ -3595,7 +3595,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "683 rime/rime-cantonese",
+              "title": "684 rime/rime-cantonese",
               "description": "Rime Cantonese input schema | 粵語拼音輸入方案",
               "children": [],
               "repo_info": {
@@ -4088,7 +4088,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "404 gkovacs/rime-japanese",
+          "title": "405 gkovacs/rime-japanese",
           "description": "日语输入法 Input method for typing Japanese with RIME",
           "children": [],
           "repo_info": {
@@ -4102,7 +4102,7 @@
             "open_issues": 9,
             "owner": "gkovacs",
             "repo": "rime-japanese",
-            "stars": 405,
+            "stars": 406,
             "topics": [
               "input-method",
               "japanese",
@@ -4115,7 +4115,7 @@
         },
         {
           "node_type": "item",
-          "title": "398 BlindingDark/rime-easy-en",
+          "title": "399 BlindingDark/rime-easy-en",
           "description": "Rime / Easy English 英文输入法",
           "children": [],
           "repo_info": {
@@ -4138,7 +4138,7 @@
         },
         {
           "node_type": "item",
-          "title": "211 tumuyan/rime-pinyin-jap",
+          "title": "212 tumuyan/rime-pinyin-jap",
           "description": "李さんの日本語入力方法：一個Rime日語方案，完全忽略音読訓読，使用漢語拼音录入日語漢字字形，使用羅馬音録入仮名。",
           "children": [],
           "repo_info": {
@@ -4159,7 +4159,7 @@
         },
         {
           "node_type": "item",
-          "title": "75 rime/rime-ipa",
+          "title": "76 rime/rime-ipa",
           "description": "IPA / 國際音標輸入方案",
           "children": [],
           "repo_info": {
@@ -4674,7 +4674,7 @@
         },
         {
           "node_type": "item",
-          "title": "8 pearapple123/rime-chunom",
+          "title": "9 pearapple123/rime-chunom",
           "description": "越南古代喃字（Chữ Nôm）输入方案 An IME for Chu Nom",
           "children": [],
           "repo_info": {
@@ -5495,7 +5495,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "19641 iDvel/rime-ice",
+          "title": "19746 iDvel/rime-ice",
           "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
           "children": [],
           "repo_info": {
@@ -5509,7 +5509,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19745,
+            "stars": 19755,
             "topics": [
               "rime",
               "rime-config",
@@ -5523,7 +5523,7 @@
         },
         {
           "node_type": "item",
-          "title": "3705 gaboolic/rime-frost",
+          "title": "3731 gaboolic/rime-frost",
           "description": "白霜拼音，使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。",
           "children": [],
           "repo_info": {
@@ -5533,18 +5533,18 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T04:08:28Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-14T09:32:05Z",
+            "open_issues": 14,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3730,
+            "stars": 3732,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
         {
           "node_type": "item",
-          "title": "3534 maomiui/rime",
+          "title": "3531 maomiui/rime",
           "description": "Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置",
           "children": [],
           "repo_info": {
@@ -5558,14 +5558,14 @@
             "open_issues": 46,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3531,
+            "stars": 3530,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
         {
           "node_type": "item",
-          "title": "1063 gaboolic/rime-shuangpin-fuzhuma",
+          "title": "1065 gaboolic/rime-shuangpin-fuzhuma",
           "description": "墨奇音形，支持自然码、小鹤、搜狗、微软双拼,是一个基于字形描述信息、递归拆分，最后取首末双形音托的码表开源的方案，墨奇码的拆分码表已开源，目前已经拆分完成全部的通用规范汉字、常用繁体字，总计支持4万字。",
           "children": [],
           "repo_info": {
@@ -5579,14 +5579,14 @@
             "open_issues": 15,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1064,
+            "stars": 1065,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
         },
         {
           "node_type": "item",
-          "title": "339 ksqsf/rime-moran",
+          "title": "341 ksqsf/rime-moran",
           "description": "自然码及整句辅助方案",
           "children": [],
           "repo_info": {
@@ -5651,7 +5651,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "354 gaboolic/moqi-im-windows",
+          "title": "374 gaboolic/moqi-im-windows",
           "description": "墨奇输入法windows版。已接入librime（中州韵），内置白霜拼音。原生支持AI功能。托盘菜单支持主题替换、输入状态切换等功能。",
           "children": [],
           "repo_info": {
@@ -5665,7 +5665,7 @@
             "open_issues": 36,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 372,
+            "stars": 374,
             "topics": [
               "input-method",
               "input-methods"
@@ -5811,7 +5811,7 @@
         },
         {
           "node_type": "item",
-          "title": "11 CauT/GuruIM",
+          "title": "12 CauT/GuruIM",
           "description": "GuruIM (咕噜输入法) iOS RIME 客户端，集成 AI 驱动的个人数据洞察与智能调频，内置雾凇拼音",
           "children": [],
           "repo_info": {
@@ -5990,7 +5990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T16:52:55.949Z",
+    "last_updated": "2026-10-14T14:27:26.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -5998,11 +5998,11 @@
       "id": 214790541,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-13T08:30:08Z",
+      "last_commit": "2026-10-14T05:41:57Z",
       "open_issues": 7,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1509,
+      "stars": 1511,
       "topics": [
         "awesome",
         "awesome-list",
@@ -6010,7 +6010,7 @@
         "rime-schema"
       ]
     },
-    "original_repository_sha": "bfb7674fcee6786649d1e25e82f249ef3d3999f1",
+    "original_repository_sha": "18a02de2fcfa8b2dde462ac4868046efb18310fd",
     "enhanced_repository": "enhansome/enhansome-rime",
     "enhanced_repository_description": null,
     "title": "awesome-rime with stars"
