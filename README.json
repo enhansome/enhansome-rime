@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1688,
+            "stars": 1689,
             "topics": [
               "android",
               "ggtt",
@@ -88,7 +88,7 @@
             "open_issues": 17,
             "owner": "rime",
             "repo": "rime-wubi",
-            "stars": 347,
+            "stars": 348,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -3609,7 +3609,7 @@
                 "open_issues": 13,
                 "owner": "rime",
                 "repo": "rime-cantonese",
-                "stars": 686,
+                "stars": 687,
                 "topics": [
                   "cantonese",
                   "cantonese-dictionary",
@@ -5509,7 +5509,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19801,
+            "stars": 19817,
             "topics": [
               "rime",
               "rime-config",
@@ -5533,11 +5533,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-18T04:07:48Z",
+            "last_commit": "2026-10-19T04:30:20Z",
             "open_issues": 14,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3740,
+            "stars": 3741,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5579,7 +5579,7 @@
             "open_issues": 15,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1068,
+            "stars": 1071,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5596,7 +5596,7 @@
             "id": 594648540,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T11:13:41Z",
+            "last_commit": "2026-10-18T18:59:06Z",
             "open_issues": 0,
             "owner": "rimeinn",
             "repo": "rime-moran",
@@ -5662,10 +5662,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-18T01:38:31Z",
-            "open_issues": 39,
+            "open_issues": 38,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 376,
+            "stars": 377,
             "topics": [
               "input-method",
               "input-methods"
@@ -5990,7 +5990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:09:35.167Z",
+    "last_updated": "2026-10-19T16:24:18.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
