@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T22:19:37Z",
+            "last_commit": "2026-10-19T23:12:59Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -3049,7 +3049,7 @@
                 "id": 1352337080,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T05:27:39Z",
+                "last_commit": "2026-10-19T19:19:32Z",
                 "open_issues": 0,
                 "owner": "Doohaey",
                 "repo": "GonnyuGeneralIME-Rime-Fenni",
@@ -3079,7 +3079,7 @@
                 "id": 1352334703,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T05:27:32Z",
+                "last_commit": "2026-10-19T19:19:27Z",
                 "open_issues": 0,
                 "owner": "Doohaey",
                 "repo": "GonnyuGeneralIME-Rime-Lancong",
@@ -3107,7 +3107,7 @@
                 "id": 1379184278,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T05:27:44Z",
+                "last_commit": "2026-10-19T19:19:36Z",
                 "open_issues": 0,
                 "owner": "Doohaey",
                 "repo": "GonnyuGeneralIME-Rime-Fungcen",
@@ -3127,8 +3127,8 @@
                 "homepage": null,
                 "id": 1410735095,
                 "language": "Lua",
-                "license": null,
-                "last_commit": "2026-10-17T05:27:55Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-19T19:19:45Z",
                 "open_issues": 0,
                 "owner": "Doohaey",
                 "repo": "GonnyuGeneralIME-Rime-Sinyi",
@@ -3148,8 +3148,8 @@
                 "homepage": null,
                 "id": 1410734205,
                 "language": "Lua",
-                "license": null,
-                "last_commit": "2026-10-17T05:27:51Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-19T19:19:41Z",
                 "open_issues": 0,
                 "owner": "Doohaey",
                 "repo": "GonnyuGeneralIME-Rime-Yikyan-Henfeng",
@@ -3157,6 +3157,27 @@
                 "topics": []
               },
               "first_seen": "2026-10-09T16:04:56.216Z"
+            },
+            {
+              "node_type": "item",
+              "title": "0 Doohaey/GonnyuGeneralIME-Rime-Goungon",
+              "description": "高安话 Gan Goungon (Gaoan) Rime input method",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Rime schema and dictionary for Goungon (Gaoan) Gon(Gan) Chinese",
+                "homepage": null,
+                "id": 1426031908,
+                "language": "Lua",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-19T19:19:50Z",
+                "open_issues": 0,
+                "owner": "Doohaey",
+                "repo": "GonnyuGeneralIME-Rime-Goungon",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-20T14:14:59.394Z"
             }
           ]
         },
@@ -3481,7 +3502,7 @@
                 "open_issues": 9,
                 "owner": "only3km",
                 "repo": "ciklinbekin",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "dictionary"
                 ]
@@ -4152,7 +4173,7 @@
             "open_issues": 1,
             "owner": "tumuyan",
             "repo": "rime-pinyin-jap",
-            "stars": 212,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5509,7 +5530,7 @@
             "open_issues": 5,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19817,
+            "stars": 19831,
             "topics": [
               "rime",
               "rime-config",
@@ -5533,11 +5554,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-19T04:30:20Z",
+            "last_commit": "2026-10-20T08:42:45Z",
             "open_issues": 14,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3741,
+            "stars": 3746,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5600,7 +5621,7 @@
             "open_issues": 0,
             "owner": "rimeinn",
             "repo": "rime-moran",
-            "stars": 341,
+            "stars": 342,
             "topics": [
               "chinese",
               "double-pinyin",
@@ -5990,7 +6011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T16:24:18.669Z",
+    "last_updated": "2026-10-20T14:14:59.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -5998,11 +6019,11 @@
       "id": 214790541,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-14T05:41:57Z",
+      "last_commit": "2026-10-19T18:53:33Z",
       "open_issues": 8,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1514,
+      "stars": 1513,
       "topics": [
         "awesome",
         "awesome-list",
@@ -6010,7 +6031,7 @@
         "rime-schema"
       ]
     },
-    "original_repository_sha": "18a02de2fcfa8b2dde462ac4868046efb18310fd",
+    "original_repository_sha": "95355b5cf36c8341b3041f2d226782d5cbb6ba5f",
     "enhanced_repository": "enhansome/enhansome-rime",
     "enhanced_repository_description": null,
     "title": "awesome-rime with stars"
