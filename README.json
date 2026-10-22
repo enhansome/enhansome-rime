@@ -409,7 +409,7 @@
             "open_issues": 3,
             "owner": "GongMu",
             "repo": "rime-zhengma",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -1379,11 +1379,11 @@
             "id": 292112591,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-10-17T15:19:40Z",
+            "last_commit": "2026-10-22T10:19:34Z",
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
-            "stars": 335,
+            "stars": 336,
             "topics": [
               "bopomofo",
               "hangeul",
@@ -3149,7 +3149,7 @@
                 "id": 1410734205,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-21T13:45:19Z",
+                "last_commit": "2026-10-21T16:36:16Z",
                 "open_issues": 0,
                 "owner": "Doohaey",
                 "repo": "GonnyuGeneralIME-Rime-Yikyan-Henfeng",
@@ -3686,7 +3686,7 @@
                 "open_issues": 0,
                 "owner": "MrCorn0-0",
                 "repo": "jyutsp",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
@@ -4123,7 +4123,7 @@
             "open_issues": 9,
             "owner": "gkovacs",
             "repo": "rime-japanese",
-            "stars": 407,
+            "stars": 409,
             "topics": [
               "input-method",
               "japanese",
@@ -5527,10 +5527,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T13:37:02Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19850,
+            "stars": 19862,
             "topics": [
               "rime",
               "rime-config",
@@ -5554,11 +5554,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-21T04:10:15Z",
+            "last_commit": "2026-10-22T04:08:23Z",
             "open_issues": 14,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3752,
+            "stars": 3761,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5579,7 +5579,7 @@
             "open_issues": 46,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3529,
+            "stars": 3531,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5600,7 +5600,7 @@
             "open_issues": 15,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1071,
+            "stars": 1073,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5618,7 +5618,7 @@
             "language": "Lua",
             "license": "NOASSERTION",
             "last_commit": "2026-10-18T18:59:06Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "rimeinn",
             "repo": "rime-moran",
             "stars": 342,
@@ -5686,7 +5686,7 @@
             "open_issues": 39,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 379,
+            "stars": 380,
             "topics": [
               "input-method",
               "input-methods"
@@ -6011,7 +6011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:26:39.118Z",
+    "last_updated": "2026-10-22T14:28:07.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -6023,7 +6023,7 @@
       "open_issues": 8,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1514,
+      "stars": 1515,
       "topics": [
         "awesome",
         "awesome-list",
