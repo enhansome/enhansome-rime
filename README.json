@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1690,
+            "stars": 1689,
             "topics": [
               "android",
               "ggtt",
@@ -88,7 +88,7 @@
             "open_issues": 17,
             "owner": "rime",
             "repo": "rime-wubi",
-            "stars": 348,
+            "stars": 349,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-22T22:51:37Z",
+            "last_commit": "2026-10-23T22:45:26Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -1383,7 +1383,7 @@
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "bopomofo",
               "hangeul",
@@ -3128,7 +3128,7 @@
                 "id": 1410735095,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T12:51:33Z",
+                "last_commit": "2026-10-23T15:37:24Z",
                 "open_issues": 0,
                 "owner": "Doohaey",
                 "repo": "GonnyuGeneralIME-Rime-Sinyi",
@@ -5530,7 +5530,7 @@
             "open_issues": 6,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19877,
+            "stars": 19883,
             "topics": [
               "rime",
               "rime-config",
@@ -5554,11 +5554,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T04:08:43Z",
+            "last_commit": "2026-10-24T04:06:45Z",
             "open_issues": 14,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3768,
+            "stars": 3772,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5600,7 +5600,7 @@
             "open_issues": 15,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1074,
+            "stars": 1073,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5621,7 +5621,7 @@
             "open_issues": 0,
             "owner": "rimeinn",
             "repo": "rime-moran",
-            "stars": 341,
+            "stars": 340,
             "topics": [
               "chinese",
               "double-pinyin",
@@ -5644,9 +5644,9 @@
             "description": "用漢語拼音打臺灣正體字與臺灣用語：Rime 設定與詞庫，Linux（fcitx5）與 Windows（小狼毫）共用 / Taiwan-standard Traditional Chinese with Hanyu Pinyin for Rime",
             "homepage": null,
             "id": 1416650642,
-            "language": "Python",
+            "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T07:55:21Z",
+            "last_commit": "2026-10-24T11:03:26Z",
             "open_issues": 0,
             "owner": "ianTPE",
             "repo": "rime-taiwan-pinyin",
@@ -5686,7 +5686,7 @@
             "open_issues": 39,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 383,
+            "stars": 382,
             "topics": [
               "input-method",
               "input-methods"
@@ -6011,7 +6011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:11:12.038Z",
+    "last_updated": "2026-10-24T13:14:31.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
