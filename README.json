@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1690,
+            "stars": 1691,
             "topics": [
               "android",
               "ggtt",
@@ -47,11 +47,11 @@
             "id": 300808002,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-07-30T09:54:32Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-26T12:28:27Z",
+            "open_issues": 4,
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1139,
+            "stars": 1138,
             "topics": [
               "config",
               "configs",
@@ -88,7 +88,7 @@
             "open_issues": 17,
             "owner": "rime",
             "repo": "rime-wubi",
-            "stars": 349,
+            "stars": 350,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -155,7 +155,7 @@
             "open_issues": 1,
             "owner": "xkinput",
             "repo": "KeyTao",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "ime",
               "keytao",
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T05:04:07Z",
+            "last_commit": "2026-10-25T22:10:27Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -1379,11 +1379,11 @@
             "id": 292112591,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-10-25T12:02:13Z",
+            "last_commit": "2026-10-25T14:22:12Z",
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
-            "stars": 338,
+            "stars": 336,
             "topics": [
               "bopomofo",
               "hangeul",
@@ -2046,7 +2046,7 @@
                 "id": 585748497,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-25T05:53:45Z",
+                "last_commit": "2026-10-26T06:08:25Z",
                 "open_issues": 0,
                 "owner": "Hulenkius",
                 "repo": "RIME_OC_collections",
@@ -2362,7 +2362,7 @@
                     "id": 169585833,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-10-17T08:38:51Z",
+                    "last_commit": "2026-10-25T21:50:51Z",
                     "open_issues": 0,
                     "owner": "uliloewi",
                     "repo": "lang2jin1",
@@ -4123,7 +4123,7 @@
             "open_issues": 9,
             "owner": "gkovacs",
             "repo": "rime-japanese",
-            "stars": 409,
+            "stars": 408,
             "topics": [
               "input-method",
               "japanese",
@@ -4484,27 +4484,6 @@
         },
         {
           "node_type": "item",
-          "title": "13 LiGhauNgyan/rime-korean",
-          "description": "Rime Korean input schema | 韓國語輸入方案",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Rime Korean input schema | 韓國語輸入方案",
-            "homepage": null,
-            "id": 275165955,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2020-06-26T14:15:18Z",
-            "open_issues": 0,
-            "owner": "LiGhauNgyan",
-            "repo": "rime-korean",
-            "stars": 13,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:54.998Z"
-        },
-        {
-          "node_type": "item",
           "title": "13 biopolyhedron/rime-hieroglyph-mdc",
           "description": "埃及象形文字聖書體MdC轉寫",
           "children": [],
@@ -4519,6 +4498,27 @@
             "open_issues": 0,
             "owner": "biopolyhedron",
             "repo": "rime-hieroglyph-mdc",
+            "stars": 14,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:54.998Z"
+        },
+        {
+          "node_type": "item",
+          "title": "13 LiGhauNgyan/rime-korean",
+          "description": "Rime Korean input schema | 韓國語輸入方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Rime Korean input schema | 韓國語輸入方案",
+            "homepage": null,
+            "id": 275165955,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2020-06-26T14:15:18Z",
+            "open_issues": 0,
+            "owner": "LiGhauNgyan",
+            "repo": "rime-korean",
             "stars": 13,
             "topics": []
           },
@@ -5530,7 +5530,7 @@
             "open_issues": 6,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19898,
+            "stars": 19910,
             "topics": [
               "rime",
               "rime-config",
@@ -5554,11 +5554,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T04:07:32Z",
+            "last_commit": "2026-10-26T04:07:32Z",
             "open_issues": 14,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3776,
+            "stars": 3778,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5597,7 +5597,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-09-22T02:23:58Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
             "stars": 1072,
@@ -5617,11 +5617,11 @@
             "id": 594648540,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T00:04:30Z",
+            "last_commit": "2026-10-26T14:55:20Z",
             "open_issues": 0,
             "owner": "rimeinn",
             "repo": "rime-moran",
-            "stars": 340,
+            "stars": 341,
             "topics": [
               "chinese",
               "double-pinyin",
@@ -5686,7 +5686,7 @@
             "open_issues": 40,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 382,
+            "stars": 384,
             "topics": [
               "input-method",
               "input-methods"
@@ -6011,7 +6011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:39:55.938Z",
+    "last_updated": "2026-10-26T16:03:32.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -6023,7 +6023,7 @@
       "open_issues": 8,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1515,
+      "stars": 1517,
       "topics": [
         "awesome",
         "awesome-list",
