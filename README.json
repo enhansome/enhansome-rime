@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1695,
+            "stars": 1694,
             "topics": [
               "android",
               "ggtt",
@@ -51,7 +51,7 @@
             "open_issues": 4,
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1141,
+            "stars": 1142,
             "topics": [
               "config",
               "configs",
@@ -761,27 +761,6 @@
         },
         {
           "node_type": "item",
-          "title": "12 chiahsien/RimeDayi",
-          "description": "給中州韻輸入法用的大易字碼表",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "給中州韻輸入法用的大易字碼表",
-            "homepage": null,
-            "id": 43426156,
-            "language": null,
-            "license": null,
-            "last_commit": "2015-09-30T10:12:28Z",
-            "open_issues": 0,
-            "owner": "chiahsien",
-            "repo": "RimeDayi",
-            "stars": 12,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:54.998Z"
-        },
-        {
-          "node_type": "item",
           "title": "12 liming2013/rime-flypy-xhup",
           "description": "rime平台下的小鹤双拼（加形）配置方案",
           "children": [],
@@ -796,6 +775,27 @@
             "open_issues": 2,
             "owner": "liming2013",
             "repo": "rime-flypy-xhup",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:54.998Z"
+        },
+        {
+          "node_type": "item",
+          "title": "12 chiahsien/RimeDayi",
+          "description": "給中州韻輸入法用的大易字碼表",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "給中州韻輸入法用的大易字碼表",
+            "homepage": null,
+            "id": 43426156,
+            "language": null,
+            "license": null,
+            "last_commit": "2015-09-30T10:12:28Z",
+            "open_issues": 0,
+            "owner": "chiahsien",
+            "repo": "RimeDayi",
             "stars": 12,
             "topics": []
           },
@@ -2366,7 +2366,7 @@
                     "open_issues": 0,
                     "owner": "uliloewi",
                     "repo": "lang2jin1",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:54.998Z"
@@ -4123,7 +4123,7 @@
             "open_issues": 9,
             "owner": "gkovacs",
             "repo": "rime-japanese",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "input-method",
               "japanese",
@@ -5526,11 +5526,11 @@
             "id": 334110599,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T13:37:02Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-31T12:00:36Z",
+            "open_issues": 7,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 19969,
+            "stars": 19977,
             "topics": [
               "rime",
               "rime-config",
@@ -5554,7 +5554,7 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T04:12:41Z",
+            "last_commit": "2026-10-31T04:12:02Z",
             "open_issues": 14,
             "owner": "gaboolic",
             "repo": "rime-frost",
@@ -5579,7 +5579,7 @@
             "open_issues": 46,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3533,
+            "stars": 3534,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5600,7 +5600,7 @@
             "open_issues": 16,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1073,
+            "stars": 1074,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5686,7 +5686,7 @@
             "open_issues": 40,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 386,
+            "stars": 385,
             "topics": [
               "input-method",
               "input-methods"
@@ -6011,7 +6011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:48:19.426Z",
+    "last_updated": "2026-10-31T15:15:07.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
