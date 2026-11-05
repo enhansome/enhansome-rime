@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1696,
+            "stars": 1697,
             "topics": [
               "android",
               "ggtt",
@@ -151,7 +151,7 @@
             "id": 247484607,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-11-04T02:00:20Z",
+            "last_commit": "2026-11-05T08:02:06Z",
             "open_issues": 1,
             "owner": "xkinput",
             "repo": "KeyTao",
@@ -245,7 +245,7 @@
             "open_issues": 7,
             "owner": "rime",
             "repo": "rime-cangjie",
-            "stars": 55,
+            "stars": 56,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-04T11:54:51Z",
+            "last_commit": "2026-11-05T00:37:34Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -1362,7 +1362,7 @@
             "open_issues": 9,
             "owner": "rime",
             "repo": "rime-double-pinyin",
-            "stars": 480,
+            "stars": 479,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -1379,7 +1379,7 @@
             "id": 292112591,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-10-28T16:21:14Z",
+            "last_commit": "2026-11-05T12:07:58Z",
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
@@ -2959,7 +2959,7 @@
             {
               "node_type": "item",
               "title": "2 ionkaon/rime-old-nyingpo",
-              "description": "清末寧波話輸入方案",
+              "description": "晚清寧波話輸入方案",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3029,6 +3029,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:48:54.998Z"
+            },
+            {
+              "node_type": "item",
+              "title": "1 shinzoqchiuq/rime-wugniu_gninpou_old",
+              "description": "推導的晚清寧波話吳語拼音輸入方案",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "推導的晚清寧波話吳語拼音輸入方案",
+                "homepage": null,
+                "id": 1372427613,
+                "language": null,
+                "license": "LGPL-3.0",
+                "last_commit": "2026-11-02T01:42:00Z",
+                "open_issues": 0,
+                "owner": "shinzoqchiuq",
+                "repo": "rime-wugniu_gninpou_old",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-05T17:18:10.152Z"
             }
           ]
         },
@@ -3079,7 +3100,7 @@
                 "id": 1352334703,
                 "language": "Lua",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-02T05:51:05Z",
+                "last_commit": "2026-11-05T08:55:23Z",
                 "open_issues": 0,
                 "owner": "Doohaey",
                 "repo": "GonnyuGeneralIME-Rime-Lancong",
@@ -4150,7 +4171,7 @@
             "open_issues": 3,
             "owner": "BlindingDark",
             "repo": "rime-easy-en",
-            "stars": 399,
+            "stars": 400,
             "topics": [
               "rime"
             ]
@@ -5530,7 +5551,7 @@
             "open_issues": 8,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 20027,
+            "stars": 20041,
             "topics": [
               "rime",
               "rime-config",
@@ -5558,7 +5579,7 @@
             "open_issues": 14,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3803,
+            "stars": 3810,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5576,10 +5597,10 @@
             "language": "Lua",
             "license": null,
             "last_commit": "2026-03-22T12:25:31Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3533,
+            "stars": 3531,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5600,7 +5621,7 @@
             "open_issues": 16,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1077,
+            "stars": 1079,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5686,7 +5707,7 @@
             "open_issues": 40,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 385,
+            "stars": 386,
             "topics": [
               "input-method",
               "input-methods"
@@ -6011,7 +6032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:03:00.564Z",
+    "last_updated": "2026-11-05T17:18:10.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -6019,7 +6040,7 @@
       "id": 214790541,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-11-04T05:35:56Z",
+      "last_commit": "2026-11-05T00:32:56Z",
       "open_issues": 7,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
@@ -6031,7 +6052,7 @@
         "rime-schema"
       ]
     },
-    "original_repository_sha": "df3d0fe58aa2982d425a94a9d390b4758d241600",
+    "original_repository_sha": "3a095c2240fcbf87b3abfa199c011e28b3724fdb",
     "enhanced_repository": "enhansome/enhansome-rime",
     "enhanced_repository_description": null,
     "title": "awesome-rime with stars"
