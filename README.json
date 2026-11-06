@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1697,
+            "stars": 1700,
             "topics": [
               "android",
               "ggtt",
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T00:37:34Z",
+            "last_commit": "2026-11-06T00:38:04Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -1379,11 +1379,11 @@
             "id": 292112591,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-11-05T12:07:58Z",
+            "last_commit": "2026-11-06T16:07:55Z",
             "open_issues": 0,
             "owner": "oniondelta",
             "repo": "Onion_Rime_Files",
-            "stars": 336,
+            "stars": 335,
             "topics": [
               "bopomofo",
               "hangeul",
@@ -4171,7 +4171,7 @@
             "open_issues": 3,
             "owner": "BlindingDark",
             "repo": "rime-easy-en",
-            "stars": 400,
+            "stars": 399,
             "topics": [
               "rime"
             ]
@@ -5551,7 +5551,7 @@
             "open_issues": 8,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 20041,
+            "stars": 20057,
             "topics": [
               "rime",
               "rime-config",
@@ -5579,7 +5579,7 @@
             "open_issues": 14,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3810,
+            "stars": 3811,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5707,7 +5707,7 @@
             "open_issues": 40,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 386,
+            "stars": 387,
             "topics": [
               "input-method",
               "input-methods"
@@ -5867,7 +5867,7 @@
             "open_issues": 0,
             "owner": "CauT",
             "repo": "GuruIM",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "ai",
               "input-method",
@@ -6032,7 +6032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T17:18:10.152Z",
+    "last_updated": "2026-11-06T16:41:47.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -6041,7 +6041,7 @@
       "language": null,
       "license": "CC-BY-4.0",
       "last_commit": "2026-11-05T00:32:56Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
       "stars": 1527,
