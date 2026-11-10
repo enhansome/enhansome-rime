@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1702,
+            "stars": 1703,
             "topics": [
               "android",
               "ggtt",
@@ -224,7 +224,7 @@
             "open_issues": 0,
             "owner": "bigshans",
             "repo": "rime-zrm",
-            "stars": 65,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T03:53:35Z",
+            "last_commit": "2026-11-10T02:28:00Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -388,7 +388,7 @@
             "open_issues": 3,
             "owner": "GongMu",
             "repo": "rime-zhengma",
-            "stars": 28,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -487,27 +487,6 @@
         },
         {
           "node_type": "item",
-          "title": "19 zongxinbo/rime-zong",
-          "description": "RIME 四种方案 (龙渊郑码、倉頡五代、四角号码和行列30)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "RIME方案 (拼音、自然码、仓颉、郑码、四角号码和日语)",
-            "homepage": null,
-            "id": 61268347,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-07-08T06:56:05Z",
-            "open_issues": 0,
-            "owner": "zongxinbo",
-            "repo": "rime-zong",
-            "stars": 19,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:54.998Z"
-        },
-        {
-          "node_type": "item",
           "title": "18 zeylei/ghcm",
           "description": "矧(shěn)码，又名神码",
           "children": [],
@@ -523,6 +502,27 @@
             "owner": "raines1220",
             "repo": "ghcm",
             "stars": 19,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:48:54.998Z"
+        },
+        {
+          "node_type": "item",
+          "title": "19 zongxinbo/rime-zong",
+          "description": "RIME 四种方案 (龙渊郑码、倉頡五代、四角号码和行列30)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "RIME方案 (拼音、自然码、仓颉、郑码、四角号码和日语)",
+            "homepage": null,
+            "id": 61268347,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-07-08T06:56:05Z",
+            "open_issues": 0,
+            "owner": "zongxinbo",
+            "repo": "rime-zong",
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -581,8 +581,8 @@
             "id": 74138685,
             "language": null,
             "license": "LGPL-3.0",
-            "last_commit": "2026-07-17T03:53:23Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-10T07:27:27Z",
+            "open_issues": 0,
             "owner": "rime",
             "repo": "rime-quick",
             "stars": 17,
@@ -1459,7 +1459,7 @@
             "open_issues": 4,
             "owner": "rime",
             "repo": "rime-pinyin-simp",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5653,10 +5653,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-10-31T12:00:36Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 20105,
+            "stars": 20123,
             "topics": [
               "rime",
               "rime-config",
@@ -5680,11 +5680,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T04:06:10Z",
+            "last_commit": "2026-11-10T04:07:37Z",
             "open_issues": 14,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3823,
+            "stars": 3825,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5812,7 +5812,7 @@
             "open_issues": 41,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 389,
+            "stars": 392,
             "topics": [
               "input-method",
               "input-methods"
@@ -6137,7 +6137,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T19:43:03.273Z",
+    "last_updated": "2026-11-10T16:57:20.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -6149,7 +6149,7 @@
       "open_issues": 8,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1529,
+      "stars": 1530,
       "topics": [
         "awesome",
         "awesome-list",
