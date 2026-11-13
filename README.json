@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1704,
+            "stars": 1706,
             "topics": [
               "android",
               "ggtt",
@@ -149,9 +149,9 @@
             "description": "星空键道6是星空系列输入法中的一款双拼音形码顶功中文输入法方案，「Rime键道」是该方案借助RIME开源输入平台的实现。",
             "homepage": "https://keytao.vercel.app",
             "id": 247484607,
-            "language": "Lua",
+            "language": "C++",
             "license": null,
-            "last_commit": "2026-11-11T02:00:18Z",
+            "last_commit": "2026-11-13T15:38:57Z",
             "open_issues": 1,
             "owner": "xkinput",
             "repo": "KeyTao",
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T01:44:33Z",
+            "last_commit": "2026-11-13T07:11:47Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -4320,7 +4320,7 @@
             "open_issues": 6,
             "owner": "rime",
             "repo": "rime-ipa",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5656,7 +5656,7 @@
             "open_issues": 10,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 20157,
+            "stars": 20179,
             "topics": [
               "rime",
               "rime-config",
@@ -5680,11 +5680,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T04:08:00Z",
+            "last_commit": "2026-11-13T05:43:05Z",
             "open_issues": 15,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3827,
+            "stars": 3825,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5705,7 +5705,7 @@
             "open_issues": 47,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3530,
+            "stars": 3529,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5743,7 +5743,7 @@
             "id": 594648540,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T14:19:23Z",
+            "last_commit": "2026-11-13T11:26:20Z",
             "open_issues": 0,
             "owner": "rimeinn",
             "repo": "rime-moran",
@@ -6137,7 +6137,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T17:30:11.935Z",
+    "last_updated": "2026-11-13T17:07:16.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -6149,7 +6149,7 @@
       "open_issues": 8,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1532,
+      "stars": 1533,
       "topics": [
         "awesome",
         "awesome-list",
