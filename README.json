@@ -51,7 +51,7 @@
             "open_issues": 4,
             "owner": "SivanLaai",
             "repo": "rime-pure",
-            "stars": 1148,
+            "stars": 1149,
             "topics": [
               "config",
               "configs",
@@ -310,11 +310,11 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T00:33:10Z",
+            "last_commit": "2026-11-16T10:55:08Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "colemak-dh",
               "ime",
@@ -1339,6 +1339,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
+        },
+        {
+          "node_type": "item",
+          "title": "0 chenlin014/rime-siyuan",
+          "description": "思源形義輸入法，又名原碼",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "思源形義輸入法",
+            "homepage": null,
+            "id": 910720431,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2026-11-16T05:59:24Z",
+            "open_issues": 0,
+            "owner": "chenlin014",
+            "repo": "rime-siyuan",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-16T19:29:42.627Z"
         }
       ],
       "title": "形碼・音形"
@@ -2362,7 +2383,7 @@
                     "id": 169585833,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-11-09T15:02:53Z",
+                    "last_commit": "2026-11-15T17:01:45Z",
                     "open_issues": 0,
                     "owner": "uliloewi",
                     "repo": "lang2jin1",
@@ -2654,7 +2675,7 @@
                 "open_issues": 0,
                 "owner": "NGLI",
                 "repo": "rime-wugniu_zaonhe",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "chinese",
                   "chinese-dialects",
@@ -3523,9 +3544,9 @@
                 "description": "Rime Bân-lâm-gú Lô-má-jī su-ji̍p hong-àn.  Rime 閩南語羅馬字輸入方案。",
                 "homepage": null,
                 "id": 244589180,
-                "language": null,
+                "language": "Lua",
                 "license": null,
-                "last_commit": "2025-03-15T07:48:29Z",
+                "last_commit": "2026-11-16T15:16:24Z",
                 "open_issues": 0,
                 "owner": "unsioer",
                 "repo": "rime-lomaji",
@@ -3756,7 +3777,7 @@
                 "open_issues": 12,
                 "owner": "rime",
                 "repo": "rime-cantonese",
-                "stars": 693,
+                "stars": 694,
                 "topics": [
                   "cantonese",
                   "cantonese-dictionary",
@@ -4249,7 +4270,7 @@
             "open_issues": 9,
             "owner": "gkovacs",
             "repo": "rime-japanese",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "input-method",
               "japanese",
@@ -4276,7 +4297,7 @@
             "open_issues": 3,
             "owner": "BlindingDark",
             "repo": "rime-easy-en",
-            "stars": 399,
+            "stars": 400,
             "topics": [
               "rime"
             ]
@@ -5653,10 +5674,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-11-11T10:50:25Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 20204,
+            "stars": 20226,
             "topics": [
               "rime",
               "rime-config",
@@ -5680,11 +5701,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-15T10:26:26Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-16T04:07:00Z",
+            "open_issues": 16,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3833,
+            "stars": 3835,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5705,7 +5726,7 @@
             "open_issues": 47,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3530,
+            "stars": 3529,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5743,7 +5764,7 @@
             "id": 594648540,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T20:12:48Z",
+            "last_commit": "2026-11-16T09:00:00Z",
             "open_issues": 0,
             "owner": "rimeinn",
             "repo": "rime-moran",
@@ -5812,7 +5833,7 @@
             "open_issues": 41,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "input-method",
               "input-methods"
@@ -5833,7 +5854,7 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-07T17:59:27Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "rime",
             "repo": "rime-emoji",
             "stars": 370,
@@ -5947,8 +5968,8 @@
             "id": 1409383360,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T10:25:16Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-16T19:26:52Z",
+            "open_issues": 18,
             "owner": "MicroZ-LLC",
             "repo": "AllInOneIME",
             "stars": 15,
@@ -6169,7 +6190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:14:41.149Z",
+    "last_updated": "2026-11-16T19:29:42.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -6177,11 +6198,11 @@
       "id": 214790541,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-11-13T17:40:07Z",
+      "last_commit": "2026-11-16T12:17:17Z",
       "open_issues": 7,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1532,
+      "stars": 1533,
       "topics": [
         "awesome",
         "awesome-list",
@@ -6189,7 +6210,7 @@
         "rime-schema"
       ]
     },
-    "original_repository_sha": "cfeffc1676bd249be5c908c87a893014dc9e4d81",
+    "original_repository_sha": "c30b2c61fac93ef33d78161c11820ba5b1260b1c",
     "enhanced_repository": "enhansome/enhansome-rime",
     "enhanced_repository_description": null,
     "title": "awesome-rime with stars"
