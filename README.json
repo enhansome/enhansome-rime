@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1706,
+            "stars": 1707,
             "topics": [
               "android",
               "ggtt",
@@ -245,7 +245,7 @@
             "open_issues": 7,
             "owner": "rime",
             "repo": "rime-cangjie",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -1434,8 +1434,8 @@
             "id": 74136678,
             "language": null,
             "license": "LGPL-3.0",
-            "last_commit": "2026-07-12T05:01:55Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-21T03:38:02Z",
+            "open_issues": 20,
             "owner": "rime",
             "repo": "rime-luna-pinyin",
             "stars": 287,
@@ -4270,7 +4270,7 @@
             "open_issues": 9,
             "owner": "gkovacs",
             "repo": "rime-japanese",
-            "stars": 414,
+            "stars": 415,
             "topics": [
               "input-method",
               "japanese",
@@ -4297,7 +4297,7 @@
             "open_issues": 3,
             "owner": "BlindingDark",
             "repo": "rime-easy-en",
-            "stars": 401,
+            "stars": 402,
             "topics": [
               "rime"
             ]
@@ -4320,7 +4320,7 @@
             "open_issues": 1,
             "owner": "tumuyan",
             "repo": "rime-pinyin-jap",
-            "stars": 214,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5677,7 +5677,7 @@
             "open_issues": 11,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 20291,
+            "stars": 20304,
             "topics": [
               "rime",
               "rime-config",
@@ -5701,11 +5701,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T04:06:25Z",
+            "last_commit": "2026-11-21T04:09:17Z",
             "open_issues": 17,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3848,
+            "stars": 3849,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5743,7 +5743,7 @@
             "id": 748148497,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-20T11:54:19Z",
+            "last_commit": "2026-11-20T22:30:20Z",
             "open_issues": 16,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
@@ -6190,7 +6190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:42:19.975Z",
+    "last_updated": "2026-11-21T16:43:28.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
@@ -6202,7 +6202,7 @@
       "open_issues": 7,
       "owner": "ayaka14732",
       "repo": "awesome-rime",
-      "stars": 1535,
+      "stars": 1536,
       "topics": [
         "awesome",
         "awesome-list",
