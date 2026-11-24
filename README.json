@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1708,
+            "stars": 1709,
             "topics": [
               "android",
               "ggtt",
@@ -88,7 +88,7 @@
             "open_issues": 17,
             "owner": "rime",
             "repo": "rime-wubi",
-            "stars": 354,
+            "stars": 355,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 0,
             "owner": "baopaau",
             "repo": "rime-yale-mandarin",
-            "stars": 1,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -2067,7 +2067,7 @@
                 "id": 585748497,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-26T06:08:25Z",
+                "last_commit": "2026-11-24T12:40:46Z",
                 "open_issues": 0,
                 "owner": "Hulenkius",
                 "repo": "RIME_OC_collections",
@@ -3777,7 +3777,7 @@
                 "open_issues": 12,
                 "owner": "rime",
                 "repo": "rime-cantonese",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "cantonese",
                   "cantonese-dictionary",
@@ -4297,7 +4297,7 @@
             "open_issues": 3,
             "owner": "BlindingDark",
             "repo": "rime-easy-en",
-            "stars": 402,
+            "stars": 403,
             "topics": [
               "rime"
             ]
@@ -5674,10 +5674,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-11-11T10:50:25Z",
-            "open_issues": 11,
+            "open_issues": 13,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 20341,
+            "stars": 20369,
             "topics": [
               "rime",
               "rime-config",
@@ -5701,11 +5701,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-23T08:39:43Z",
+            "last_commit": "2026-11-24T08:46:53Z",
             "open_issues": 5,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3854,
+            "stars": 3858,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5726,7 +5726,7 @@
             "open_issues": 47,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3530,
+            "stars": 3529,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5743,11 +5743,11 @@
             "id": 748148497,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-23T07:48:27Z",
+            "last_commit": "2026-11-24T02:45:37Z",
             "open_issues": 8,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1084,
+            "stars": 1083,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5764,8 +5764,8 @@
             "id": 594648540,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T09:00:00Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-24T19:58:41Z",
+            "open_issues": 0,
             "owner": "rimeinn",
             "repo": "rime-moran",
             "stars": 342,
@@ -5833,7 +5833,7 @@
             "open_issues": 41,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 400,
+            "stars": 402,
             "topics": [
               "input-method",
               "input-methods"
@@ -5968,11 +5968,11 @@
             "id": 1409383360,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T13:44:29Z",
+            "last_commit": "2026-11-24T17:48:27Z",
             "open_issues": 8,
             "owner": "MicroZ-LLC",
             "repo": "AllInOneIME",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "ai",
               "claude-code",
@@ -6190,7 +6190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T21:11:14.194Z",
+    "last_updated": "2026-11-24T20:05:21.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
