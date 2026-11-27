@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "KyleBing",
             "repo": "rime-wubi86-jidian",
-            "stars": 1709,
+            "stars": 1708,
             "topics": [
               "android",
               "ggtt",
@@ -88,7 +88,7 @@
             "open_issues": 17,
             "owner": "rime",
             "repo": "rime-wubi",
-            "stars": 355,
+            "stars": 356,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -151,7 +151,7 @@
             "id": 247484607,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-11-26T04:50:49Z",
+            "last_commit": "2026-11-27T09:09:51Z",
             "open_issues": 0,
             "owner": "xkinput",
             "repo": "KeyTao",
@@ -310,7 +310,7 @@
             "id": 342135737,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-26T18:00:24Z",
+            "last_commit": "2026-11-27T06:05:27Z",
             "open_issues": 1,
             "owner": "pingshunhuangalex",
             "repo": "rime-keydo",
@@ -1438,7 +1438,7 @@
             "open_issues": 20,
             "owner": "rime",
             "repo": "rime-luna-pinyin",
-            "stars": 288,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -3724,7 +3724,7 @@
                 "id": 166357324,
                 "language": null,
                 "license": null,
-                "last_commit": "2019-04-19T01:35:23Z",
+                "last_commit": "2026-11-27T03:02:10Z",
                 "open_issues": 1,
                 "owner": "syndict",
                 "repo": "Syndict-Rime-Hakka-Input-Schema",
@@ -5084,7 +5084,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-29T17:14:26Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "mkpoli",
             "repo": "rime-toki-pona-munjan",
             "stars": 5,
@@ -5677,7 +5677,7 @@
             "open_issues": 15,
             "owner": "iDvel",
             "repo": "rime-ice",
-            "stars": 20414,
+            "stars": 20419,
             "topics": [
               "rime",
               "rime-config",
@@ -5701,11 +5701,11 @@
             "id": 811705988,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-26T04:05:25Z",
+            "last_commit": "2026-11-27T04:05:22Z",
             "open_issues": 5,
             "owner": "gaboolic",
             "repo": "rime-frost",
-            "stars": 3868,
+            "stars": 3871,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5726,7 +5726,7 @@
             "open_issues": 47,
             "owner": "ssnhd",
             "repo": "rime",
-            "stars": 3530,
+            "stars": 3531,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5743,11 +5743,11 @@
             "id": 748148497,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-25T23:59:22Z",
+            "last_commit": "2026-11-27T00:18:24Z",
             "open_issues": 10,
             "owner": "gaboolic",
             "repo": "rime-shuangpin-fuzhuma",
-            "stars": 1083,
+            "stars": 1084,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
@@ -5833,7 +5833,7 @@
             "open_issues": 41,
             "owner": "gaboolic",
             "repo": "moqi-im-windows",
-            "stars": 404,
+            "stars": 406,
             "topics": [
               "input-method",
               "input-methods"
@@ -5931,6 +5931,44 @@
         },
         {
           "node_type": "item",
+          "title": "19 MicroZ-LLC/AllInOneIME",
+          "description": "macOS 输入法，接入 librime，内置雾凇拼音（模糊音）。任何输入框句首打 @improve / @translate / @question 回车，就地润色、翻译或提问。免费，可用自己的 AI key",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Talk to AI wherever you type. A macOS input method: @improve polishes, @translate translates, @question answers, @agent hands off to Claude Code, in any text field. Also a full pinyin input method.",
+            "homepage": "https://allinoneime.com",
+            "id": 1409383360,
+            "language": "Swift",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-27T09:56:28Z",
+            "open_issues": 15,
+            "owner": "MicroZ-LLC",
+            "repo": "AllInOneIME",
+            "stars": 40,
+            "topics": [
+              "ai",
+              "ai-assistant",
+              "chinese-input-method",
+              "claude-code",
+              "ime",
+              "input-method",
+              "llm",
+              "macos",
+              "macos-app",
+              "pinyin",
+              "productivity",
+              "rime",
+              "shuangpin",
+              "swift",
+              "translation",
+              "writing-assistant"
+            ]
+          },
+          "first_seen": "2026-11-14T15:43:07.324Z"
+        },
+        {
+          "node_type": "item",
           "title": "24 cgcel/rime_to_gboard",
           "description": "将 Rime userdb.txt 转换为 Gboard PersonalDictionary.zip 格式, 便于将词库导入 Gboard",
           "children": [],
@@ -5955,44 +5993,6 @@
             ]
           },
           "first_seen": "2026-08-28T20:48:54.998Z"
-        },
-        {
-          "node_type": "item",
-          "title": "19 MicroZ-LLC/AllInOneIME",
-          "description": "macOS 输入法，接入 librime，内置雾凇拼音（模糊音）。任何输入框句首打 @improve / @translate / @question 回车，就地润色、翻译或提问。免费，可用自己的 AI key",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Talk to AI wherever you type. A macOS input method: @improve polishes, @translate translates, @question answers, @agent hands off to Claude Code, in any text field. Also a full pinyin input method.",
-            "homepage": "https://allinoneime.com",
-            "id": 1409383360,
-            "language": "Swift",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-26T07:04:55Z",
-            "open_issues": 12,
-            "owner": "MicroZ-LLC",
-            "repo": "AllInOneIME",
-            "stars": 21,
-            "topics": [
-              "ai",
-              "ai-assistant",
-              "chinese-input-method",
-              "claude-code",
-              "ime",
-              "input-method",
-              "llm",
-              "macos",
-              "macos-app",
-              "pinyin",
-              "productivity",
-              "rime",
-              "shuangpin",
-              "swift",
-              "translation",
-              "writing-assistant"
-            ]
-          },
-          "first_seen": "2026-11-14T15:43:07.324Z"
         },
         {
           "node_type": "item",
@@ -6196,7 +6196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:56:37.955Z",
+    "last_updated": "2026-11-27T18:49:27.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表",
